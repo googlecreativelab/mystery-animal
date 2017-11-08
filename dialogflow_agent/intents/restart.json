@@ -1,0 +1,37 @@
+{
+  "id": "f9b432e6-7263-44b5-8326-e1d6018c4b4c",
+  "name": "restart",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "restart",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "22e87cc9-e21a-4124-953d-771316699ba3",
+          "dataType": "@newround",
+          "name": "newround",
+          "value": "$newround",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507646969,
+  "fallbackIntent": false,
+  "events": []
+}

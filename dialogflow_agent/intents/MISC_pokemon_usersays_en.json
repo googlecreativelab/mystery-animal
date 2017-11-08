@@ -1,0 +1,75 @@
+[
+  {
+    "id": "73980c64-c3dd-4d97-9c92-8680992e726a",
+    "data": [
+      {
+        "text": "you\u0027re",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bulbasaur",
+        "alias": "pokemon",
+        "meta": "@pokemon",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49fdaf29-9333-482f-b9e2-9d420929c353",
+    "data": [
+      {
+        "text": "are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "charizard",
+        "alias": "pokemon",
+        "meta": "@pokemon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "678a68a4-1d9d-4c05-9c6d-0cf6a88ae350",
+    "data": [
+      {
+        "text": "are you a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pokemon",
+        "alias": "pokemon",
+        "meta": "@pokemon",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "value": "carnivore",
+    "synonyms": [
+      "carnivore",
+      "meat-eater",
+      "meat only",
+      "only meat",
+      "only eats meat",
+      "only eat meat",
+      "carnivorous",
+      "meat eater"
+    ]
+  },
+  {
+    "value": "herbivore",
+    "synonyms": [
+      "herbivore",
+      "plants only",
+      "only plants",
+      "only eats plants",
+      "eats only plants",
+      "vegetarian",
+      "vegan"
+    ]
+  },
+  {
+    "value": "omnivore",
+    "synonyms": [
+      "omnivore",
+      "eats both meat and plants",
+      "eats meat and vegetables",
+      "eats plants and meat",
+      "eats plants and animals",
+      "eats animals and plants",
+      "plants and animals",
+      "animals and plants",
+      "both meat and plants",
+      "both vegetables and animals"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "a51c2e21-7a84-4fb5-b832-8973a5788dc3",
+  "name": "MISC_dinosaur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "misc_questions",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "82543905-1ce9-4050-8b1c-543e21e3e8ea",
+          "name": "key",
+          "value": "MISC_dinosaur"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504820469780,
+  "fallbackIntent": false,
+  "events": []
+}

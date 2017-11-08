@@ -1,0 +1,42 @@
+{
+  "id": "69ff1ab9-ab41-46b9-b180-f48c4239a0de",
+  "name": "MISC_pokemon",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "misc_questions",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "869df293-a0a2-41ad-a664-566d960f9302",
+          "dataType": "@pokemon",
+          "name": "pokemon",
+          "value": "$pokemon",
+          "isList": false
+        },
+        {
+          "id": "455e3678-c7f5-4ef3-83f4-7b416cd97e60",
+          "name": "key",
+          "value": "MISC_pokemon"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507824447284,
+  "fallbackIntent": false,
+  "events": []
+}

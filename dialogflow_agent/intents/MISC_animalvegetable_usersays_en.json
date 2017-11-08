@@ -1,0 +1,62 @@
+[
+  {
+    "id": "f210fbe4-8f50-41c7-82d6-bda344c4b62d",
+    "data": [
+      {
+        "text": "are you an animal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505856571
+  },
+  {
+    "id": "00313fd5-917b-4555-bcd1-582204cdef22",
+    "data": [
+      {
+        "text": "are you an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "animal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505856301
+  },
+  {
+    "id": "d197fb51-c9ac-4ed8-a47f-b78f4baf370b",
+    "data": [
+      {
+        "text": "Are you an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "animal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", vegetable, or mineral?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504111447
+  }
+]

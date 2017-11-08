@@ -1,0 +1,49 @@
+{
+  "id": "832e0b27-53e0-47c2-9a10-58b919840b34",
+  "name": "hibernatemigrate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_info",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d61f75dd-01dd-4d11-aec9-5e5b8ed62dd3",
+          "dataType": "@hibernatemigrate",
+          "name": "guess",
+          "value": "$guess",
+          "isList": false
+        },
+        {
+          "id": "c3cf7c20-532a-478c-8fdd-c57094ddaebf",
+          "name": "key",
+          "value": "$guess",
+          "isList": false
+        },
+        {
+          "id": "cfee9c1b-7135-4fb4-8747-baef2ec85d7a",
+          "name": "answertype",
+          "value": "yesno",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1505839251,
+  "fallbackIntent": false,
+  "events": []
+}

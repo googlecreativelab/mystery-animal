@@ -1,0 +1,36 @@
+{
+  "id": "a259f4f6-7a5d-4939-a027-a0554e7b5b3a",
+  "name": "MISC_cute",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "misc_questions",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e81b3634-3b8f-4948-9683-858fc90fdb41",
+          "name": "key",
+          "value": "MISC_cute",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507645102,
+  "fallbackIntent": false,
+  "events": []
+}

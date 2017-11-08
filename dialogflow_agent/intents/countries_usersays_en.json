@@ -1,0 +1,110 @@
+[
+  {
+    "id": "8a5b66ca-8c43-4f10-bcef-ee35341bec2f",
+    "data": [
+      {
+        "text": "Do you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " live in ",
+        "userDefined": false
+      },
+      {
+        "text": "America",
+        "alias": "guess",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505171543
+  },
+  {
+    "id": "2458f9a5-22cb-426d-9f0a-7eedfab0b9b0",
+    "data": [
+      {
+        "text": "Could you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " be found in ",
+        "userDefined": false
+      },
+      {
+        "text": "Botswana",
+        "alias": "guess",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505160952
+  },
+  {
+    "id": "406ec24d-ed64-45b7-b2bb-1f402d99a00c",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "United States",
+        "alias": "guess",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505160952
+  },
+  {
+    "id": "21ee41a3-ab7b-4e01-aa8a-7ae997f7d8f0",
+    "data": [
+      {
+        "text": "Do you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " live in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "guess",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505160952
+  }
+]

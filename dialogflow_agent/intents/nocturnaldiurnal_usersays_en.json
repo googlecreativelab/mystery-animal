@@ -1,0 +1,240 @@
+[
+  {
+    "id": "63681130-4af9-4e6d-b95f-3b57a19277dc",
+    "data": [
+      {
+        "text": "you go to ",
+        "userDefined": false
+      },
+      {
+        "text": "sleep at night",
+        "alias": "guess",
+        "meta": "@nocturnaldiurnal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505860084
+  },
+  {
+    "id": "17fff6c6-af81-4949-9f3e-b3312064681f",
+    "data": [
+      {
+        "text": "do you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " go to ",
+        "userDefined": false
+      },
+      {
+        "text": "sleep at night",
+        "alias": "guess",
+        "meta": "@nocturnaldiurnal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505860084
+  },
+  {
+    "id": "b7209d15-1463-49d9-a290-da0270395737",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "awake during the day",
+        "alias": "guess",
+        "meta": "@nocturnaldiurnal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505842280
+  },
+  {
+    "id": "55fd16ea-6311-4b2c-9181-c375f2d3abb2",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "awake during daytime",
+        "alias": "guess",
+        "meta": "@nocturnaldiurnal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505842280
+  },
+  {
+    "id": "701683c8-4d45-49e9-ae78-ed5b01c0a64b",
+    "data": [
+      {
+        "text": "Are you a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creature ",
+        "userDefined": false
+      },
+      {
+        "text": "of the night",
+        "alias": "guess",
+        "meta": "@nocturnaldiurnal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505842280
+  },
+  {
+    "id": "e470d132-9f17-41bc-b0ed-4a4f103bc2cd",
+    "data": [
+      {
+        "text": "Do you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sleep at night",
+        "alias": "guess",
+        "meta": "@nocturnaldiurnal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505842280
+  },
+  {
+    "id": "d0f6cdfd-6d1d-4193-ab14-eb2730b2b4a6",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "diurnal",
+        "alias": "guess",
+        "meta": "@nocturnaldiurnal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505842280
+  },
+  {
+    "id": "9e966e23-7896-44e0-ad7a-baa7ab3ef5b4",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nocturnal",
+        "alias": "guess",
+        "meta": "@nocturnaldiurnal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505842280
+  },
+  {
+    "id": "6464256d-ff2b-4df3-914f-ac4367a3279f",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "awake at night",
+        "alias": "guess",
+        "meta": "@nocturnaldiurnal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505842280
+  }
+]

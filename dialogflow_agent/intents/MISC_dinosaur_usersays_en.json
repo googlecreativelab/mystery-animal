@@ -1,0 +1,31 @@
+[
+  {
+    "id": "67557102-5c93-4b84-afd6-c8d9e5fe407d",
+    "data": [
+      {
+        "text": "Dinosaur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19ddcca8-d6d7-4f92-93ec-24502574cddc",
+    "data": [
+      {
+        "text": "Are you a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dinosaur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

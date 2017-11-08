@@ -1,0 +1,58 @@
+{
+  "id": "62fa64ab-af07-4fd7-ab16-b77fb0c01f05",
+  "name": "MISC_city",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c00ac717-a09b-4a79-baa1-a7a82116f253",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "ad88faca-5610-40e7-b5fe-e8d229e26cc6",
+          "dataType": "@sys.geo-state-us",
+          "name": "geo-state-us",
+          "value": "$geo-state-us",
+          "isList": false
+        },
+        {
+          "id": "fe8fdbe0-9ae0-4a52-be07-6628bbcd056a",
+          "dataType": "@sys.address",
+          "name": "address",
+          "value": "$address",
+          "isList": false
+        },
+        {
+          "id": "91213f70-ed90-43b0-bc50-4fb5ccedee10",
+          "dataType": "@sys.place-attraction-us",
+          "name": "place-attraction-us",
+          "value": "$place-attraction-us",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1505841053,
+  "fallbackIntent": false,
+  "events": []
+}

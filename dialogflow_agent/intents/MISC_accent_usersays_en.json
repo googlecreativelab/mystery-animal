@@ -1,0 +1,65 @@
+[
+  {
+    "id": "b67031cd-4d69-4d8b-a48f-c4600c7f5a46",
+    "data": [
+      {
+        "text": "Why do you have a British accent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504122427
+  },
+  {
+    "id": "69deca38-9a23-4306-9047-fd229545e44f",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " British?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02b725bf-5d4c-4340-83f9-4169506d6711",
+    "data": [
+      {
+        "text": "Why do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you sound British?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40f2c446-99c5-4a81-a642-149c8f626b73",
+    "data": [
+      {
+        "text": "Why do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you have an accent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

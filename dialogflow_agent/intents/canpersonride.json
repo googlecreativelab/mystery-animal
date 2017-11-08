@@ -1,0 +1,45 @@
+{
+  "id": "ca4cbdaf-5daf-4419-adc7-af4b0e102f36",
+  "name": "canpersonride",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_info",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "455f38b5-4d69-45e2-884b-a9b370c5ded3",
+          "name": "key",
+          "value": "canpersonride"
+        },
+        {
+          "id": "b10773f0-f3ea-4eb6-813a-3c29a36110c6",
+          "name": "answertype",
+          "value": "yesno"
+        },
+        {
+          "id": "b4998af1-b083-4628-b23c-8667946f18a0",
+          "name": "guess",
+          "value": "rideable"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504647435,
+  "fallbackIntent": false,
+  "events": []
+}

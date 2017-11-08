@@ -1,0 +1,43 @@
+{
+  "id": "a1d4f92c-d7da-4152-a567-9b3f9df5ef9b",
+  "name": "MISC_trytospell",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "misc_questions",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0d2a5600-e394-4c79-8416-d33ddac64bb6",
+          "dataType": "@alphabet",
+          "name": "alphabet",
+          "value": "$alphabet",
+          "isList": false
+        },
+        {
+          "id": "0dcf99e8-1fb7-4d77-af86-780d868a44d9",
+          "name": "key",
+          "value": "MISC_trytospell",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508958096,
+  "fallbackIntent": false,
+  "events": []
+}

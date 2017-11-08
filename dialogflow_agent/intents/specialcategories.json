@@ -1,0 +1,47 @@
+{
+  "id": "18de23a1-16f1-4828-b997-beffc8929bcc",
+  "name": "specialcategories",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_info",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "97353085-a4db-41d9-a7af-9c97632d687e",
+          "dataType": "@specialcategories",
+          "name": "guess",
+          "value": "$guess",
+          "isList": false
+        },
+        {
+          "id": "bc20f50f-030c-404a-b11d-2b4cb9e60c4f",
+          "name": "answertype",
+          "value": "specialcategories"
+        },
+        {
+          "id": "c2c2010c-585e-4ce6-929f-d72c9266fe20",
+          "name": "key",
+          "value": "specialcategories"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1505856182,
+  "fallbackIntent": false,
+  "events": []
+}

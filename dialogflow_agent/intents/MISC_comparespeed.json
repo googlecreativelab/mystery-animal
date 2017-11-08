@@ -1,0 +1,42 @@
+{
+  "id": "50143ca8-a387-4252-88f3-f68709b2aa0c",
+  "name": "MISC_comparespeed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "misc_questions",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f2358015-d577-43c3-813d-fe6f3accd9b1",
+          "dataType": "@animals",
+          "name": "guess",
+          "value": "$guess",
+          "isList": false
+        },
+        {
+          "id": "22ccaf6a-105e-4fee-bceb-ade9e120f6ab",
+          "name": "key",
+          "value": "MISC_comparespeed"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504709329,
+  "fallbackIntent": false,
+  "events": []
+}

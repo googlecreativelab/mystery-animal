@@ -1,0 +1,21 @@
+[
+  {
+    "value": "bigger than",
+    "synonyms": [
+      "bigger than",
+      "weigh more than",
+      "more weight than",
+      "larger than",
+      "taller than"
+    ]
+  },
+  {
+    "value": "smaller than",
+    "synonyms": [
+      "smaller than",
+      "weigh less than",
+      "less weight than",
+      "shorter than"
+    ]
+  }
+]

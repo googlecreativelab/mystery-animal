@@ -1,0 +1,503 @@
+[
+  {
+    "value": "bark",
+    "synonyms": [
+      "bark",
+      "barking"
+    ]
+  },
+  {
+    "value": "bite",
+    "synonyms": [
+      "bite",
+      "biting"
+    ]
+  },
+  {
+    "value": "box",
+    "synonyms": [
+      "box",
+      "boxing"
+    ]
+  },
+  {
+    "value": "canter",
+    "synonyms": [
+      "canter",
+      "cantering"
+    ]
+  },
+  {
+    "value": "charge",
+    "synonyms": [
+      "charge",
+      "charging"
+    ]
+  },
+  {
+    "value": "climb",
+    "synonyms": [
+      "climb",
+      "climbing"
+    ]
+  },
+  {
+    "value": "climb slowly",
+    "synonyms": [
+      "climb slowly",
+      "slow climber"
+    ]
+  },
+  {
+    "value": "crawl",
+    "synonyms": [
+      "crawl",
+      "crawling"
+    ]
+  },
+  {
+    "value": "crawl at a normal pace",
+    "synonyms": [
+      "crawl at a normal pace"
+    ]
+  },
+  {
+    "value": "crawl slowly",
+    "synonyms": [
+      "crawl slowly",
+      "slow crawler"
+    ]
+  },
+  {
+    "value": "croak",
+    "synonyms": [
+      "croak",
+      "croaker",
+      "croaking"
+    ]
+  },
+  {
+    "value": "flutter",
+    "synonyms": [
+      "flutter",
+      "fluttering",
+      "flutterer"
+    ]
+  },
+  {
+    "value": "fly",
+    "synonyms": [
+      "fly",
+      "flying",
+      "flies"
+    ]
+  },
+  {
+    "value": "fly at a normal pace",
+    "synonyms": [
+      "fly at a normal pace"
+    ]
+  },
+  {
+    "value": "fly fast",
+    "synonyms": [
+      "fly fast",
+      "fast flier",
+      "fast flying"
+    ]
+  },
+  {
+    "value": "fly slowly",
+    "synonyms": [
+      "fly slowly",
+      "slow flier",
+      "slow flying"
+    ]
+  },
+  {
+    "value": "gallop",
+    "synonyms": [
+      "gallop",
+      "galloper",
+      "galloping"
+    ]
+  },
+  {
+    "value": "gallop at a normal pace",
+    "synonyms": [
+      "gallop at a normal pace"
+    ]
+  },
+  {
+    "value": "glide",
+    "synonyms": [
+      "glide",
+      "gliding"
+    ]
+  },
+  {
+    "value": "glide slowly",
+    "synonyms": [
+      "glide slowly"
+    ]
+  },
+  {
+    "value": "hoot",
+    "synonyms": [
+      "hoot",
+      "hooting"
+    ]
+  },
+  {
+    "value": "hop",
+    "synonyms": [
+      "hop",
+      "hopping",
+      "hopped"
+    ]
+  },
+  {
+    "value": "jump",
+    "synonyms": [
+      "jump",
+      "jumping",
+      "jumped"
+    ]
+  },
+  {
+    "value": "jump high",
+    "synonyms": [
+      "jump high",
+      "high jump"
+    ]
+  },
+  {
+    "value": "kick",
+    "synonyms": [
+      "kick",
+      "kicking",
+      "kicked"
+    ]
+  },
+  {
+    "value": "kick fast",
+    "synonyms": [
+      "kick fast",
+      "fast kick",
+      "fast kicker"
+    ]
+  },
+  {
+    "value": "leap",
+    "synonyms": [
+      "leap",
+      "leaping"
+    ]
+  },
+  {
+    "value": "meow",
+    "synonyms": [
+      "meow",
+      "meowing"
+    ]
+  },
+  {
+    "value": "moo",
+    "synonyms": [
+      "moo",
+      "mooing"
+    ]
+  },
+  {
+    "value": "neigh",
+    "synonyms": [
+      "neigh",
+      "neighing"
+    ]
+  },
+  {
+    "value": "peck",
+    "synonyms": [
+      "peck",
+      "pecking"
+    ]
+  },
+  {
+    "value": "pound",
+    "synonyms": [
+      "pound",
+      "pounding"
+    ]
+  },
+  {
+    "value": "purr",
+    "synonyms": [
+      "purr",
+      "purring"
+    ]
+  },
+  {
+    "value": "rattle",
+    "synonyms": [
+      "rattle",
+      "rattling"
+    ]
+  },
+  {
+    "value": "roar",
+    "synonyms": [
+      "roar",
+      "roaring"
+    ]
+  },
+  {
+    "value": "roll",
+    "synonyms": [
+      "roll",
+      "rolling"
+    ]
+  },
+  {
+    "value": "run",
+    "synonyms": [
+      "run",
+      "running"
+    ]
+  },
+  {
+    "value": "run at a normal pace",
+    "synonyms": [
+      "run at a normal pace"
+    ]
+  },
+  {
+    "value": "run fast",
+    "synonyms": [
+      "run fast",
+      "fast runner"
+    ]
+  },
+  {
+    "value": "sit",
+    "synonyms": [
+      "sit",
+      "sitting"
+    ]
+  },
+  {
+    "value": "slither",
+    "synonyms": [
+      "slither",
+      "slithering"
+    ]
+  },
+  {
+    "value": "slither slowly",
+    "synonyms": [
+      "slither slowly"
+    ]
+  },
+  {
+    "value": "snort",
+    "synonyms": [
+      "snort",
+      "snorting",
+      "snorter"
+    ]
+  },
+  {
+    "value": "squeak",
+    "synonyms": [
+      "squeak",
+      "squeaking"
+    ]
+  },
+  {
+    "value": "stand",
+    "synonyms": [
+      "stand",
+      "standing"
+    ]
+  },
+  {
+    "value": "stomp",
+    "synonyms": [
+      "stomp",
+      "stomping"
+    ]
+  },
+  {
+    "value": "swim",
+    "synonyms": [
+      "swim",
+      "swims",
+      "swimming",
+      "swimmer"
+    ]
+  },
+  {
+    "value": "swim at a normal pace",
+    "synonyms": [
+      "swim at a normal pace"
+    ]
+  },
+  {
+    "value": "swim fast",
+    "synonyms": [
+      "swim fast",
+      "fast swimmer"
+    ]
+  },
+  {
+    "value": "swim slowly",
+    "synonyms": [
+      "swim slowly",
+      "slow swimmer"
+    ]
+  },
+  {
+    "value": "talk",
+    "synonyms": [
+      "talk",
+      "talking",
+      "talker"
+    ]
+  },
+  {
+    "value": "throw",
+    "synonyms": [
+      "throw",
+      "throwing"
+    ]
+  },
+  {
+    "value": "trot",
+    "synonyms": [
+      "trot",
+      "trotting"
+    ]
+  },
+  {
+    "value": "undulate",
+    "synonyms": [
+      "undulate",
+      "undulating"
+    ]
+  },
+  {
+    "value": "use echolocation",
+    "synonyms": [
+      "use echolocation",
+      "echolocator"
+    ]
+  },
+  {
+    "value": "waddle",
+    "synonyms": [
+      "waddle",
+      "waddling"
+    ]
+  },
+  {
+    "value": "waddle slowly",
+    "synonyms": [
+      "waddle slowly",
+      "slow waddler"
+    ]
+  },
+  {
+    "value": "wade",
+    "synonyms": [
+      "wade",
+      "wading"
+    ]
+  },
+  {
+    "value": "walk",
+    "synonyms": [
+      "walk",
+      "walking",
+      "walked"
+    ]
+  },
+  {
+    "value": "walk at a normal pace",
+    "synonyms": [
+      "walk at a normal pace"
+    ]
+  },
+  {
+    "value": "walk fast",
+    "synonyms": [
+      "walk fast",
+      "fast walker"
+    ]
+  },
+  {
+    "value": "walk sideways",
+    "synonyms": [
+      "walk sideways",
+      "sideways walker"
+    ]
+  },
+  {
+    "value": "walk slowly",
+    "synonyms": [
+      "walk slowly",
+      "slow walker"
+    ]
+  },
+  {
+    "value": "wallow",
+    "synonyms": [
+      "wallow",
+      "wallower"
+    ]
+  },
+  {
+    "value": "whinny",
+    "synonyms": [
+      "whinny",
+      "whinnying"
+    ]
+  },
+  {
+    "value": "woof",
+    "synonyms": [
+      "woof"
+    ]
+  },
+  {
+    "value": "jump fast",
+    "synonyms": [
+      "jump fast",
+      "hop fast",
+      "fast jumper"
+    ]
+  },
+  {
+    "value": "sleep",
+    "synonyms": [
+      "sleep"
+    ]
+  },
+  {
+    "value": "live in groups",
+    "synonyms": [
+      "live in groups",
+      "school",
+      "herd",
+      "herding",
+      "flock",
+      "flocks",
+      "flocking",
+      "social",
+      "live in herds",
+      "herds",
+      "pack animal",
+      "live in packs",
+      "travel in a pack",
+      "travel in packs"
+    ]
+  }
+]

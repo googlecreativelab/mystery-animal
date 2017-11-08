@@ -1,0 +1,35 @@
+{
+  "id": "c95ea2c7-9741-4215-8409-005d04d4adba",
+  "name": "MISC_animalvegetable",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "misc_questions",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "643ff245-cee2-408f-b09b-3bbb58181c34",
+          "name": "key",
+          "value": "MISC_animalvegetable"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1505856571,
+  "fallbackIntent": false,
+  "events": []
+}

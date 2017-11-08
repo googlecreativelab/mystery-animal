@@ -1,0 +1,27 @@
+[
+  {
+    "value": "nocturnal",
+    "synonyms": [
+      "nocturnal",
+      "nighttime",
+      "night",
+      "of the night",
+      "sleep during the day",
+      "awake at night",
+      "wake up at night",
+      "wake up with the moon"
+    ]
+  },
+  {
+    "value": "diurnal",
+    "synonyms": [
+      "diurnal",
+      "awake during the day",
+      "sleep at night",
+      "awake during daytime",
+      "daytime",
+      "wake up with the sun",
+      "wake up in the morning"
+    ]
+  }
+]

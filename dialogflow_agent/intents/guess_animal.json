@@ -1,0 +1,56 @@
+{
+  "id": "18001d26-92dd-4407-b493-92b1ae0c7a7f",
+  "name": "guess_animal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "guess_animal",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5ac99985-41c9-49c1-8885-6d0dfd5e0f84",
+          "dataType": "@guessanimal",
+          "name": "guessanimal",
+          "value": "$guessanimal",
+          "isList": false
+        },
+        {
+          "id": "ccf2fdf5-e161-4f75-b84f-620b2f73d753",
+          "dataType": "@animals",
+          "name": "guess",
+          "value": "$guess",
+          "isList": false
+        },
+        {
+          "id": "fd147635-b36a-4d37-b651-b53a882da70e",
+          "name": "answertype",
+          "value": "guessanimal",
+          "isList": false
+        },
+        {
+          "id": "2c625ba6-bb8a-42e9-a7a3-940b3a7727db",
+          "name": "key",
+          "value": "animal_guess",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507585408,
+  "fallbackIntent": false,
+  "events": []
+}

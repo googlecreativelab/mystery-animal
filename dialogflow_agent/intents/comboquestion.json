@@ -1,0 +1,58 @@
+{
+  "id": "5af15673-25c2-4b9b-b23c-b8e5be1f705c",
+  "name": "comboquestion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "combo",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cbcd05ae-2e45-4bd9-b69f-f54cb9194dbd",
+          "dataType": "@bodyparts",
+          "name": "comboBody_parts",
+          "value": "$comboBody_parts",
+          "isList": true
+        },
+        {
+          "id": "f0856a47-8e2d-494f-a6b9-c21009bc4567",
+          "dataType": "@friendlysizemass",
+          "name": "comboSize",
+          "value": "$comboSize",
+          "isList": true
+        },
+        {
+          "id": "82f84d39-e12a-434f-9d3f-128fcf8018ce",
+          "dataType": "@animal_colors",
+          "name": "comboColor",
+          "value": "$comboColor",
+          "isList": true
+        },
+        {
+          "id": "54e3b3f5-6b02-4c22-9348-edce23fd4e96",
+          "dataType": "@animal_adjectives",
+          "name": "comboFeatures",
+          "value": "$comboFeatures",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1505503504,
+  "fallbackIntent": false,
+  "events": []
+}

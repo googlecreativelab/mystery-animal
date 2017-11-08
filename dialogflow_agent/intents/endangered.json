@@ -1,0 +1,47 @@
+{
+  "id": "78731359-5737-4128-8dee-58d9ad77085b",
+  "name": "endangered",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_info",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "02349085-dc96-446d-ab15-9d9d1d51208e",
+          "name": "answertype",
+          "value": "yesno"
+        },
+        {
+          "id": "bf7249aa-edb7-4c5c-a649-e65c658b1110",
+          "name": "key",
+          "value": "endangered"
+        },
+        {
+          "id": "3aa49228-bfd3-44af-9aa2-58ec1fe6442a",
+          "dataType": "@endangered",
+          "name": "guess",
+          "value": "$guess",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504118991,
+  "fallbackIntent": false,
+  "events": []
+}

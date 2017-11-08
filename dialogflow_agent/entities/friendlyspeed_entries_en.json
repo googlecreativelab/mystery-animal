@@ -1,0 +1,29 @@
+[
+  {
+    "value": "fast",
+    "synonyms": [
+      "fast",
+      "brisk",
+      "quick",
+      "swift",
+      "quickly"
+    ]
+  },
+  {
+    "value": "slow",
+    "synonyms": [
+      "slow",
+      "sluggish",
+      "slowly"
+    ]
+  },
+  {
+    "value": "medium",
+    "synonyms": [
+      "medium fast",
+      "medium speed",
+      "neither fast nor slow",
+      "not fast or slow"
+    ]
+  }
+]

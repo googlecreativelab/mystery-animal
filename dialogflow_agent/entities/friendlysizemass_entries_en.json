@@ -1,0 +1,39 @@
+[
+  {
+    "value": "big",
+    "synonyms": [
+      "big",
+      "fat",
+      "huge",
+      "long",
+      "enormous",
+      "gigantic",
+      "jumbo",
+      "gargantuan",
+      "large",
+      "tall"
+    ]
+  },
+  {
+    "value": "small",
+    "synonyms": [
+      "small",
+      "tiny",
+      "little",
+      "skinny",
+      "mini",
+      "miniature",
+      "itty-bitty",
+      "short"
+    ]
+  },
+  {
+    "value": "medium",
+    "synonyms": [
+      "medium-sized",
+      "not big or small",
+      "neither big nor small",
+      "medium size"
+    ]
+  }
+]

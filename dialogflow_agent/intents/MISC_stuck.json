@@ -1,0 +1,36 @@
+{
+  "id": "9fb87fe2-5195-4bfa-88b0-05afc9d87607",
+  "name": "MISC_stuck",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "misc_questions",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "92cb2f0e-1f81-46a1-8585-11642ebe5b65",
+          "name": "key",
+          "value": "MISC_stuck",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1506960301,
+  "fallbackIntent": false,
+  "events": []
+}

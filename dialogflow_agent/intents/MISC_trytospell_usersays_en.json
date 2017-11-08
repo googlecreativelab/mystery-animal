@@ -1,0 +1,183 @@
+[
+  {
+    "id": "6409681e-3d32-4cc5-82d8-11263d849af6",
+    "data": [
+      {
+        "text": "do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "alphabet",
+        "meta": "@alphabet",
+        "userDefined": false
+      },
+      {
+        "text": " in your name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502991219
+  },
+  {
+    "id": "59362c85-6f23-40a1-961a-a811df245453",
+    "data": [
+      {
+        "text": "Is",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the letter ",
+        "userDefined": false
+      },
+      {
+        "text": "u",
+        "alias": "alphabet",
+        "meta": "@alphabet",
+        "userDefined": false
+      },
+      {
+        "text": " in your name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1508958096
+  },
+  {
+    "id": "e0d885d9-7c17-4e44-a961-0b675b40b374",
+    "data": [
+      {
+        "text": "Is",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the letter ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "alphabet",
+        "meta": "@alphabet",
+        "userDefined": false
+      },
+      {
+        "text": " somewhere in its name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1508958096
+  },
+  {
+    "id": "f8ab7ef7-cc2d-4fb2-8e1f-ae1e3b4410fd",
+    "data": [
+      {
+        "text": "Is it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " spelled with the letter ",
+        "userDefined": false
+      },
+      {
+        "text": "c",
+        "alias": "alphabet",
+        "meta": "@alphabet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503001779
+  },
+  {
+    "id": "647cc6fd-8bb8-439d-a44d-34718db64779",
+    "data": [
+      {
+        "text": "Is it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " spelled with an ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "alias": "alphabet",
+        "meta": "@alphabet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5e6769a-2f77-4f70-848f-f64ea671e83b",
+    "data": [
+      {
+        "text": "Does the animal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " contain the letter ",
+        "userDefined": false
+      },
+      {
+        "text": "r",
+        "alias": "alphabet",
+        "meta": "@alphabet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508958096
+  },
+  {
+    "id": "146780ae-d25a-460c-b367-bfa0235ea424",
+    "data": [
+      {
+        "text": "Does it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " have the letter \"",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "alias": "alphabet",
+        "meta": "@alphabet",
+        "userDefined": false
+      },
+      {
+        "text": "\"?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508958096
+  }
+]

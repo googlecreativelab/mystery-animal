@@ -1,0 +1,28 @@
+[
+  {
+    "value": "Give me a hint",
+    "synonyms": [
+      "Give me a hint",
+      "hint",
+      "I don\u0027t know",
+      "I give up",
+      "Help me",
+      "I have no idea",
+      "I have no clue",
+      "Hints please"
+    ]
+  },
+  {
+    "value": "Give me a clue",
+    "synonyms": [
+      "Give me a clue",
+      "a clue"
+    ]
+  },
+  {
+    "value": "I need help",
+    "synonyms": [
+      "I need help"
+    ]
+  }
+]

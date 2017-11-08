@@ -1,0 +1,45 @@
+{
+  "id": "c19b8ae2-10fe-4d09-9905-f12828ff3120",
+  "name": "is_predator",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_info",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "58981de6-81cb-4f50-9a13-4636f717b774",
+          "name": "key",
+          "value": "ispredator"
+        },
+        {
+          "id": "176887db-7d80-4923-8baa-b20197fb1a9a",
+          "name": "answertype",
+          "value": "yesno"
+        },
+        {
+          "id": "5f59a722-1c27-4105-a7e3-4ec1ff9cceac",
+          "name": "guess",
+          "value": "predator"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504719182,
+  "fallbackIntent": false,
+  "events": []
+}

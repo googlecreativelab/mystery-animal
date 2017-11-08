@@ -1,0 +1,32 @@
+[
+  {
+    "value": "is predator",
+    "synonyms": [
+      "is predator",
+      "have prey",
+      "is a predator",
+      "is it a predator"
+    ]
+  },
+  {
+    "value": "is prey",
+    "synonyms": [
+      "is prey",
+      "is it prey",
+      "does it have predators",
+      "have predators"
+    ]
+  },
+  {
+    "value": "prey on",
+    "synonyms": [
+      "prey on"
+    ]
+  },
+  {
+    "value": "prey",
+    "synonyms": [
+      "prey"
+    ]
+  }
+]

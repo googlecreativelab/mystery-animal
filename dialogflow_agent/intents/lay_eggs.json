@@ -1,0 +1,47 @@
+{
+  "id": "0f822352-4147-4e47-b0a7-5fba4ab9e131",
+  "name": "lay_eggs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_info",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "177f49b5-4894-4ecc-b572-671d54956962",
+          "name": "key",
+          "value": "layeggs"
+        },
+        {
+          "id": "219232a6-3196-4124-8851-350a37e7b09f",
+          "name": "answertype",
+          "value": "yesno"
+        },
+        {
+          "id": "904fecd1-5b69-4c03-bd7e-bf3cccbdfe53",
+          "dataType": "@lay_eggs",
+          "name": "guess",
+          "value": "$guess",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504119160,
+  "fallbackIntent": false,
+  "events": []
+}

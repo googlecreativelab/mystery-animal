@@ -1,0 +1,1702 @@
+[
+  {
+    "value": "leaves",
+    "synonyms": [
+      "leaves"
+    ]
+  },
+  {
+    "value": "plants",
+    "synonyms": [
+      "plants"
+    ]
+  },
+  {
+    "value": "bark",
+    "synonyms": [
+      "bark"
+    ]
+  },
+  {
+    "value": "fish",
+    "synonyms": [
+      "fish",
+      "fishes"
+    ]
+  },
+  {
+    "value": "invertebrates",
+    "synonyms": [
+      "invertebrates"
+    ]
+  },
+  {
+    "value": "grass",
+    "synonyms": [
+      "grass"
+    ]
+  },
+  {
+    "value": "meat",
+    "synonyms": [
+      "meat",
+      "animals",
+      "meat eater"
+    ]
+  },
+  {
+    "value": "wood",
+    "synonyms": [
+      "wood"
+    ]
+  },
+  {
+    "value": "flowers",
+    "synonyms": [
+      "flowers"
+    ]
+  },
+  {
+    "value": "seeds",
+    "synonyms": [
+      "seeds",
+      "grain",
+      "grains"
+    ]
+  },
+  {
+    "value": "fruit",
+    "synonyms": [
+      "fruit"
+    ]
+  },
+  {
+    "value": "pellets",
+    "synonyms": [
+      "pellets"
+    ]
+  },
+  {
+    "value": "insects",
+    "synonyms": [
+      "insects",
+      "bugs"
+    ]
+  },
+  {
+    "value": "algae",
+    "synonyms": [
+      "algae"
+    ]
+  },
+  {
+    "value": "plant matter",
+    "synonyms": [
+      "plant matter",
+      "plant material"
+    ]
+  },
+  {
+    "value": "crustaceans",
+    "synonyms": [
+      "crustaceans"
+    ]
+  },
+  {
+    "value": "other animals",
+    "synonyms": [
+      "other animals"
+    ]
+  },
+  {
+    "value": "shrimp",
+    "synonyms": [
+      "shrimp"
+    ]
+  },
+  {
+    "value": "squirrels",
+    "synonyms": [
+      "squirrels"
+    ]
+  },
+  {
+    "value": "prairie dogs",
+    "synonyms": [
+      "prairie dogs"
+    ]
+  },
+  {
+    "value": "raccoons",
+    "synonyms": [
+      "raccoons"
+    ]
+  },
+  {
+    "value": "rabbits",
+    "synonyms": [
+      "rabbits"
+    ]
+  },
+  {
+    "value": "carrion",
+    "synonyms": [
+      "carrion",
+      "dead things"
+    ]
+  },
+  {
+    "value": "marmots",
+    "synonyms": [
+      "marmots"
+    ]
+  },
+  {
+    "value": "birds",
+    "synonyms": [
+      "birds"
+    ]
+  },
+  {
+    "value": "small animals",
+    "synonyms": [
+      "small animals"
+    ]
+  },
+  {
+    "value": "worms",
+    "synonyms": [
+      "worms"
+    ]
+  },
+  {
+    "value": "rodents",
+    "synonyms": [
+      "rodents"
+    ]
+  },
+  {
+    "value": "eat meat",
+    "synonyms": [
+      "eat meat"
+    ]
+  },
+  {
+    "value": "pigs",
+    "synonyms": [
+      "pigs"
+    ]
+  },
+  {
+    "value": "mice",
+    "synonyms": [
+      "mice"
+    ]
+  },
+  {
+    "value": "humans",
+    "synonyms": [
+      "humans"
+    ]
+  },
+  {
+    "value": "acorns",
+    "synonyms": [
+      "acorns"
+    ]
+  },
+  {
+    "value": "alfalfa",
+    "synonyms": [
+      "alfalfa"
+    ]
+  },
+  {
+    "value": "algae",
+    "synonyms": [
+      "algae"
+    ]
+  },
+  {
+    "value": "animals",
+    "synonyms": [
+      "animals"
+    ]
+  },
+  {
+    "value": "antelopes",
+    "synonyms": [
+      "antelopes"
+    ]
+  },
+  {
+    "value": "aphids",
+    "synonyms": [
+      "aphids"
+    ]
+  },
+  {
+    "value": "apples",
+    "synonyms": [
+      "apples"
+    ]
+  },
+  {
+    "value": "arthropods",
+    "synonyms": [
+      "arthropods"
+    ]
+  },
+  {
+    "value": "baby elephants",
+    "synonyms": [
+      "baby elephants"
+    ]
+  },
+  {
+    "value": "baby turtles",
+    "synonyms": [
+      "baby turtles"
+    ]
+  },
+  {
+    "value": "bacteria",
+    "synonyms": [
+      "bacteria"
+    ]
+  },
+  {
+    "value": "bamboo",
+    "synonyms": [
+      "bamboo"
+    ]
+  },
+  {
+    "value": "bananas",
+    "synonyms": [
+      "bananas"
+    ]
+  },
+  {
+    "value": "bark",
+    "synonyms": [
+      "bark"
+    ]
+  },
+  {
+    "value": "barley",
+    "synonyms": [
+      "barley"
+    ]
+  },
+  {
+    "value": "bears",
+    "synonyms": [
+      "bears"
+    ]
+  },
+  {
+    "value": "bees",
+    "synonyms": [
+      "bees"
+    ]
+  },
+  {
+    "value": "bird eggs",
+    "synonyms": [
+      "bird eggs"
+    ]
+  },
+  {
+    "value": "birds",
+    "synonyms": [
+      "birds"
+    ]
+  },
+  {
+    "value": "blackflies",
+    "synonyms": [
+      "blackflies"
+    ]
+  },
+  {
+    "value": "blood",
+    "synonyms": [
+      "blood"
+    ]
+  },
+  {
+    "value": "bran",
+    "synonyms": [
+      "bran"
+    ]
+  },
+  {
+    "value": "buds",
+    "synonyms": [
+      "buds"
+    ]
+  },
+  {
+    "value": "buffalo",
+    "synonyms": [
+      "buffalo"
+    ]
+  },
+  {
+    "value": "buffaloes",
+    "synonyms": [
+      "buffaloes"
+    ]
+  },
+  {
+    "value": "bugs",
+    "synonyms": [
+      "bugs"
+    ]
+  },
+  {
+    "value": "bulbs",
+    "synonyms": [
+      "bulbs"
+    ]
+  },
+  {
+    "value": "carrion",
+    "synonyms": [
+      "carrion"
+    ]
+  },
+  {
+    "value": "carrots",
+    "synonyms": [
+      "carrots"
+    ]
+  },
+  {
+    "value": "cat food",
+    "synonyms": [
+      "cat food"
+    ]
+  },
+  {
+    "value": "clams",
+    "synonyms": [
+      "clams"
+    ]
+  },
+  {
+    "value": "conchs",
+    "synonyms": [
+      "conchs"
+    ]
+  },
+  {
+    "value": "copepods",
+    "synonyms": [
+      "copepods"
+    ]
+  },
+  {
+    "value": "corn",
+    "synonyms": [
+      "corn"
+    ]
+  },
+  {
+    "value": "cows",
+    "synonyms": [
+      "cows"
+    ]
+  },
+  {
+    "value": "crabs",
+    "synonyms": [
+      "crabs"
+    ]
+  },
+  {
+    "value": "crayfish",
+    "synonyms": [
+      "crayfish"
+    ]
+  },
+  {
+    "value": "crickets",
+    "synonyms": [
+      "crickets"
+    ]
+  },
+  {
+    "value": "crops",
+    "synonyms": [
+      "crops"
+    ]
+  },
+  {
+    "value": "crustaceans",
+    "synonyms": [
+      "crustaceans"
+    ]
+  },
+  {
+    "value": "dear",
+    "synonyms": [
+      "dear"
+    ]
+  },
+  {
+    "value": "decomposing organic material",
+    "synonyms": [
+      "decomposing organic material"
+    ]
+  },
+  {
+    "value": "detritus",
+    "synonyms": [
+      "detritus"
+    ]
+  },
+  {
+    "value": "dog food",
+    "synonyms": [
+      "dog food"
+    ]
+  },
+  {
+    "value": "dragonflies",
+    "synonyms": [
+      "dragonflies"
+    ]
+  },
+  {
+    "value": "earthworms",
+    "synonyms": [
+      "earthworms"
+    ]
+  },
+  {
+    "value": "eggs",
+    "synonyms": [
+      "eggs"
+    ]
+  },
+  {
+    "value": "elk",
+    "synonyms": [
+      "elk"
+    ]
+  },
+  {
+    "value": "fish",
+    "synonyms": [
+      "fish"
+    ]
+  },
+  {
+    "value": "fish eggs",
+    "synonyms": [
+      "fish eggs"
+    ]
+  },
+  {
+    "value": "flies",
+    "synonyms": [
+      "flies"
+    ]
+  },
+  {
+    "value": "flower nectar",
+    "synonyms": [
+      "flower nectar"
+    ]
+  },
+  {
+    "value": "flowers",
+    "synonyms": [
+      "flowers"
+    ]
+  },
+  {
+    "value": "frogs",
+    "synonyms": [
+      "frogs"
+    ]
+  },
+  {
+    "value": "fruit",
+    "synonyms": [
+      "fruit"
+    ]
+  },
+  {
+    "value": "fruits",
+    "synonyms": [
+      "fruits"
+    ]
+  },
+  {
+    "value": "fungi",
+    "synonyms": [
+      "fungi"
+    ]
+  },
+  {
+    "value": "fungus",
+    "synonyms": [
+      "fungus"
+    ]
+  },
+  {
+    "value": "goats",
+    "synonyms": [
+      "goats"
+    ]
+  },
+  {
+    "value": "gophers",
+    "synonyms": [
+      "gophers"
+    ]
+  },
+  {
+    "value": "grain",
+    "synonyms": [
+      "grain"
+    ]
+  },
+  {
+    "value": "grains",
+    "synonyms": [
+      "grains"
+    ]
+  },
+  {
+    "value": "grashoppers",
+    "synonyms": [
+      "grashoppers"
+    ]
+  },
+  {
+    "value": "grass",
+    "synonyms": [
+      "grass"
+    ]
+  },
+  {
+    "value": "grasses",
+    "synonyms": [
+      "grasses"
+    ]
+  },
+  {
+    "value": "grasshoppers",
+    "synonyms": [
+      "grasshoppers"
+    ]
+  },
+  {
+    "value": "greenflies",
+    "synonyms": [
+      "greenflies"
+    ]
+  },
+  {
+    "value": "hay",
+    "synonyms": [
+      "hay"
+    ]
+  },
+  {
+    "value": "herbs",
+    "synonyms": [
+      "herbs"
+    ]
+  },
+  {
+    "value": "horses",
+    "synonyms": [
+      "horses"
+    ]
+  },
+  {
+    "value": "insects",
+    "synonyms": [
+      "insects"
+    ]
+  },
+  {
+    "value": "invertebrates",
+    "synonyms": [
+      "invertebrates"
+    ]
+  },
+  {
+    "value": "jellyfish",
+    "synonyms": [
+      "jellyfish"
+    ]
+  },
+  {
+    "value": "krill",
+    "synonyms": [
+      "krill"
+    ]
+  },
+  {
+    "value": "large animals",
+    "synonyms": [
+      "large animals"
+    ]
+  },
+  {
+    "value": "larvae",
+    "synonyms": [
+      "larvae"
+    ]
+  },
+  {
+    "value": "leaves",
+    "synonyms": [
+      "leaves"
+    ]
+  },
+  {
+    "value": "lizards",
+    "synonyms": [
+      "lizards"
+    ]
+  },
+  {
+    "value": "lobster",
+    "synonyms": [
+      "lobster"
+    ]
+  },
+  {
+    "value": "locusts",
+    "synonyms": [
+      "locusts"
+    ]
+  },
+  {
+    "value": "lynxes",
+    "synonyms": [
+      "lynxes"
+    ]
+  },
+  {
+    "value": "marine mammals",
+    "synonyms": [
+      "marine mammals"
+    ]
+  },
+  {
+    "value": "marmots",
+    "synonyms": [
+      "marmots"
+    ]
+  },
+  {
+    "value": "mice",
+    "synonyms": [
+      "mice"
+    ]
+  },
+  {
+    "value": "milk",
+    "synonyms": [
+      "milk"
+    ]
+  },
+  {
+    "value": "moles",
+    "synonyms": [
+      "moles"
+    ]
+  },
+  {
+    "value": "molluscs",
+    "synonyms": [
+      "molluscs"
+    ]
+  },
+  {
+    "value": "mollusks",
+    "synonyms": [
+      "mollusks"
+    ]
+  },
+  {
+    "value": "monkeys",
+    "synonyms": [
+      "monkeys"
+    ]
+  },
+  {
+    "value": "moose",
+    "synonyms": [
+      "moose"
+    ]
+  },
+  {
+    "value": "mosquitoes",
+    "synonyms": [
+      "mosquitoes"
+    ]
+  },
+  {
+    "value": "moths",
+    "synonyms": [
+      "moths"
+    ]
+  },
+  {
+    "value": "nectar",
+    "synonyms": [
+      "nectar"
+    ]
+  },
+  {
+    "value": "nuts",
+    "synonyms": [
+      "nuts"
+    ]
+  },
+  {
+    "value": "oats",
+    "synonyms": [
+      "oats"
+    ]
+  },
+  {
+    "value": "organic non-living material",
+    "synonyms": [
+      "organic non-living material"
+    ]
+  },
+  {
+    "value": "other animals",
+    "synonyms": [
+      "other animals"
+    ]
+  },
+  {
+    "value": "other birds",
+    "synonyms": [
+      "other birds"
+    ]
+  },
+  {
+    "value": "other sharks",
+    "synonyms": [
+      "other sharks"
+    ]
+  },
+  {
+    "value": "pellets",
+    "synonyms": [
+      "pellets"
+    ]
+  },
+  {
+    "value": "pigs",
+    "synonyms": [
+      "pigs"
+    ]
+  },
+  {
+    "value": "plankton",
+    "synonyms": [
+      "plankton"
+    ]
+  },
+  {
+    "value": "plant matter",
+    "synonyms": [
+      "plant matter"
+    ]
+  },
+  {
+    "value": "plants",
+    "synonyms": [
+      "plants"
+    ]
+  },
+  {
+    "value": "pollen",
+    "synonyms": [
+      "pollen"
+    ]
+  },
+  {
+    "value": "prairie dogs",
+    "synonyms": [
+      "prairie dogs"
+    ]
+  },
+  {
+    "value": "rabbits",
+    "synonyms": [
+      "rabbits"
+    ]
+  },
+  {
+    "value": "raccoons",
+    "synonyms": [
+      "raccoons"
+    ]
+  },
+  {
+    "value": "rats",
+    "synonyms": [
+      "rats"
+    ]
+  },
+  {
+    "value": "reindeer",
+    "synonyms": [
+      "reindeer"
+    ]
+  },
+  {
+    "value": "reptiles",
+    "synonyms": [
+      "reptiles"
+    ]
+  },
+  {
+    "value": "rodents",
+    "synonyms": [
+      "rodents"
+    ]
+  },
+  {
+    "value": "roots",
+    "synonyms": [
+      "roots"
+    ]
+  },
+  {
+    "value": "salamanders",
+    "synonyms": [
+      "salamanders"
+    ]
+  },
+  {
+    "value": "scale insect",
+    "synonyms": [
+      "scale insect"
+    ]
+  },
+  {
+    "value": "scorpions",
+    "synonyms": [
+      "scorpions"
+    ]
+  },
+  {
+    "value": "sea squirts",
+    "synonyms": [
+      "sea squirts"
+    ]
+  },
+  {
+    "value": "seagrass",
+    "synonyms": [
+      "seagrass"
+    ]
+  },
+  {
+    "value": "seals",
+    "synonyms": [
+      "seals"
+    ]
+  },
+  {
+    "value": "seaweed",
+    "synonyms": [
+      "seaweed"
+    ]
+  },
+  {
+    "value": "seeds",
+    "synonyms": [
+      "seeds"
+    ]
+  },
+  {
+    "value": "shoots",
+    "synonyms": [
+      "shoots"
+    ]
+  },
+  {
+    "value": "shrimp",
+    "synonyms": [
+      "shrimp"
+    ]
+  },
+  {
+    "value": "shrubs",
+    "synonyms": [
+      "shrubs"
+    ]
+  },
+  {
+    "value": "slugs",
+    "synonyms": [
+      "slugs"
+    ]
+  },
+  {
+    "value": "small animals",
+    "synonyms": [
+      "small animals"
+    ]
+  },
+  {
+    "value": "small birds",
+    "synonyms": [
+      "small birds"
+    ]
+  },
+  {
+    "value": "small crustaceans",
+    "synonyms": [
+      "small crustaceans"
+    ]
+  },
+  {
+    "value": "small fish",
+    "synonyms": [
+      "small fish"
+    ]
+  },
+  {
+    "value": "small mammals",
+    "synonyms": [
+      "small mammals"
+    ]
+  },
+  {
+    "value": "small rodents",
+    "synonyms": [
+      "small rodents"
+    ]
+  },
+  {
+    "value": "small snakes",
+    "synonyms": [
+      "small snakes"
+    ]
+  },
+  {
+    "value": "snails",
+    "synonyms": [
+      "snails"
+    ]
+  },
+  {
+    "value": "snakes",
+    "synonyms": [
+      "snakes"
+    ]
+  },
+  {
+    "value": "soft coral",
+    "synonyms": [
+      "soft coral"
+    ]
+  },
+  {
+    "value": "spiders",
+    "synonyms": [
+      "spiders"
+    ]
+  },
+  {
+    "value": "sponges",
+    "synonyms": [
+      "sponges"
+    ]
+  },
+  {
+    "value": "squid",
+    "synonyms": [
+      "squid"
+    ]
+  },
+  {
+    "value": "squid and other forms of sealife",
+    "synonyms": [
+      "squid and other forms of sealife"
+    ]
+  },
+  {
+    "value": "squirrels",
+    "synonyms": [
+      "squirrels"
+    ]
+  },
+  {
+    "value": "stems",
+    "synonyms": [
+      "stems"
+    ]
+  },
+  {
+    "value": "sugarcane",
+    "synonyms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "value": "termites",
+    "synonyms": [
+      "termites"
+    ]
+  },
+  {
+    "value": "toads",
+    "synonyms": [
+      "toads"
+    ]
+  },
+  {
+    "value": "twigs",
+    "synonyms": [
+      "twigs"
+    ]
+  },
+  {
+    "value": "vegetation",
+    "synonyms": [
+      "vegetation"
+    ]
+  },
+  {
+    "value": "vertebrates",
+    "synonyms": [
+      "vertebrates"
+    ]
+  },
+  {
+    "value": "vines",
+    "synonyms": [
+      "vines"
+    ]
+  },
+  {
+    "value": "voles",
+    "synonyms": [
+      "voles"
+    ]
+  },
+  {
+    "value": "walnuts",
+    "synonyms": [
+      "walnuts"
+    ]
+  },
+  {
+    "value": "walruses",
+    "synonyms": [
+      "walruses"
+    ]
+  },
+  {
+    "value": "wasps",
+    "synonyms": [
+      "wasps"
+    ]
+  },
+  {
+    "value": "waterfowl",
+    "synonyms": [
+      "waterfowl"
+    ]
+  },
+  {
+    "value": "whelks",
+    "synonyms": [
+      "whelks"
+    ]
+  },
+  {
+    "value": "whiteflies",
+    "synonyms": [
+      "whiteflies"
+    ]
+  },
+  {
+    "value": "wild boar",
+    "synonyms": [
+      "wild boar"
+    ]
+  },
+  {
+    "value": "wild cattle",
+    "synonyms": [
+      "wild cattle"
+    ]
+  },
+  {
+    "value": "wood",
+    "synonyms": [
+      "wood"
+    ]
+  },
+  {
+    "value": "worms",
+    "synonyms": [
+      "worms"
+    ]
+  },
+  {
+    "value": "zebras",
+    "synonyms": [
+      "zebras"
+    ]
+  },
+  {
+    "value": "people",
+    "synonyms": [
+      "people",
+      "humans",
+      "me",
+      "a human"
+    ]
+  },
+  {
+    "value": "banana",
+    "synonyms": [
+      "banana",
+      "bananas"
+    ]
+  },
+  {
+    "value": "honey",
+    "synonyms": [
+      "honey"
+    ]
+  },
+  {
+    "value": "fruit",
+    "synonyms": [
+      "fruit"
+    ]
+  },
+  {
+    "value": "apple",
+    "synonyms": [
+      "apple"
+    ]
+  },
+  {
+    "value": "apricot",
+    "synonyms": [
+      "apricot"
+    ]
+  },
+  {
+    "value": "avocado",
+    "synonyms": [
+      "avocado"
+    ]
+  },
+  {
+    "value": "banana",
+    "synonyms": [
+      "banana"
+    ]
+  },
+  {
+    "value": "bell pepper",
+    "synonyms": [
+      "bell pepper"
+    ]
+  },
+  {
+    "value": "bilberry",
+    "synonyms": [
+      "bilberry"
+    ]
+  },
+  {
+    "value": "blackberry",
+    "synonyms": [
+      "blackberry"
+    ]
+  },
+  {
+    "value": "blackcurrant",
+    "synonyms": [
+      "blackcurrant"
+    ]
+  },
+  {
+    "value": "blood orange",
+    "synonyms": [
+      "blood orange"
+    ]
+  },
+  {
+    "value": "blueberry",
+    "synonyms": [
+      "blueberry"
+    ]
+  },
+  {
+    "value": "boysenberry",
+    "synonyms": [
+      "boysenberry"
+    ]
+  },
+  {
+    "value": "breadfruit",
+    "synonyms": [
+      "breadfruit"
+    ]
+  },
+  {
+    "value": "canary melon",
+    "synonyms": [
+      "canary melon"
+    ]
+  },
+  {
+    "value": "cantaloupe",
+    "synonyms": [
+      "cantaloupe"
+    ]
+  },
+  {
+    "value": "cherimoya",
+    "synonyms": [
+      "cherimoya"
+    ]
+  },
+  {
+    "value": "cherry",
+    "synonyms": [
+      "cherry"
+    ]
+  },
+  {
+    "value": "chili pepper",
+    "synonyms": [
+      "chili pepper"
+    ]
+  },
+  {
+    "value": "clementine",
+    "synonyms": [
+      "clementine"
+    ]
+  },
+  {
+    "value": "cloudberry",
+    "synonyms": [
+      "cloudberry"
+    ]
+  },
+  {
+    "value": "coconut",
+    "synonyms": [
+      "coconut"
+    ]
+  },
+  {
+    "value": "cranberry",
+    "synonyms": [
+      "cranberry"
+    ]
+  },
+  {
+    "value": "cucumber",
+    "synonyms": [
+      "cucumber"
+    ]
+  },
+  {
+    "value": "currant",
+    "synonyms": [
+      "currant"
+    ]
+  },
+  {
+    "value": "damson",
+    "synonyms": [
+      "damson"
+    ]
+  },
+  {
+    "value": "date",
+    "synonyms": [
+      "date"
+    ]
+  },
+  {
+    "value": "dragonfruit",
+    "synonyms": [
+      "dragonfruit"
+    ]
+  },
+  {
+    "value": "durian",
+    "synonyms": [
+      "durian"
+    ]
+  },
+  {
+    "value": "eggplant",
+    "synonyms": [
+      "eggplant"
+    ]
+  },
+  {
+    "value": "elderberry",
+    "synonyms": [
+      "elderberry"
+    ]
+  },
+  {
+    "value": "feijoa",
+    "synonyms": [
+      "feijoa"
+    ]
+  },
+  {
+    "value": "fig",
+    "synonyms": [
+      "fig"
+    ]
+  },
+  {
+    "value": "goji berry",
+    "synonyms": [
+      "goji berry"
+    ]
+  },
+  {
+    "value": "gooseberry",
+    "synonyms": [
+      "gooseberry"
+    ]
+  },
+  {
+    "value": "grape",
+    "synonyms": [
+      "grape"
+    ]
+  },
+  {
+    "value": "grapefruit",
+    "synonyms": [
+      "grapefruit"
+    ]
+  },
+  {
+    "value": "guava",
+    "synonyms": [
+      "guava"
+    ]
+  },
+  {
+    "value": "honeydew",
+    "synonyms": [
+      "honeydew"
+    ]
+  },
+  {
+    "value": "huckleberry",
+    "synonyms": [
+      "huckleberry"
+    ]
+  },
+  {
+    "value": "jackfruit",
+    "synonyms": [
+      "jackfruit"
+    ]
+  },
+  {
+    "value": "jambul",
+    "synonyms": [
+      "jambul"
+    ]
+  },
+  {
+    "value": "jujube",
+    "synonyms": [
+      "jujube"
+    ]
+  },
+  {
+    "value": "kiwi fruit",
+    "synonyms": [
+      "kiwi fruit"
+    ]
+  },
+  {
+    "value": "kumquat",
+    "synonyms": [
+      "kumquat"
+    ]
+  },
+  {
+    "value": "lemon",
+    "synonyms": [
+      "lemon"
+    ]
+  },
+  {
+    "value": "lime",
+    "synonyms": [
+      "lime"
+    ]
+  },
+  {
+    "value": "loquat",
+    "synonyms": [
+      "loquat"
+    ]
+  },
+  {
+    "value": "lychee",
+    "synonyms": [
+      "lychee"
+    ]
+  },
+  {
+    "value": "mandarine",
+    "synonyms": [
+      "mandarine"
+    ]
+  },
+  {
+    "value": "mango",
+    "synonyms": [
+      "mango"
+    ]
+  },
+  {
+    "value": "mulberry",
+    "synonyms": [
+      "mulberry"
+    ]
+  },
+  {
+    "value": "nectarine",
+    "synonyms": [
+      "nectarine"
+    ]
+  },
+  {
+    "value": "nut",
+    "synonyms": [
+      "nut"
+    ]
+  },
+  {
+    "value": "olive",
+    "synonyms": [
+      "olive"
+    ]
+  },
+  {
+    "value": "orange",
+    "synonyms": [
+      "orange"
+    ]
+  },
+  {
+    "value": "pamelo",
+    "synonyms": [
+      "pamelo"
+    ]
+  },
+  {
+    "value": "papaya",
+    "synonyms": [
+      "papaya"
+    ]
+  },
+  {
+    "value": "passionfruit",
+    "synonyms": [
+      "passionfruit"
+    ]
+  },
+  {
+    "value": "peach",
+    "synonyms": [
+      "peach"
+    ]
+  },
+  {
+    "value": "pear",
+    "synonyms": [
+      "pear"
+    ]
+  },
+  {
+    "value": "persimmon",
+    "synonyms": [
+      "persimmon"
+    ]
+  },
+  {
+    "value": "physalis",
+    "synonyms": [
+      "physalis"
+    ]
+  },
+  {
+    "value": "pineapple",
+    "synonyms": [
+      "pineapple"
+    ]
+  },
+  {
+    "value": "plum",
+    "synonyms": [
+      "plum"
+    ]
+  },
+  {
+    "value": "pomegranate",
+    "synonyms": [
+      "pomegranate"
+    ]
+  },
+  {
+    "value": "pomelo",
+    "synonyms": [
+      "pomelo"
+    ]
+  },
+  {
+    "value": "purple mangosteen",
+    "synonyms": [
+      "purple mangosteen"
+    ]
+  },
+  {
+    "value": "quince",
+    "synonyms": [
+      "quince"
+    ]
+  },
+  {
+    "value": "raisin",
+    "synonyms": [
+      "raisin"
+    ]
+  },
+  {
+    "value": "rambutan",
+    "synonyms": [
+      "rambutan"
+    ]
+  },
+  {
+    "value": "raspberry",
+    "synonyms": [
+      "raspberry"
+    ]
+  },
+  {
+    "value": "redcurrant",
+    "synonyms": [
+      "redcurrant"
+    ]
+  },
+  {
+    "value": "rock melon",
+    "synonyms": [
+      "rock melon"
+    ]
+  },
+  {
+    "value": "salal berry",
+    "synonyms": [
+      "salal berry"
+    ]
+  },
+  {
+    "value": "satsuma",
+    "synonyms": [
+      "satsuma"
+    ]
+  },
+  {
+    "value": "star fruit",
+    "synonyms": [
+      "star fruit"
+    ]
+  },
+  {
+    "value": "strawberry",
+    "synonyms": [
+      "strawberry"
+    ]
+  },
+  {
+    "value": "tamarillo",
+    "synonyms": [
+      "tamarillo"
+    ]
+  },
+  {
+    "value": "tangerine",
+    "synonyms": [
+      "tangerine"
+    ]
+  },
+  {
+    "value": "tomato",
+    "synonyms": [
+      "tomato"
+    ]
+  },
+  {
+    "value": "ugli fruit",
+    "synonyms": [
+      "ugli fruit"
+    ]
+  },
+  {
+    "value": "watermelon",
+    "synonyms": [
+      "watermelon"
+    ]
+  },
+  {
+    "value": "cats",
+    "synonyms": [
+      "cats"
+    ]
+  },
+  {
+    "value": "garbage",
+    "synonyms": [
+      "garbage",
+      "trash",
+      "dumpster"
+    ]
+  },
+  {
+    "value": "turtles",
+    "synonyms": [
+      "turtles"
+    ]
+  },
+  {
+    "value": "your young",
+    "synonyms": [
+      "your young"
+    ]
+  }
+]

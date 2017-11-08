@@ -1,0 +1,254 @@
+[
+  {
+    "id": "cad85ca5-9345-4af4-895f-db592de47b83",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "carnivore",
+        "alias": "guess",
+        "meta": "@consumptionclass",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118716
+  },
+  {
+    "id": "f92b9630-c8a5-4bc4-b72e-c5c208db4637",
+    "data": [
+      {
+        "text": "Is it a",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "carnivore",
+        "alias": "guess",
+        "meta": "@consumptionclass",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118716
+  },
+  {
+    "id": "ff299d65-96b8-4b7e-9416-2a6013a1f33f",
+    "data": [
+      {
+        "text": "Will it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " eat ",
+        "userDefined": false
+      },
+      {
+        "text": "both plants and meat",
+        "alias": "guess",
+        "meta": "@consumptionclass",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118716
+  },
+  {
+    "id": "9e641c30-dc72-4c0f-8396-eecdcab39b6e",
+    "data": [
+      {
+        "text": "Would it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " eat ",
+        "userDefined": false
+      },
+      {
+        "text": "only meat",
+        "alias": "guess",
+        "meta": "@consumptionclass",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118716
+  },
+  {
+    "id": "888ff827-9d6b-4be4-89ce-72cb6ff491ec",
+    "data": [
+      {
+        "text": "Does",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the animal eat ",
+        "userDefined": false
+      },
+      {
+        "text": "plants only",
+        "alias": "guess",
+        "meta": "@consumptionclass",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118716
+  },
+  {
+    "id": "4df8427a-6df1-45ac-8045-6564395f3ad4",
+    "data": [
+      {
+        "text": "Is it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " an ",
+        "userDefined": false
+      },
+      {
+        "text": "omnivore",
+        "alias": "guess",
+        "meta": "@consumptionclass",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118716
+  },
+  {
+    "id": "ae5d4514-dcb2-42ac-a41c-59fb022a3363",
+    "data": [
+      {
+        "text": "Does it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " eat both ",
+        "userDefined": false
+      },
+      {
+        "text": "plants and animals",
+        "alias": "guess",
+        "meta": "@consumptionclass",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118716
+  },
+  {
+    "id": "43ae2368-6cab-481a-ab2c-a635b9261792",
+    "data": [
+      {
+        "text": "Does it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat only plants",
+        "alias": "guess",
+        "meta": "@consumptionclass",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118716
+  },
+  {
+    "id": "8b97d57c-5233-49dd-a876-6ec24ccf17fd",
+    "data": [
+      {
+        "text": "Is it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " an ",
+        "userDefined": false
+      },
+      {
+        "text": "herbivore",
+        "alias": "guess",
+        "meta": "@consumptionclass",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118716
+  }
+]

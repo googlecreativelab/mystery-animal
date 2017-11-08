@@ -1,0 +1,758 @@
+[
+  {
+    "value": "Africa",
+    "synonyms": [
+      "Africa"
+    ]
+  },
+  {
+    "value": "Antarctica",
+    "synonyms": [
+      "Antarctica"
+    ]
+  },
+  {
+    "value": "Asia",
+    "synonyms": [
+      "Asia"
+    ]
+  },
+  {
+    "value": "Australia",
+    "synonyms": [
+      "Australia"
+    ]
+  },
+  {
+    "value": "Central America",
+    "synonyms": [
+      "Central America"
+    ]
+  },
+  {
+    "value": "Europe",
+    "synonyms": [
+      "Europe"
+    ]
+  },
+  {
+    "value": "New Zealand",
+    "synonyms": [
+      "New Zealand"
+    ]
+  },
+  {
+    "value": "North America",
+    "synonyms": [
+      "North America"
+    ]
+  },
+  {
+    "value": "South America",
+    "synonyms": [
+      "South America"
+    ]
+  },
+  {
+    "value": "The Mediterranean Sea",
+    "synonyms": [
+      "The Mediterranean Sea"
+    ]
+  },
+  {
+    "value": "The Red Sea",
+    "synonyms": [
+      "The Red Sea"
+    ]
+  },
+  {
+    "value": "a forest",
+    "synonyms": [
+      "a forest"
+    ]
+  },
+  {
+    "value": "a nest",
+    "synonyms": [
+      "a nest"
+    ]
+  },
+  {
+    "value": "alpine meadows",
+    "synonyms": [
+      "alpine meadows"
+    ]
+  },
+  {
+    "value": "an estuary",
+    "synonyms": [
+      "an estuary"
+    ]
+  },
+  {
+    "value": "an island",
+    "synonyms": [
+      "an island"
+    ]
+  },
+  {
+    "value": "aquariums",
+    "synonyms": [
+      "aquariums"
+    ]
+  },
+  {
+    "value": "backyards",
+    "synonyms": [
+      "backyards"
+    ]
+  },
+  {
+    "value": "barns",
+    "synonyms": [
+      "barns"
+    ]
+  },
+  {
+    "value": "bays",
+    "synonyms": [
+      "bays"
+    ]
+  },
+  {
+    "value": "brush",
+    "synonyms": [
+      "brush"
+    ]
+  },
+  {
+    "value": "burrows",
+    "synonyms": [
+      "burrows",
+      "holes",
+      "burrow",
+      "hole"
+    ]
+  },
+  {
+    "value": "bushes",
+    "synonyms": [
+      "bushes"
+    ]
+  },
+  {
+    "value": "caves",
+    "synonyms": [
+      "caves"
+    ]
+  },
+  {
+    "value": "cold climates",
+    "synonyms": [
+      "cold climates",
+      "cold",
+      "cold places",
+      "cold weather"
+    ]
+  },
+  {
+    "value": "coops",
+    "synonyms": [
+      "coops"
+    ]
+  },
+  {
+    "value": "coral reefs",
+    "synonyms": [
+      "coral reefs"
+    ]
+  },
+  {
+    "value": "creeks",
+    "synonyms": [
+      "creeks"
+    ]
+  },
+  {
+    "value": "crops",
+    "synonyms": [
+      "crops"
+    ]
+  },
+  {
+    "value": "deserts",
+    "synonyms": [
+      "deserts"
+    ]
+  },
+  {
+    "value": "ditches",
+    "synonyms": [
+      "ditches"
+    ]
+  },
+  {
+    "value": "estuaries",
+    "synonyms": [
+      "estuaries"
+    ]
+  },
+  {
+    "value": "evergreen forests",
+    "synonyms": [
+      "evergreen forests"
+    ]
+  },
+  {
+    "value": "fields",
+    "synonyms": [
+      "fields"
+    ]
+  },
+  {
+    "value": "fishbowls",
+    "synonyms": [
+      "fishbowls"
+    ]
+  },
+  {
+    "value": "forests",
+    "synonyms": [
+      "forests"
+    ]
+  },
+  {
+    "value": "fresh water",
+    "synonyms": [
+      "fresh water"
+    ]
+  },
+  {
+    "value": "freshwater",
+    "synonyms": [
+      "freshwater"
+    ]
+  },
+  {
+    "value": "grass",
+    "synonyms": [
+      "grass"
+    ]
+  },
+  {
+    "value": "grasslands",
+    "synonyms": [
+      "grasslands"
+    ]
+  },
+  {
+    "value": "hollow logs",
+    "synonyms": [
+      "hollow logs"
+    ]
+  },
+  {
+    "value": "hot climates",
+    "synonyms": [
+      "hot climates",
+      "heat",
+      "hot places",
+      "hot weather"
+    ]
+  },
+  {
+    "value": "humid climates",
+    "synonyms": [
+      "humid climates",
+      "humid weather"
+    ]
+  },
+  {
+    "value": "icebergs",
+    "synonyms": [
+      "icebergs"
+    ]
+  },
+  {
+    "value": "islands",
+    "synonyms": [
+      "islands"
+    ]
+  },
+  {
+    "value": "jungles",
+    "synonyms": [
+      "jungles"
+    ]
+  },
+  {
+    "value": "lagoons",
+    "synonyms": [
+      "lagoons"
+    ]
+  },
+  {
+    "value": "lakes",
+    "synonyms": [
+      "lakes"
+    ]
+  },
+  {
+    "value": "land",
+    "synonyms": [
+      "land"
+    ]
+  },
+  {
+    "value": "leaves",
+    "synonyms": [
+      "leaves"
+    ]
+  },
+  {
+    "value": "mangroves",
+    "synonyms": [
+      "mangroves"
+    ]
+  },
+  {
+    "value": "marshes",
+    "synonyms": [
+      "marshes"
+    ]
+  },
+  {
+    "value": "mountains",
+    "synonyms": [
+      "mountains"
+    ]
+  },
+  {
+    "value": "people\u0027s homes",
+    "synonyms": [
+      "people\u0027s homes",
+      "people\u0027s houses",
+      "houses",
+      "homes"
+    ]
+  },
+  {
+    "value": "plateaus",
+    "synonyms": [
+      "plateaus"
+    ]
+  },
+  {
+    "value": "ponds",
+    "synonyms": [
+      "ponds"
+    ]
+  },
+  {
+    "value": "prairies",
+    "synonyms": [
+      "prairies"
+    ]
+  },
+  {
+    "value": "puddles",
+    "synonyms": [
+      "puddles"
+    ]
+  },
+  {
+    "value": "rainforests",
+    "synonyms": [
+      "rainforests"
+    ]
+  },
+  {
+    "value": "rivers",
+    "synonyms": [
+      "rivers",
+      "a river",
+      "river"
+    ]
+  },
+  {
+    "value": "riversides",
+    "synonyms": [
+      "riversides"
+    ]
+  },
+  {
+    "value": "rocks",
+    "synonyms": [
+      "rocks"
+    ]
+  },
+  {
+    "value": "rocky areas",
+    "synonyms": [
+      "rocky areas"
+    ]
+  },
+  {
+    "value": "saline lakes",
+    "synonyms": [
+      "saline lakes"
+    ]
+  },
+  {
+    "value": "sand dunes",
+    "synonyms": [
+      "sand dunes"
+    ]
+  },
+  {
+    "value": "sea coasts",
+    "synonyms": [
+      "sea coasts"
+    ]
+  },
+  {
+    "value": "seagrass",
+    "synonyms": [
+      "seagrass"
+    ]
+  },
+  {
+    "value": "shallow coastal waters",
+    "synonyms": [
+      "shallow coastal waters"
+    ]
+  },
+  {
+    "value": "shrubs",
+    "synonyms": [
+      "shrubs"
+    ]
+  },
+  {
+    "value": "steppes",
+    "synonyms": [
+      "steppes"
+    ]
+  },
+  {
+    "value": "streams",
+    "synonyms": [
+      "streams"
+    ]
+  },
+  {
+    "value": "subtropical climates",
+    "synonyms": [
+      "subtropical climates",
+      "subtropical weather"
+    ]
+  },
+  {
+    "value": "suburban areas",
+    "synonyms": [
+      "suburban areas"
+    ]
+  },
+  {
+    "value": "swamps",
+    "synonyms": [
+      "swamps"
+    ]
+  },
+  {
+    "value": "tanks",
+    "synonyms": [
+      "tanks",
+      "fish tank",
+      "fishtank"
+    ]
+  },
+  {
+    "value": "temperate forests",
+    "synonyms": [
+      "temperate forests"
+    ]
+  },
+  {
+    "value": "the Arctic",
+    "synonyms": [
+      "the Arctic",
+      "arctic"
+    ]
+  },
+  {
+    "value": "the Arctic Circle",
+    "synonyms": [
+      "the Arctic Circle"
+    ]
+  },
+  {
+    "value": "the Caribbean",
+    "synonyms": [
+      "the Caribbean"
+    ]
+  },
+  {
+    "value": "the Northern Hemisphere",
+    "synonyms": [
+      "the Northern Hemisphere"
+    ]
+  },
+  {
+    "value": "the Sahara",
+    "synonyms": [
+      "the Sahara"
+    ]
+  },
+  {
+    "value": "the Savanna",
+    "synonyms": [
+      "the Savanna"
+    ]
+  },
+  {
+    "value": "the Southern Hemisphere",
+    "synonyms": [
+      "the Southern Hemisphere"
+    ]
+  },
+  {
+    "value": "the abyssal depths of the sea",
+    "synonyms": [
+      "the abyssal depths of the sea"
+    ]
+  },
+  {
+    "value": "the bamboo forest",
+    "synonyms": [
+      "the bamboo forest"
+    ]
+  },
+  {
+    "value": "the city",
+    "synonyms": [
+      "the city"
+    ]
+  },
+  {
+    "value": "the cloud forest",
+    "synonyms": [
+      "the cloud forest"
+    ]
+  },
+  {
+    "value": "the country",
+    "synonyms": [
+      "the country"
+    ]
+  },
+  {
+    "value": "the desert",
+    "synonyms": [
+      "the desert"
+    ]
+  },
+  {
+    "value": "the dirt",
+    "synonyms": [
+      "the dirt"
+    ]
+  },
+  {
+    "value": "the forest",
+    "synonyms": [
+      "the forest"
+    ]
+  },
+  {
+    "value": "the hills",
+    "synonyms": [
+      "the hills"
+    ]
+  },
+  {
+    "value": "the mountains",
+    "synonyms": [
+      "the mountains"
+    ]
+  },
+  {
+    "value": "mud",
+    "synonyms": [
+      "the mud",
+      "mud"
+    ]
+  },
+  {
+    "value": "the ocean",
+    "synonyms": [
+      "the ocean",
+      "the sea",
+      "oceans",
+      "seas"
+    ]
+  },
+  {
+    "value": "the plains",
+    "synonyms": [
+      "the plains"
+    ]
+  },
+  {
+    "value": "the rainforest",
+    "synonyms": [
+      "the rainforest"
+    ]
+  },
+  {
+    "value": "the savanna",
+    "synonyms": [
+      "the savanna"
+    ]
+  },
+  {
+    "value": "the scrub",
+    "synonyms": [
+      "the scrub"
+    ]
+  },
+  {
+    "value": "the scrubland",
+    "synonyms": [
+      "the scrubland"
+    ]
+  },
+  {
+    "value": "the scrublands",
+    "synonyms": [
+      "the scrublands"
+    ]
+  },
+  {
+    "value": "the sea",
+    "synonyms": [
+      "the sea"
+    ]
+  },
+  {
+    "value": "the slopes",
+    "synonyms": [
+      "the slopes"
+    ]
+  },
+  {
+    "value": "the suburbs",
+    "synonyms": [
+      "the suburbs"
+    ]
+  },
+  {
+    "value": "the tropics",
+    "synonyms": [
+      "the tropics"
+    ]
+  },
+  {
+    "value": "the tundra",
+    "synonyms": [
+      "the tundra"
+    ]
+  },
+  {
+    "value": "the woods",
+    "synonyms": [
+      "the woods"
+    ]
+  },
+  {
+    "value": "tidal flats",
+    "synonyms": [
+      "tidal flats"
+    ]
+  },
+  {
+    "value": "tree stumps",
+    "synonyms": [
+      "tree stumps"
+    ]
+  },
+  {
+    "value": "trees",
+    "synonyms": [
+      "trees"
+    ]
+  },
+  {
+    "value": "treetops",
+    "synonyms": [
+      "treetops"
+    ]
+  },
+  {
+    "value": "tropical climates",
+    "synonyms": [
+      "tropical climates",
+      "tropical weather"
+    ]
+  },
+  {
+    "value": "urban areas",
+    "synonyms": [
+      "urban areas"
+    ]
+  },
+  {
+    "value": "warm climates",
+    "synonyms": [
+      "warm climates",
+      "warm places",
+      "warmth",
+      "warm weather"
+    ]
+  },
+  {
+    "value": "water",
+    "synonyms": [
+      "water",
+      "underwater",
+      "the water"
+    ]
+  },
+  {
+    "value": "wetlands",
+    "synonyms": [
+      "wetlands"
+    ]
+  },
+  {
+    "value": "woodlands",
+    "synonyms": [
+      "woodlands"
+    ]
+  },
+  {
+    "value": "saltwater",
+    "synonyms": [
+      "saltwater",
+      "salt water"
+    ]
+  },
+  {
+    "value": "freshwater",
+    "synonyms": [
+      "freshwater",
+      "fresh water"
+    ]
+  },
+  {
+    "value": "the ground",
+    "synonyms": [
+      "underground",
+      "under ground",
+      "in the earth",
+      "in earth",
+      "in the ground",
+      "the ground"
+    ]
+  }
+]

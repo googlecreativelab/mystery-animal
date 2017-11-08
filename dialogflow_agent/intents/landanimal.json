@@ -1,0 +1,49 @@
+{
+  "id": "7dd1e9ef-363b-423f-bb90-ad270ec410a8",
+  "name": "landanimal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_info",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c38d9f94-500a-4356-8988-d4eb60ea0bc7",
+          "name": "key",
+          "value": "landanimal",
+          "isList": false
+        },
+        {
+          "id": "20a2f20e-160c-4fd2-833e-f419d6105592",
+          "name": "answertype",
+          "value": "yesno",
+          "isList": false
+        },
+        {
+          "id": "938ac0b8-274a-4f40-8086-61382811fdd7",
+          "dataType": "@landanimal",
+          "name": "guess",
+          "value": "$guess",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507644846,
+  "fallbackIntent": false,
+  "events": []
+}

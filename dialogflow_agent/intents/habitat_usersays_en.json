@@ -1,0 +1,304 @@
+[
+  {
+    "id": "92d580e5-6a39-426d-9fab-38bfd3608256",
+    "data": [
+      {
+        "text": "do you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " like the ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "alias": "guess",
+        "meta": "@habitats",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505849866
+  },
+  {
+    "id": "c6bc5636-3088-47b2-a128-d2bd01c8a35f",
+    "data": [
+      {
+        "text": "do you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " live in ",
+        "userDefined": false
+      },
+      {
+        "text": "Africa",
+        "alias": "guess",
+        "meta": "@habitats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504110255
+  },
+  {
+    "id": "a0654456-229a-4f05-aa8f-120665e7573a",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " found in ",
+        "userDefined": false
+      },
+      {
+        "text": "warm climates",
+        "alias": "guess",
+        "meta": "@habitats",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502485959
+  },
+  {
+    "id": "f1d5d7e7-87ed-4c4c-be71-b46aef4c455d",
+    "data": [
+      {
+        "text": "Do you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " live in ",
+        "userDefined": false
+      },
+      {
+        "text": "cold places",
+        "alias": "guess",
+        "meta": "@habitats",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502485959
+  },
+  {
+    "id": "b9c5758b-6356-48e4-aa3c-d2b0a0ec3934",
+    "data": [
+      {
+        "text": "Do you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " live in ",
+        "userDefined": false
+      },
+      {
+        "text": "South America",
+        "alias": "guess",
+        "meta": "@habitats",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502485959
+  },
+  {
+    "id": "f0b698b2-e854-4d07-af64-b1cebcef6d93",
+    "data": [
+      {
+        "text": "Is",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "fishbowl",
+        "alias": "guess",
+        "meta": "@habitats",
+        "userDefined": false
+      },
+      {
+        "text": " its ",
+        "userDefined": false
+      },
+      {
+        "text": "home",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501685432
+  },
+  {
+    "id": "520c39ea-55dc-4812-b971-9cc6e2c082b6",
+    "data": [
+      {
+        "text": "is it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " found in ",
+        "userDefined": false
+      },
+      {
+        "text": "Africa",
+        "alias": "guess",
+        "meta": "@habitats",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501685432
+  },
+  {
+    "id": "2f8a8b47-8540-43e7-beca-f80e220fb059",
+    "data": [
+      {
+        "text": "Does it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " live in the ",
+        "userDefined": false
+      },
+      {
+        "text": "sea",
+        "alias": "guess",
+        "meta": "@habitats",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501685432
+  },
+  {
+    "id": "112bf26d-7cd6-4c16-8698-630220254c96",
+    "data": [
+      {
+        "text": "Does it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " live on the ",
+        "userDefined": false
+      },
+      {
+        "text": "tundra",
+        "alias": "guess",
+        "meta": "@habitats",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501685432
+  },
+  {
+    "id": "5b0f23a5-e340-4df9-a87a-fdbf8185a24d",
+    "data": [
+      {
+        "text": "Is it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " found in the ",
+        "userDefined": false
+      },
+      {
+        "text": "ocean",
+        "alias": "guess",
+        "meta": "@habitats",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501685432
+  },
+  {
+    "id": "7d2d897a-510d-412f-90af-dd778e30d479",
+    "data": [
+      {
+        "text": "Does it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " live on ",
+        "userDefined": false
+      },
+      {
+        "text": "land",
+        "alias": "guess",
+        "meta": "@habitats",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501685432
+  }
+]

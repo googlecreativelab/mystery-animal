@@ -1,0 +1,388 @@
+[
+  {
+    "id": "35bc3343-2741-4301-a2c6-b0d31a2c5fb5",
+    "data": [
+      {
+        "text": "Can I ",
+        "userDefined": false
+      },
+      {
+        "text": "have you for dinner",
+        "alias": "guess",
+        "meta": "@edible",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506716170
+  },
+  {
+    "id": "708b983e-a65f-4337-ab40-b0e28ec8e505",
+    "data": [
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "people",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat you",
+        "alias": "guess",
+        "meta": "@edible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505841590
+  },
+  {
+    "id": "eb3f39bf-923a-4371-93c7-8a9a0cfeecd1",
+    "data": [
+      {
+        "text": "Do you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "taste",
+        "alias": "guess",
+        "meta": "@edible",
+        "userDefined": true
+      },
+      {
+        "text": " good?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505161200
+  },
+  {
+    "id": "6e6bbdd9-c410-425f-a831-545712a44e0d",
+    "data": [
+      {
+        "text": "can I",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eat you",
+        "alias": "guess",
+        "meta": "@edible",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1505161200
+  },
+  {
+    "id": "d2e92445-10ba-496c-8c12-bef22f8c1621",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "edible",
+        "alias": "guess",
+        "meta": "@edible",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "humans",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505161200
+  },
+  {
+    "id": "943b3891-4efe-4f42-9869-4f30fb742400",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "edible",
+        "alias": "guess",
+        "meta": "@edible",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505161200
+  },
+  {
+    "id": "d9f4fd13-5f47-4533-a320-a3399b138e2f",
+    "data": [
+      {
+        "text": "Could I eat",
+        "alias": "guess",
+        "meta": "@edible",
+        "userDefined": false
+      },
+      {
+        "text": " you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505161200
+  },
+  {
+    "id": "cf215241-b1bc-4fe0-ae85-e3d80db03b36",
+    "data": [
+      {
+        "text": "Can I",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cook it",
+        "alias": "guess",
+        "meta": "@edible",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505161200
+  },
+  {
+    "id": "8ad0b0f7-1056-4aba-9fb5-7682969ea27a",
+    "data": [
+      {
+        "text": "Can I eat",
+        "alias": "guess",
+        "meta": "@edible",
+        "userDefined": true
+      },
+      {
+        "text": " this ",
+        "userDefined": false
+      },
+      {
+        "text": "animal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505161200
+  },
+  {
+    "id": "1cc6fbda-0a1e-4695-a847-37e3f854adde",
+    "data": [
+      {
+        "text": "Could I",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cook",
+        "alias": "guess",
+        "meta": "@edible",
+        "userDefined": true
+      },
+      {
+        "text": " this ",
+        "userDefined": false
+      },
+      {
+        "text": "animal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505161200
+  },
+  {
+    "id": "fe0e28bd-9af1-45e8-af7d-d982aae9361a",
+    "data": [
+      {
+        "text": "Do people eat it",
+        "alias": "guess",
+        "meta": "@edible",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505161200
+  },
+  {
+    "id": "6e90f252-ceea-4011-9c04-66d3b7955268",
+    "data": [
+      {
+        "text": "Can it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " be ",
+        "userDefined": false
+      },
+      {
+        "text": "eaten by humans",
+        "alias": "guess",
+        "meta": "@edible",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505161200
+  },
+  {
+    "id": "b685bc19-0cab-45a8-94ca-3fcbdf438cd1",
+    "data": [
+      {
+        "text": "Can I",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " eat it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118971
+  },
+  {
+    "id": "042fb2a9-dbcb-4272-bf5d-c097750fd1ce",
+    "data": [
+      {
+        "text": "Do people ",
+        "userDefined": false
+      },
+      {
+        "text": "cook it",
+        "alias": "guess",
+        "meta": "@edible",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1505161200
+  },
+  {
+    "id": "47288107-15a4-421b-bd3e-547b366a7eb9",
+    "data": [
+      {
+        "text": "Is it",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " considered to be ",
+        "userDefined": false
+      },
+      {
+        "text": "edible",
+        "alias": "guess",
+        "meta": "@edible",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505161200
+  }
+]

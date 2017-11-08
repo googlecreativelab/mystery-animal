@@ -1,0 +1,47 @@
+{
+  "id": "42907142-3825-433e-91ef-06947591860b",
+  "name": "animal_adjectives",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_info",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b48e616f-bfcc-4815-89bd-0242fab4fbf8",
+          "dataType": "@animal_adjectives",
+          "name": "guess",
+          "value": "$guess",
+          "isList": false
+        },
+        {
+          "id": "2161543b-47ea-4c52-9bb5-1d78b044d71b",
+          "name": "key",
+          "value": "adjectives"
+        },
+        {
+          "id": "e0c41110-7524-4f06-a2e0-f7d055c284ab",
+          "name": "answertype",
+          "value": "match"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1506359885,
+  "fallbackIntent": false,
+  "events": []
+}

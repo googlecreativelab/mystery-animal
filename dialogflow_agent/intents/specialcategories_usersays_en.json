@@ -1,0 +1,200 @@
+[
+  {
+    "id": "605f590d-e21a-4527-b48a-8ffe7619c845",
+    "data": [
+      {
+        "text": "Are you a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "big cat",
+        "alias": "guess",
+        "meta": "@specialcategories",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505856182
+  },
+  {
+    "id": "158d9f80-2d8a-4d77-8d9d-ebe43be6d5bf",
+    "data": [
+      {
+        "text": "Are you a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "snake",
+        "alias": "guess",
+        "meta": "@specialcategories",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505856182
+  },
+  {
+    "id": "8d99c647-9dd1-46fa-9fd5-870edbcdeb2f",
+    "data": [
+      {
+        "text": "are you",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "lizard",
+        "alias": "guess",
+        "meta": "@specialcategories",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504119250
+  },
+  {
+    "id": "4bb2b325-8a36-43dd-869f-be7980fe21ed",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a type of ",
+        "userDefined": false
+      },
+      {
+        "text": "lizard",
+        "alias": "guess",
+        "meta": "@specialcategories",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504119250
+  },
+  {
+    "id": "77130b60-8a6a-4a47-ad54-086a9c622b6c",
+    "data": [
+      {
+        "text": "Is it",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a type of ",
+        "userDefined": false
+      },
+      {
+        "text": "lizard",
+        "alias": "guess",
+        "meta": "@specialcategories",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504119250
+  },
+  {
+    "id": "29bceea9-4dce-4e25-86bb-3c3ed6ddc6e5",
+    "data": [
+      {
+        "text": "Would it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " be considered ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bird of prey",
+        "alias": "guess",
+        "meta": "@specialcategories",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504119250
+  },
+  {
+    "id": "e22caaec-def6-4f44-b7f3-535dd8387dc8",
+    "data": [
+      {
+        "text": "Is it a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lizard",
+        "alias": "guess",
+        "meta": "@specialcategories",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504119250
+  }
+]

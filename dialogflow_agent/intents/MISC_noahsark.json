@@ -1,0 +1,35 @@
+{
+  "id": "95baf9ba-3b90-445c-b891-d09bc975b11c",
+  "name": "MISC_noahsark",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "misc_questions",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "16e13277-df87-448c-9e22-1d7145ac41ef",
+          "name": "key",
+          "value": "MISC_noahsark"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504820423970,
+  "fallbackIntent": false,
+  "events": []
+}

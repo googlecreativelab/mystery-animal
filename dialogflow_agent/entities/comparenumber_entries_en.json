@@ -1,0 +1,48 @@
+[
+  {
+    "value": "more than 2",
+    "synonyms": [
+      "more than 2"
+    ]
+  },
+  {
+    "value": "less than 2",
+    "synonyms": [
+      "less than 2",
+      "fewer than 2"
+    ]
+  },
+  {
+    "value": "more than 1",
+    "synonyms": [
+      "more than 1",
+      "more than 1"
+    ]
+  },
+  {
+    "value": "less than 4",
+    "synonyms": [
+      "less than 4",
+      "fewer than 4"
+    ]
+  },
+  {
+    "value": "more than 4",
+    "synonyms": [
+      "more than 4"
+    ]
+  },
+  {
+    "value": "less than 6",
+    "synonyms": [
+      "less than 6"
+    ]
+  },
+  {
+    "value": "less than 15",
+    "synonyms": [
+      "less than 15",
+      "fewer than 15"
+    ]
+  }
+]

@@ -1,0 +1,1084 @@
+[
+  {
+    "value": "eye patches",
+    "synonyms": [
+      "eye patches",
+      "eye patch"
+    ]
+  },
+  {
+    "value": "a back",
+    "synonyms": [
+      "a back",
+      "back"
+    ]
+  },
+  {
+    "value": "a beak",
+    "synonyms": [
+      "a beak",
+      "beak"
+    ]
+  },
+  {
+    "value": "a belly",
+    "synonyms": [
+      "a belly",
+      "belly",
+      "tummy"
+    ]
+  },
+  {
+    "value": "a bent neck",
+    "synonyms": [
+      "a bent neck",
+      "neck bent",
+      "bent neck"
+    ]
+  },
+  {
+    "value": "a bill",
+    "synonyms": [
+      "a bill",
+      "bill"
+    ]
+  },
+  {
+    "value": "a blowhole",
+    "synonyms": [
+      "a blowhole",
+      "blowhole"
+    ]
+  },
+  {
+    "value": "a carapace",
+    "synonyms": [
+      "a carapace",
+      "carapace"
+    ]
+  },
+  {
+    "value": "a chest",
+    "synonyms": [
+      "a chest",
+      "chest"
+    ]
+  },
+  {
+    "value": "a chin",
+    "synonyms": [
+      "a chin",
+      "chin"
+    ]
+  },
+  {
+    "value": "a coat",
+    "synonyms": [
+      "a coat"
+    ]
+  },
+  {
+    "value": "a collar",
+    "synonyms": [
+      "a collar"
+    ]
+  },
+  {
+    "value": "a coronet",
+    "synonyms": [
+      "a coronet"
+    ]
+  },
+  {
+    "value": "a crest",
+    "synonyms": [
+      "a crest"
+    ]
+  },
+  {
+    "value": "a curled tail",
+    "synonyms": [
+      "a curled tail",
+      "tail curled"
+    ]
+  },
+  {
+    "value": "a foot",
+    "synonyms": [
+      "a foot"
+    ]
+  },
+  {
+    "value": "a forehead",
+    "synonyms": [
+      "a forehead"
+    ]
+  },
+  {
+    "value": "a head",
+    "synonyms": [
+      "a head"
+    ]
+  },
+  {
+    "value": "a head crest",
+    "synonyms": [
+      "a head crest"
+    ]
+  },
+  {
+    "value": "a jaw",
+    "synonyms": [
+      "a jaw"
+    ]
+  },
+  {
+    "value": "a long neck",
+    "synonyms": [
+      "a long neck",
+      "neck long"
+    ]
+  },
+  {
+    "value": "a long snout",
+    "synonyms": [
+      "a long snout",
+      "snout long"
+    ]
+  },
+  {
+    "value": "a mane",
+    "synonyms": [
+      "a mane"
+    ]
+  },
+  {
+    "value": "a mantle",
+    "synonyms": [
+      "a mantle"
+    ]
+  },
+  {
+    "value": "a mouth",
+    "synonyms": [
+      "a mouth"
+    ]
+  },
+  {
+    "value": "a muzzle",
+    "synonyms": [
+      "a muzzle",
+      "muzzle"
+    ]
+  },
+  {
+    "value": "a neck",
+    "synonyms": [
+      "a neck"
+    ]
+  },
+  {
+    "value": "a nose",
+    "synonyms": [
+      "a nose"
+    ]
+  },
+  {
+    "value": "a pouch",
+    "synonyms": [
+      "a pouch"
+    ]
+  },
+  {
+    "value": "a proboscus",
+    "synonyms": [
+      "a proboscus"
+    ]
+  },
+  {
+    "value": "a rattle",
+    "synonyms": [
+      "a rattle"
+    ]
+  },
+  {
+    "value": "a shell",
+    "synonyms": [
+      "a shell"
+    ]
+  },
+  {
+    "value": "a short mane",
+    "synonyms": [
+      "a short mane",
+      "mane short"
+    ]
+  },
+  {
+    "value": "a snout",
+    "synonyms": [
+      "a snout"
+    ]
+  },
+  {
+    "value": "a spine",
+    "synonyms": [
+      "a spine",
+      "spined",
+      "vertebrate",
+      "vertebrae"
+    ]
+  },
+  {
+    "value": "a spur",
+    "synonyms": [
+      "a spur",
+      "spurred"
+    ]
+  },
+  {
+    "value": "a tail",
+    "synonyms": [
+      "a tail",
+      "tailed"
+    ]
+  },
+  {
+    "value": "a tall neck",
+    "synonyms": [
+      "a tall neck"
+    ]
+  },
+  {
+    "value": "a tentacle",
+    "synonyms": [
+      "a tentacle",
+      "tentacled"
+    ]
+  },
+  {
+    "value": "a thorax",
+    "synonyms": [
+      "a thorax"
+    ]
+  },
+  {
+    "value": "a throat",
+    "synonyms": [
+      "a throat"
+    ]
+  },
+  {
+    "value": "a tongue",
+    "synonyms": [
+      "a tongue"
+    ]
+  },
+  {
+    "value": "a triangle tail",
+    "synonyms": [
+      "a triangle tail",
+      "tail triangled"
+    ]
+  },
+  {
+    "value": "a trunk",
+    "synonyms": [
+      "a trunk"
+    ]
+  },
+  {
+    "value": "a venom duct",
+    "synonyms": [
+      "a venom duct"
+    ]
+  },
+  {
+    "value": "a venom gland",
+    "synonyms": [
+      "a venom gland"
+    ]
+  },
+  {
+    "value": "a waist",
+    "synonyms": [
+      "a waist"
+    ]
+  },
+  {
+    "value": "an abdomen",
+    "synonyms": [
+      "an abdomen"
+    ]
+  },
+  {
+    "value": "antennae",
+    "synonyms": [
+      "antennae",
+      "antenna"
+    ]
+  },
+  {
+    "value": "arms",
+    "synonyms": [
+      "arms",
+      "armed"
+    ]
+  },
+  {
+    "value": "bands",
+    "synonyms": [
+      "bands",
+      "banded"
+    ]
+  },
+  {
+    "value": "barbed hairs",
+    "synonyms": [
+      "barbed hairs"
+    ]
+  },
+  {
+    "value": "beak",
+    "synonyms": [
+      "beak"
+    ]
+  },
+  {
+    "value": "belly",
+    "synonyms": [
+      "belly"
+    ]
+  },
+  {
+    "value": "black hooves",
+    "synonyms": [
+      "black hooves",
+      "hooves black"
+    ]
+  },
+  {
+    "value": "black legs",
+    "synonyms": [
+      "black legs",
+      "legs black"
+    ]
+  },
+  {
+    "value": "black spots",
+    "synonyms": [
+      "black spots",
+      "spots black"
+    ]
+  },
+  {
+    "value": "black stripes",
+    "synonyms": [
+      "black stripes",
+      "stripes black"
+    ]
+  },
+  {
+    "value": "bones",
+    "synonyms": [
+      "bones"
+    ]
+  },
+  {
+    "value": "breasts",
+    "synonyms": [
+      "breasts",
+      "breasted"
+    ]
+  },
+  {
+    "value": "carapace",
+    "synonyms": [
+      "carapace"
+    ]
+  },
+  {
+    "value": "cheek pouches",
+    "synonyms": [
+      "cheek pouches"
+    ]
+  },
+  {
+    "value": "chelae",
+    "synonyms": [
+      "chelae"
+    ]
+  },
+  {
+    "value": "chelicerae",
+    "synonyms": [
+      "chelicerae"
+    ]
+  },
+  {
+    "value": "clawed feet",
+    "synonyms": [
+      "clawed feet",
+      "feet clawed"
+    ]
+  },
+  {
+    "value": "claws",
+    "synonyms": [
+      "claws",
+      "clawed"
+    ]
+  },
+  {
+    "value": "coverts",
+    "synonyms": [
+      "coverts"
+    ]
+  },
+  {
+    "value": "curved beak",
+    "synonyms": [
+      "curved beak",
+      "beak curved"
+    ]
+  },
+  {
+    "value": "dark skin",
+    "synonyms": [
+      "dark skin",
+      "skin dark"
+    ]
+  },
+  {
+    "value": "dome",
+    "synonyms": [
+      "dome"
+    ]
+  },
+  {
+    "value": "dots",
+    "synonyms": [
+      "dots",
+      "dotted"
+    ]
+  },
+  {
+    "value": "ear lobes",
+    "synonyms": [
+      "ear lobes"
+    ]
+  },
+  {
+    "value": "ears",
+    "synonyms": [
+      "ears"
+    ]
+  },
+  {
+    "value": "edges",
+    "synonyms": [
+      "edges",
+      "edged"
+    ]
+  },
+  {
+    "value": "exoskeleton",
+    "synonyms": [
+      "exoskeleton"
+    ]
+  },
+  {
+    "value": "eye patches",
+    "synonyms": [
+      "eye patches"
+    ]
+  },
+  {
+    "value": "eye stalks",
+    "synonyms": [
+      "eye stalks"
+    ]
+  },
+  {
+    "value": "eyelashes",
+    "synonyms": [
+      "eyelashes"
+    ]
+  },
+  {
+    "value": "eyes",
+    "synonyms": [
+      "eyes"
+    ]
+  },
+  {
+    "value": "fangs",
+    "synonyms": [
+      "fangs"
+    ]
+  },
+  {
+    "value": "feathers",
+    "synonyms": [
+      "feathers",
+      "feathery",
+      "feathered"
+    ]
+  },
+  {
+    "value": "feet",
+    "synonyms": [
+      "feet",
+      "footed"
+    ]
+  },
+  {
+    "value": "fingers",
+    "synonyms": [
+      "fingers",
+      "fingered"
+    ]
+  },
+  {
+    "value": "fins",
+    "synonyms": [
+      "fins",
+      "finned"
+    ]
+  },
+  {
+    "value": "flippers",
+    "synonyms": [
+      "flippers",
+      "flippered"
+    ]
+  },
+  {
+    "value": "flukes",
+    "synonyms": [
+      "flukes"
+    ]
+  },
+  {
+    "value": "forearms",
+    "synonyms": [
+      "forearms"
+    ]
+  },
+  {
+    "value": "forelimbs",
+    "synonyms": [
+      "forelimbs"
+    ]
+  },
+  {
+    "value": "front",
+    "synonyms": [
+      "front"
+    ]
+  },
+  {
+    "value": "fur",
+    "synonyms": [
+      "fur",
+      "furred",
+      "furry",
+      "free"
+    ]
+  },
+  {
+    "value": "gills",
+    "synonyms": [
+      "gills",
+      "gilled"
+    ]
+  },
+  {
+    "value": "glands",
+    "synonyms": [
+      "glands"
+    ]
+  },
+  {
+    "value": "golden fur",
+    "synonyms": [
+      "golden fur",
+      "fur golden"
+    ]
+  },
+  {
+    "value": "hackles",
+    "synonyms": [
+      "hackles"
+    ]
+  },
+  {
+    "value": "hair",
+    "synonyms": [
+      "hair",
+      "hairy"
+    ]
+  },
+  {
+    "value": "hairs",
+    "synonyms": [
+      "hairs"
+    ]
+  },
+  {
+    "value": "hands",
+    "synonyms": [
+      "hands"
+    ]
+  },
+  {
+    "value": "head",
+    "synonyms": [
+      "head"
+    ]
+  },
+  {
+    "value": "hind legs",
+    "synonyms": [
+      "hind legs"
+    ]
+  },
+  {
+    "value": "hooves",
+    "synonyms": [
+      "hooves",
+      "hooved"
+    ]
+  },
+  {
+    "value": "horns",
+    "synonyms": [
+      "horns",
+      "horned"
+    ]
+  },
+  {
+    "value": "huge eyes",
+    "synonyms": [
+      "huge eyes",
+      "eyes huge"
+    ]
+  },
+  {
+    "value": "jaw",
+    "synonyms": [
+      "jaw",
+      "jawed"
+    ]
+  },
+  {
+    "value": "large belly",
+    "synonyms": [
+      "large belly",
+      "belly large"
+    ]
+  },
+  {
+    "value": "large ears",
+    "synonyms": [
+      "large ears",
+      "ears large"
+    ]
+  },
+  {
+    "value": "large paws",
+    "synonyms": [
+      "large paws",
+      "paws large"
+    ]
+  },
+  {
+    "value": "leather wings",
+    "synonyms": [
+      "leather wings",
+      "wings leather"
+    ]
+  },
+  {
+    "value": "legs",
+    "synonyms": [
+      "legs",
+      "legged"
+    ]
+  },
+  {
+    "value": "long eyelashes",
+    "synonyms": [
+      "long eyelashes",
+      "eyelashes long"
+    ]
+  },
+  {
+    "value": "long legs",
+    "synonyms": [
+      "long legs",
+      "legs long"
+    ]
+  },
+  {
+    "value": "molars",
+    "synonyms": [
+      "molars"
+    ]
+  },
+  {
+    "value": "nostrils",
+    "synonyms": [
+      "nostrils"
+    ]
+  },
+  {
+    "value": "orange eyes",
+    "synonyms": [
+      "orange eyes",
+      "eyes orange"
+    ]
+  },
+  {
+    "value": "orange spots",
+    "synonyms": [
+      "orange spots",
+      "spots orange"
+    ]
+  },
+  {
+    "value": "patches",
+    "synonyms": [
+      "patches",
+      "patchy",
+      "patched"
+    ]
+  },
+  {
+    "value": "patterns",
+    "synonyms": [
+      "patterns",
+      "patterned"
+    ]
+  },
+  {
+    "value": "paws",
+    "synonyms": [
+      "paws",
+      "pawed"
+    ]
+  },
+  {
+    "value": "pointed ears",
+    "synonyms": [
+      "pointed ears",
+      "ears pointed"
+    ]
+  },
+  {
+    "value": "round head",
+    "synonyms": [
+      "round head",
+      "round headed"
+    ]
+  },
+  {
+    "value": "scales",
+    "synonyms": [
+      "scales",
+      "scaley",
+      "scaly",
+      "scaled"
+    ]
+  },
+  {
+    "value": "sharp beak",
+    "synonyms": [
+      "sharp beak",
+      "beak sharp"
+    ]
+  },
+  {
+    "value": "shoulders",
+    "synonyms": [
+      "shoulders"
+    ]
+  },
+  {
+    "value": "skin",
+    "synonyms": [
+      "skin"
+    ]
+  },
+  {
+    "value": "small ears",
+    "synonyms": [
+      "small ears",
+      "ears small"
+    ]
+  },
+  {
+    "value": "small wings",
+    "synonyms": [
+      "small wings",
+      "wings small",
+      "small winged"
+    ]
+  },
+  {
+    "value": "spinnerets",
+    "synonyms": [
+      "spinnerets"
+    ]
+  },
+  {
+    "value": "spiral shell",
+    "synonyms": [
+      "spiral shell",
+      "shell spiral"
+    ]
+  },
+  {
+    "value": "split tongue",
+    "synonyms": [
+      "split tongue",
+      "tongue split"
+    ]
+  },
+  {
+    "value": "spots",
+    "synonyms": [
+      "spots",
+      "spotted",
+      "spotty",
+      "a spot"
+    ]
+  },
+  {
+    "value": "stripes",
+    "synonyms": [
+      "stripes",
+      "striped"
+    ]
+  },
+  {
+    "value": "tail feathers",
+    "synonyms": [
+      "tail feathers"
+    ]
+  },
+  {
+    "value": "tail rings",
+    "synonyms": [
+      "tail rings"
+    ]
+  },
+  {
+    "value": "talons",
+    "synonyms": [
+      "talons"
+    ]
+  },
+  {
+    "value": "tapered edges",
+    "synonyms": [
+      "tapered edges",
+      "edges tapered"
+    ]
+  },
+  {
+    "value": "teats",
+    "synonyms": [
+      "teats",
+      "nipples"
+    ]
+  },
+  {
+    "value": "teeth",
+    "synonyms": [
+      "teeth"
+    ]
+  },
+  {
+    "value": "thick legs",
+    "synonyms": [
+      "thick legs",
+      "legs thick"
+    ]
+  },
+  {
+    "value": "thick skin",
+    "synonyms": [
+      "thick skin",
+      "skin thick",
+      "thick skinned"
+    ]
+  },
+  {
+    "value": "thighs",
+    "synonyms": [
+      "thighs"
+    ]
+  },
+  {
+    "value": "thin legs",
+    "synonyms": [
+      "thin legs",
+      "legs thin"
+    ]
+  },
+  {
+    "value": "thumbs",
+    "synonyms": [
+      "thumbs"
+    ]
+  },
+  {
+    "value": "toes",
+    "synonyms": [
+      "toes"
+    ]
+  },
+  {
+    "value": "tusks",
+    "synonyms": [
+      "tusks",
+      "tusked"
+    ]
+  },
+  {
+    "value": "venom spur",
+    "synonyms": [
+      "venom spur"
+    ]
+  },
+  {
+    "value": "wattles",
+    "synonyms": [
+      "wattles"
+    ]
+  },
+  {
+    "value": "webbed feet",
+    "synonyms": [
+      "webbed feet",
+      "feet webbed"
+    ]
+  },
+  {
+    "value": "webbed paws",
+    "synonyms": [
+      "webbed paws",
+      "paws webbed"
+    ]
+  },
+  {
+    "value": "webbed toes",
+    "synonyms": [
+      "webbed toes",
+      "toes webbed"
+    ]
+  },
+  {
+    "value": "whiskers",
+    "synonyms": [
+      "whiskers",
+      "whiskered"
+    ]
+  },
+  {
+    "value": "white front",
+    "synonyms": [
+      "white front",
+      "front white"
+    ]
+  },
+  {
+    "value": "white stripes",
+    "synonyms": [
+      "white stripes"
+    ]
+  },
+  {
+    "value": "wings",
+    "synonyms": [
+      "wings"
+    ]
+  },
+  {
+    "value": "wrists",
+    "synonyms": [
+      "wrists"
+    ]
+  },
+  {
+    "value": "antlers",
+    "synonyms": [
+      "antlers"
+    ]
+  },
+  {
+    "value": "a skull",
+    "synonyms": [
+      "a skull",
+      "skulls"
+    ]
+  },
+  {
+    "value": "a heart",
+    "synonyms": [
+      "a heart"
+    ]
+  },
+  {
+    "value": "a brain",
+    "synonyms": [
+      "a brain",
+      "brains"
+    ]
+  },
+  {
+    "value": "sharp teeth",
+    "synonyms": [
+      "sharp teeth",
+      "teeth sharp"
+    ]
+  },
+  {
+    "value": "a long tongue",
+    "synonyms": [
+      "a long tongue",
+      "long tongues",
+      "tongue long"
+    ]
+  },
+  {
+    "value": "a curly tail",
+    "synonyms": [
+      "a curly tail",
+      "a curly tail"
+    ]
+  },
+  {
+    "value": "a long tail",
+    "synonyms": [
+      "a long tail",
+      "long tail",
+      "tail long"
+    ]
+  },
+  {
+    "value": "a short tail",
+    "synonyms": [
+      "a short tail",
+      "tail short"
+    ]
+  },
+  {
+    "value": "a fluffy tail",
+    "synonyms": [
+      "a fluffy tail",
+      "tail fluffy"
+    ]
+  }
+]

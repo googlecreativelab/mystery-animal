@@ -1,0 +1,48 @@
+{
+  "id": "4445f2ba-1b87-4db6-b28b-eb0ce2b065e1",
+  "name": "farmanimal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_info",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3cff4a59-993e-4e2e-9523-d6798ba1a012",
+          "dataType": "@farmanimal",
+          "name": "guess",
+          "value": "$guess",
+          "isList": false
+        },
+        {
+          "id": "19d35610-d5a0-483a-a477-b6ce5b453678",
+          "dataType": "",
+          "name": "key",
+          "value": "farmanimal"
+        },
+        {
+          "id": "8615875b-09d4-4cd0-ad56-d5c9836b13f1",
+          "name": "answertype",
+          "value": "yesno"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504647445,
+  "fallbackIntent": false,
+  "events": []
+}

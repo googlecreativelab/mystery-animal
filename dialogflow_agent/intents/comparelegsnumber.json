@@ -1,0 +1,54 @@
+{
+  "id": "c48d972d-aa91-408b-9240-0d2456b88bf7",
+  "name": "comparelegsnumber",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_info",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "23b1fddf-e43e-4280-a915-8829cc6c9459",
+          "name": "key",
+          "value": "legsnumber"
+        },
+        {
+          "id": "1bb20054-e75d-423b-aaea-fdbbb516c65a",
+          "name": "answertype",
+          "value": "comparelegsnumber"
+        },
+        {
+          "id": "ed0f1fd8-7413-4ec3-972c-34da3bebf9c0",
+          "dataType": "@comparenumber",
+          "name": "guess",
+          "value": "$guess",
+          "isList": false
+        },
+        {
+          "id": "ef30d95a-10c6-4f69-a1bb-7e5000cdf940",
+          "dataType": "@bodyparts",
+          "name": "bodyparts",
+          "value": "$bodyparts",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": ""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504711128,
+  "fallbackIntent": false,
+  "events": []
+}

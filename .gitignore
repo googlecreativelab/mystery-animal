@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+firebase_service_account_key.json
+config.json
+.firebaserc
+firebase.json
+database.rules.json
+game_data_raw.json
+response_raw.json
+profanities.json

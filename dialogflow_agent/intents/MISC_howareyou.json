@@ -1,0 +1,36 @@
+{
+  "id": "dd6aff8e-5174-4d67-a35f-a8e04027795f",
+  "name": "MISC_howareyou",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "misc_questions",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f65e99c2-9279-489f-ac1a-7a185f2cbda4",
+          "required": false,
+          "name": "key",
+          "value": "MISC_howareyou"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504647094,
+  "fallbackIntent": false,
+  "events": []
+}

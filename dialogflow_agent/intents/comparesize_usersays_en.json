@@ -1,0 +1,528 @@
+[
+  {
+    "id": "83e600f1-6d83-47fa-ab8e-6e9a1a3fd1fd",
+    "data": [
+      {
+        "text": "are you taller than a ",
+        "userDefined": false
+      },
+      {
+        "text": "giraffe",
+        "alias": "compareanimal",
+        "meta": "@animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509302307
+  },
+  {
+    "id": "8d994cab-8161-491f-8516-032b01962865",
+    "data": [
+      {
+        "text": "do you ",
+        "userDefined": false
+      },
+      {
+        "text": "weigh less than",
+        "alias": "compareword",
+        "meta": "@comparesize",
+        "userDefined": false
+      },
+      {
+        "text": " the typical ",
+        "userDefined": false
+      },
+      {
+        "text": "porcupine",
+        "alias": "compareanimal",
+        "meta": "@animals",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1508958228
+  },
+  {
+    "id": "870a6dee-18a3-4c1a-aaeb-1de516cfaee9",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bigger than",
+        "alias": "compareword",
+        "meta": "@comparesize",
+        "userDefined": false
+      },
+      {
+        "text": " an average ",
+        "userDefined": false
+      },
+      {
+        "text": "bear",
+        "alias": "compareanimal",
+        "meta": "@animals",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508944447
+  },
+  {
+    "id": "1e7cbf99-4d64-48b6-8a54-e84960303677",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bigger than",
+        "alias": "compareword",
+        "meta": "@comparesize",
+        "userDefined": false
+      },
+      {
+        "text": " the average ",
+        "userDefined": false
+      },
+      {
+        "text": "person",
+        "alias": "compareanimal",
+        "meta": "@animals",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508944447
+  },
+  {
+    "id": "f9847fcb-e2dc-4640-b973-947c84daa209",
+    "data": [
+      {
+        "text": "are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "larger than",
+        "alias": "compareword",
+        "meta": "@comparesize",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "human",
+        "alias": "compareanimal",
+        "meta": "@animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1504647924
+  },
+  {
+    "id": "55c14910-1814-4b7f-ae95-43422f9fe070",
+    "data": [
+      {
+        "text": "are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bigger than",
+        "alias": "compareword",
+        "meta": "@comparesize",
+        "userDefined": false
+      },
+      {
+        "text": " a bird",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1504118932
+  },
+  {
+    "id": "a4457207-7e98-4718-a0da-135aab3c2ff4",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "smaller than",
+        "alias": "compareword",
+        "meta": "@comparesize",
+        "userDefined": false
+      },
+      {
+        "text": " an ",
+        "userDefined": false
+      },
+      {
+        "text": "elephant",
+        "alias": "compareanimal",
+        "meta": "@animals",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118932
+  },
+  {
+    "id": "f22a47ba-9e3a-44c8-abe0-46704b56dce8",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bigger than",
+        "alias": "compareword",
+        "meta": "@comparesize",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "prairie dog",
+        "alias": "compareanimal",
+        "meta": "@animals",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118932
+  },
+  {
+    "id": "fca23308-0bc8-46ab-a446-dd8973d8e07b",
+    "data": [
+      {
+        "text": "Is it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bigger than",
+        "alias": "compareword",
+        "meta": "@comparesize",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "human",
+        "alias": "compareanimal",
+        "meta": "@animals",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118932
+  },
+  {
+    "id": "bb954267-3ef3-4448-b9bd-75e2c1e33d93",
+    "data": [
+      {
+        "text": "Is it",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bigger than",
+        "alias": "compareword",
+        "meta": "@comparesize",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "shark",
+        "alias": "compareanimal",
+        "meta": "@animals",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118932
+  },
+  {
+    "id": "da0f6780-0a54-4f71-8942-0b8370ec5701",
+    "data": [
+      {
+        "text": "Does it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "weigh less than",
+        "alias": "compareword",
+        "meta": "@comparesize",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "hippo",
+        "alias": "compareanimal",
+        "meta": "@animals",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118932
+  },
+  {
+    "id": "3461a4db-6881-4513-8b04-cfaed34a0aae",
+    "data": [
+      {
+        "text": "Does it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "weigh more than",
+        "alias": "compareword",
+        "meta": "@comparesize",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "cat",
+        "alias": "compareanimal",
+        "meta": "@animals",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118932
+  },
+  {
+    "id": "f5ff255f-e988-4fc4-af9a-1ea182c79659",
+    "data": [
+      {
+        "text": "Are",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " they ",
+        "userDefined": false
+      },
+      {
+        "text": "smaller than",
+        "alias": "compareword",
+        "meta": "@comparesize",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pandas",
+        "alias": "compareanimal",
+        "meta": "@animals",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118932
+  },
+  {
+    "id": "2cc22cbf-b179-48b9-bd0b-3d8f67042dec",
+    "data": [
+      {
+        "text": "Is the animal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "smaller than",
+        "alias": "compareword",
+        "meta": "@comparesize",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "an ant",
+        "alias": "compareanimal",
+        "meta": "@animals",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118932
+  },
+  {
+    "id": "6d8dc394-44f5-4140-bca4-720e5f7c25b5",
+    "data": [
+      {
+        "text": "Is it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bigger than",
+        "alias": "compareword",
+        "meta": "@comparesize",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "alias": "compareanimal",
+        "meta": "@animals",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504118932
+  }
+]

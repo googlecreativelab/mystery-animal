@@ -1,0 +1,232 @@
+[
+  {
+    "id": "2c97e0e3-9537-4a76-918a-acc91981f438",
+    "data": [
+      {
+        "text": "Do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "comboFeatures",
+        "meta": "@animal_adjectives",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "legs",
+        "alias": "comboBody_parts",
+        "meta": "@bodyparts",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1505503504
+  },
+  {
+    "id": "ed00e932-f097-4bd1-ba06-4abaafe71eb3",
+    "data": [
+      {
+        "text": "do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "white",
+        "alias": "comboColor",
+        "meta": "@animal_colors",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "paws",
+        "alias": "comboBody_parts",
+        "meta": "@bodyparts",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505503504
+  },
+  {
+    "id": "a54a2d93-c507-4fd6-b286-3ff54cdf2d5f",
+    "data": [
+      {
+        "text": "Do you",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "comboSize",
+        "meta": "@friendlysizemass",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "head",
+        "alias": "comboBody_parts",
+        "meta": "@bodyparts",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505503504
+  },
+  {
+    "id": "f7daaee9-fae0-4f19-b5b2-cad4ecf62540",
+    "data": [
+      {
+        "text": "Does it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "big",
+        "alias": "comboSize",
+        "meta": "@friendlysizemass",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "head",
+        "alias": "comboBody_parts",
+        "meta": "@bodyparts",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505503504
+  },
+  {
+    "id": "14f6c7eb-cb9e-4828-afba-a13f2f5290a7",
+    "data": [
+      {
+        "text": "Does the animal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "white",
+        "alias": "comboColor",
+        "meta": "@animal_colors",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "feathers",
+        "alias": "comboBody_parts",
+        "meta": "@bodyparts",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505503504
+  },
+  {
+    "id": "7ec23b5d-cc0c-42c7-a989-17bbddb59bd2",
+    "data": [
+      {
+        "text": "Does it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "brown",
+        "alias": "comboColor",
+        "meta": "@animal_colors",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fur",
+        "alias": "comboBody_parts",
+        "meta": "@bodyparts",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505503504
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "value": "walk",
+    "synonyms": [
+      "walk",
+      "walking"
+    ]
+  },
+  {
+    "value": "run",
+    "synonyms": [
+      "run",
+      "running"
+    ]
+  },
+  {
+    "value": "wade",
+    "synonyms": [
+      "wade",
+      "wading"
+    ]
+  },
+  {
+    "value": "fly",
+    "synonyms": [
+      "fly",
+      "flying"
+    ]
+  },
+  {
+    "value": "swim",
+    "synonyms": [
+      "swim",
+      "swimming",
+      "swimmer"
+    ]
+  },
+  {
+    "value": "crawl",
+    "synonyms": [
+      "crawl",
+      "crawling"
+    ]
+  },
+  {
+    "value": "climb",
+    "synonyms": [
+      "climb",
+      "climbing",
+      "climbs"
+    ]
+  },
+  {
+    "value": "box",
+    "synonyms": [
+      "box"
+    ]
+  },
+  {
+    "value": "canter",
+    "synonyms": [
+      "canter"
+    ]
+  },
+  {
+    "value": "charge",
+    "synonyms": [
+      "charge"
+    ]
+  },
+  {
+    "value": "climb",
+    "synonyms": [
+      "climb"
+    ]
+  },
+  {
+    "value": "crawl",
+    "synonyms": [
+      "crawl"
+    ]
+  },
+  {
+    "value": "fly",
+    "synonyms": [
+      "fly"
+    ]
+  },
+  {
+    "value": "gallop",
+    "synonyms": [
+      "gallop"
+    ]
+  },
+  {
+    "value": "glide",
+    "synonyms": [
+      "glide"
+    ]
+  },
+  {
+    "value": "hop",
+    "synonyms": [
+      "hop"
+    ]
+  },
+  {
+    "value": "jump",
+    "synonyms": [
+      "jump"
+    ]
+  },
+  {
+    "value": "kick",
+    "synonyms": [
+      "kick"
+    ]
+  },
+  {
+    "value": "leap",
+    "synonyms": [
+      "leap"
+    ]
+  },
+  {
+    "value": "m",
+    "synonyms": [
+      "m"
+    ]
+  },
+  {
+    "value": "pound",
+    "synonyms": [
+      "pound"
+    ]
+  },
+  {
+    "value": "roll",
+    "synonyms": [
+      "roll"
+    ]
+  },
+  {
+    "value": "run",
+    "synonyms": [
+      "run"
+    ]
+  },
+  {
+    "value": "sit",
+    "synonyms": [
+      "sit"
+    ]
+  },
+  {
+    "value": "slither",
+    "synonyms": [
+      "slither"
+    ]
+  },
+  {
+    "value": "stand",
+    "synonyms": [
+      "stand"
+    ]
+  },
+  {
+    "value": "stomp",
+    "synonyms": [
+      "stomp"
+    ]
+  },
+  {
+    "value": "swim",
+    "synonyms": [
+      "swim"
+    ]
+  },
+  {
+    "value": "throw",
+    "synonyms": [
+      "throw"
+    ]
+  },
+  {
+    "value": "trot",
+    "synonyms": [
+      "trot"
+    ]
+  },
+  {
+    "value": "undulate",
+    "synonyms": [
+      "undulate"
+    ]
+  },
+  {
+    "value": "waddle",
+    "synonyms": [
+      "waddle"
+    ]
+  },
+  {
+    "value": "wade",
+    "synonyms": [
+      "wade"
+    ]
+  },
+  {
+    "value": "walk",
+    "synonyms": [
+      "walk"
+    ]
+  },
+  {
+    "value": "walk sideways",
+    "synonyms": [
+      "walk sideways"
+    ]
+  },
+  {
+    "value": "wallow",
+    "synonyms": [
+      "wallow"
+    ]
+  }
+]

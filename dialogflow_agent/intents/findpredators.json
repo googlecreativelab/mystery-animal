@@ -1,0 +1,49 @@
+{
+  "id": "6e30fc5e-afd2-4f30-a7f3-6648e590294c",
+  "name": "findpredators",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_info",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b8c6bd1c-6e95-4583-8574-fcf476d04173",
+          "dataType": "@animals",
+          "name": "guess",
+          "value": "$guess",
+          "isList": false
+        },
+        {
+          "id": "8a9b1127-1741-4bbc-87b0-658a9f609743",
+          "name": "key",
+          "value": "predators",
+          "isList": false
+        },
+        {
+          "id": "ec7cc13c-ab1c-4988-9584-3d2f9c9f2c14",
+          "name": "answertype",
+          "value": "match",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507648799,
+  "fallbackIntent": false,
+  "events": []
+}

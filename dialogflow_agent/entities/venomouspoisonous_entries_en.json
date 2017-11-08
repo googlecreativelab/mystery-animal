@@ -1,0 +1,20 @@
+[
+  {
+    "value": "venomous",
+    "synonyms": [
+      "venomous",
+      "venemous",
+      "venom",
+      "harmful"
+    ]
+  },
+  {
+    "value": "poisonous",
+    "synonyms": [
+      "poisonous",
+      "poison",
+      "poisoned",
+      "poisoning"
+    ]
+  }
+]

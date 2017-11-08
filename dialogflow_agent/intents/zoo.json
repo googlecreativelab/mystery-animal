@@ -1,0 +1,47 @@
+{
+  "id": "dd22253d-ccfa-478e-bcea-9f3bec02f7fe",
+  "name": "zoo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_info",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "209d33e1-5b0d-4ad1-88fb-87e5cfbaeb04",
+          "dataType": "@zoo",
+          "name": "guess",
+          "value": "$guess",
+          "isList": false
+        },
+        {
+          "id": "d0fd2582-bcee-4c0e-a2e7-4e830f5e21dc",
+          "name": "answertype",
+          "value": "yesno"
+        },
+        {
+          "id": "641ea314-d6bb-47a3-88a2-f4db2b6e48fa",
+          "name": "key",
+          "value": "zoo"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1505162354,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,195 @@
+[
+  {
+    "id": "c1130246-fbd4-497c-bb1d-b1d3b3ec607c",
+    "data": [
+      {
+        "text": "Help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b07b238a-e3c6-426f-85f9-ced3b02ac09f",
+    "data": [
+      {
+        "text": "I don\u0027t know",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a8f14e1-0a05-4a96-8c04-b7b8e469b3f5",
+    "data": [
+      {
+        "text": "what",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " questions should ",
+        "userDefined": false
+      },
+      {
+        "text": "I",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ask?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506960301
+  },
+  {
+    "id": "c25222d8-4533-4d7c-a6cc-c0c3c7426948",
+    "data": [
+      {
+        "text": "i hate this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505924490
+  },
+  {
+    "id": "72f85f4f-6069-43f3-a308-fbf5fbce816d",
+    "data": [
+      {
+        "text": "i",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hate you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505924490
+  },
+  {
+    "id": "c4d096a7-9611-4204-a3ad-d01e7cdb3d93",
+    "data": [
+      {
+        "text": "what is my task",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505856571
+  },
+  {
+    "id": "b566f24d-9f92-4634-ae95-7ff56e607cc5",
+    "data": [
+      {
+        "text": "I don\u0027t know",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "what",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " questions to ask",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505836974
+  },
+  {
+    "id": "a9d33d04-8410-4c41-83df-a0d026cc9ad6",
+    "data": [
+      {
+        "text": "I don\u0027t know",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "what",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to ask",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505836974
+  },
+  {
+    "id": "90a7d4de-7d6b-42d9-8274-0d0bda38befc",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kind of questions ",
+        "userDefined": false
+      },
+      {
+        "text": "can I",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ask?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505836974
+  },
+  {
+    "id": "72852376-8b7f-42be-9117-9b43f5b3aeb0",
+    "data": [
+      {
+        "text": "I need help",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505836974
+  },
+  {
+    "id": "2a6d1b02-3fba-43b6-bff3-3a4b617dea69",
+    "data": [
+      {
+        "text": "I\u0027m stuck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505836974
+  }
+]

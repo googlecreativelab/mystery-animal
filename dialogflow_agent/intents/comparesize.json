@@ -1,0 +1,62 @@
+{
+  "id": "d6bb2d11-6f41-42d0-92ff-b5dfc88e7bfb",
+  "name": "comparesize",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "compare_size",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "af29204f-55c9-4587-940e-fd08af66b46a",
+          "dataType": "@comparesize",
+          "name": "compareword",
+          "value": "$compareword",
+          "isList": false
+        },
+        {
+          "id": "900950b2-5840-4935-9f5e-9dc1e7982191",
+          "dataType": "@animals",
+          "name": "compareanimal",
+          "value": "$compareanimal",
+          "isList": false
+        },
+        {
+          "id": "fc6336c6-024f-45cd-80f4-dd94f14d65d9",
+          "name": "answertype",
+          "value": "compare",
+          "isList": false
+        },
+        {
+          "id": "4ca657c4-de46-4f3c-bbaf-1c3ab4d32ed4",
+          "name": "guess",
+          "value": "$compareword\n a $compareanimal",
+          "isList": false
+        },
+        {
+          "id": "283dcb41-53fe-424e-ba0c-bdf0a2c9b2b2",
+          "name": "key",
+          "value": "comparesize",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509302307,
+  "fallbackIntent": false,
+  "events": []
+}

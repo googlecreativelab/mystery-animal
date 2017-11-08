@@ -1,0 +1,35 @@
+{
+  "id": "34e31e4d-1cad-451a-8127-b73c20096bfd",
+  "name": "MISC_gender",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "misc_questions",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e7471caf-ed50-4e94-ab12-50c81ccd9e23",
+          "name": "key",
+          "value": "MISC_gender"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1505836892,
+  "fallbackIntent": false,
+  "events": []
+}

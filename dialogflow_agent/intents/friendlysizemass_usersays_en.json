@@ -1,0 +1,164 @@
+[
+  {
+    "id": "20ae7750-dfb4-48af-b5ea-5c5eaafb7f30",
+    "data": [
+      {
+        "text": "Are you a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tiny",
+        "alias": "guess",
+        "meta": "@friendlysizemass",
+        "userDefined": true
+      },
+      {
+        "text": " thing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509403080
+  },
+  {
+    "id": "344b7780-7eec-4d1c-ac2f-27e0862f229f",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "huge",
+        "alias": "guess",
+        "meta": "@friendlysizemass",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "animal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1504119059
+  },
+  {
+    "id": "bec3ccc7-6e95-42db-adfe-df6ed1e62f8d",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "big",
+        "alias": "guess",
+        "meta": "@friendlysizemass",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504119059
+  },
+  {
+    "id": "15e5a595-4bfc-4495-b41d-31b993627b7f",
+    "data": [
+      {
+        "text": "Would",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you consider it to be a ",
+        "userDefined": false
+      },
+      {
+        "text": "little",
+        "alias": "guess",
+        "meta": "@friendlysizemass",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "animal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504119059
+  },
+  {
+    "id": "aae5e069-8df3-462f-a583-b408ff8154cc",
+    "data": [
+      {
+        "text": "Would it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " be considered a ",
+        "userDefined": false
+      },
+      {
+        "text": "huge",
+        "alias": "guess",
+        "meta": "@friendlysizemass",
+        "userDefined": false
+      },
+      {
+        "text": " animal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504119059
+  }
+]

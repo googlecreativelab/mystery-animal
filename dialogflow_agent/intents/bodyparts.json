@@ -1,0 +1,49 @@
+{
+  "id": "83fa4293-c59a-4a7e-9119-456ae1542078",
+  "name": "bodyparts",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_info",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cb41a8f9-65ea-45bc-a451-82d114371e75",
+          "dataType": "@bodyparts",
+          "name": "guess",
+          "value": "$guess",
+          "isList": false
+        },
+        {
+          "id": "70ffc257-9401-45a1-8afa-6421c2a913ed",
+          "name": "key",
+          "value": "bodyparts",
+          "isList": false
+        },
+        {
+          "id": "f648789f-d318-43a4-ab84-cbc016de2cfc",
+          "name": "answertype",
+          "value": "match",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1505856571,
+  "fallbackIntent": false,
+  "events": []
+}

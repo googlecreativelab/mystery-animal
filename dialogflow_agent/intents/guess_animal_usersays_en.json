@@ -1,0 +1,296 @@
+[
+  {
+    "id": "8609d0c9-a1e3-4191-b8d7-21559330ac50",
+    "data": [
+      {
+        "text": "Are you a",
+        "alias": "guessanimal",
+        "meta": "@guessanimal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "flamingo",
+        "alias": "guess",
+        "meta": "@animals",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505233009
+  },
+  {
+    "id": "e17caf98-c67c-4def-b6d0-905baf74cf85",
+    "data": [
+      {
+        "text": "Are you an",
+        "alias": "guessanimal",
+        "meta": "@guessanimal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ant",
+        "alias": "guess",
+        "meta": "@animals",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505233009
+  },
+  {
+    "id": "6b457f4e-6d12-49c8-b627-12415a226694",
+    "data": [
+      {
+        "text": "are you a",
+        "alias": "guessanimal",
+        "meta": "@guessanimal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheetah",
+        "alias": "guess",
+        "meta": "@animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504110255
+  },
+  {
+    "id": "d8e8354e-ecce-47e7-a94f-fa803e87ac46",
+    "data": [
+      {
+        "text": "Are you a",
+        "alias": "guessanimal",
+        "meta": "@guessanimal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tuna",
+        "alias": "guess",
+        "meta": "@animals",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502485736
+  },
+  {
+    "id": "f43e0365-2281-43b9-99d1-4867270ce15d",
+    "data": [
+      {
+        "text": "You\u0027re",
+        "alias": "guessanimal",
+        "meta": "@guessanimal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "alias": "guess",
+        "meta": "@animals",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502485736
+  },
+  {
+    "id": "0a8f5006-f108-4b9f-9cf5-6987fc546eaf",
+    "data": [
+      {
+        "text": "it\u0027s a",
+        "alias": "guessanimal",
+        "meta": "@guessanimal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chameleon",
+        "alias": "guess",
+        "meta": "@animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502392952
+  },
+  {
+    "id": "44d9e90b-ed4a-4279-8913-0ea2d92f9048",
+    "data": [
+      {
+        "text": "Is it a",
+        "alias": "guessanimal",
+        "meta": "@guessanimal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tuna",
+        "alias": "guess",
+        "meta": "@animals",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1502392952
+  },
+  {
+    "id": "511cc8fc-b89d-44bd-984c-599b220e382a",
+    "data": [
+      {
+        "text": "Beaver",
+        "alias": "guess",
+        "meta": "@animals",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502392952
+  },
+  {
+    "id": "47d6f1fb-4076-4a08-a187-afb610bd65db",
+    "data": [
+      {
+        "text": "Dog!",
+        "alias": "guess",
+        "meta": "@animals",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502392952
+  },
+  {
+    "id": "b92b1390-c08e-42de-bdb7-f9b13c4d05a0",
+    "data": [
+      {
+        "text": "It\u0027s a",
+        "alias": "guessanimal",
+        "meta": "@guessanimal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mouse",
+        "alias": "guess",
+        "meta": "@animals",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502392952
+  },
+  {
+    "id": "97cdbc71-84ce-470e-a58d-97fc8c1fc91d",
+    "data": [
+      {
+        "text": "I know",
+        "alias": "guessanimal",
+        "meta": "@guessanimal",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "it\u0027s a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "camel",
+        "alias": "guess",
+        "meta": "@animals",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502392952
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "value": "what",
+    "synonyms": [
+      "what",
+      "what do",
+      "what does"
+    ]
+  },
+  {
+    "value": "where",
+    "synonyms": [
+      "where",
+      "where do",
+      "where does"
+    ]
+  },
+  {
+    "value": "who",
+    "synonyms": [
+      "who",
+      "who does"
+    ]
+  },
+  {
+    "value": "how",
+    "synonyms": [
+      "how",
+      "how do",
+      "how does"
+    ]
+  },
+  {
+    "value": "when",
+    "synonyms": [
+      "when",
+      "when do",
+      "when does"
+    ]
+  },
+  {
+    "value": "why",
+    "synonyms": [
+      "why",
+      "why do",
+      "why does"
+    ]
+  },
+  {
+    "value": "tell me about",
+    "synonyms": [
+      "tell me about",
+      "tell me about your"
+    ]
+  }
+]

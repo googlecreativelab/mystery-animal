@@ -1,0 +1,155 @@
+[
+  {
+    "id": "195acb00-4027-4196-969c-e2c96daa928b",
+    "data": [
+      {
+        "text": "Are you",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " an ",
+        "userDefined": false
+      },
+      {
+        "text": "egg-laying",
+        "alias": "guess",
+        "meta": "@lay_eggs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "animal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504119160
+  },
+  {
+    "id": "12b8f40c-4f76-4694-b09e-35422933a9b4",
+    "data": [
+      {
+        "text": "Do you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lay ",
+        "userDefined": false
+      },
+      {
+        "text": "eggs",
+        "alias": "guess",
+        "meta": "@lay_eggs",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504119160
+  },
+  {
+    "id": "8db0ef96-9f7b-4109-b552-70724fd12c36",
+    "data": [
+      {
+        "text": "Is it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "egg-laying",
+        "alias": "guess",
+        "meta": "@lay_eggs",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504119160
+  },
+  {
+    "id": "b220014b-65cc-4098-a2bb-5df1499a2421",
+    "data": [
+      {
+        "text": "Is it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " an ",
+        "userDefined": false
+      },
+      {
+        "text": "animal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " that ",
+        "userDefined": false
+      },
+      {
+        "text": "lays eggs",
+        "alias": "guess",
+        "meta": "@lay_eggs",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504119160
+  },
+  {
+    "id": "b1c2718b-f27b-4b47-8f64-f746e4f699bb",
+    "data": [
+      {
+        "text": "Does it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "eggs",
+        "alias": "guess",
+        "meta": "@lay_eggs",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504119160
+  }
+]

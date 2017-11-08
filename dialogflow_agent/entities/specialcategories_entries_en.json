@@ -1,0 +1,112 @@
+[
+  {
+    "value": "lizard",
+    "synonyms": [
+      "lizard"
+    ]
+  },
+  {
+    "value": "bird of prey",
+    "synonyms": [
+      "bird of prey"
+    ]
+  },
+  {
+    "value": "feline",
+    "synonyms": [
+      "feline",
+      "type of cat"
+    ]
+  },
+  {
+    "value": "flightless bird",
+    "synonyms": [
+      "flightless bird",
+      "bird who can\u0027t fly"
+    ]
+  },
+  {
+    "value": "canine",
+    "synonyms": [
+      "canine",
+      "type of dog"
+    ]
+  },
+  {
+    "value": "bear",
+    "synonyms": [
+      "bear",
+      "type of bear"
+    ]
+  },
+  {
+    "value": "mollusk",
+    "synonyms": [
+      "mollusk"
+    ]
+  },
+  {
+    "value": "swine",
+    "synonyms": [
+      "swine"
+    ]
+  },
+  {
+    "value": "primate",
+    "synonyms": [
+      "primate"
+    ]
+  },
+  {
+    "value": "marsupial",
+    "synonyms": [
+      "marsupial"
+    ]
+  },
+  {
+    "value": "insect",
+    "synonyms": [
+      "insect",
+      "bug"
+    ]
+  },
+  {
+    "value": "spider",
+    "synonyms": [
+      "spider",
+      "spiders"
+    ]
+  },
+  {
+    "value": "snake",
+    "synonyms": [
+      "snake",
+      "snakes",
+      "python"
+    ]
+  },
+  {
+    "value": "big cat",
+    "synonyms": [
+      "big cat"
+    ]
+  },
+  {
+    "value": "rodent",
+    "synonyms": [
+      "rodent"
+    ]
+  },
+  {
+    "value": "viper",
+    "synonyms": [
+      "viper"
+    ]
+  },
+  {
+    "value": "sea creature",
+    "synonyms": [
+      "sea creature"
+    ]
+  }
+]

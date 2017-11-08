@@ -1,0 +1,47 @@
+{
+  "id": "a587ef4a-5e00-4fe4-8c6b-c135ac285718",
+  "name": "venomouspoisonous",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_info",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a0173b05-ce53-47af-a1bc-8c741acac458",
+          "dataType": "@venomouspoisonous",
+          "name": "guess",
+          "value": "$guess",
+          "isList": false
+        },
+        {
+          "id": "7646a6ff-810a-4dba-b18e-58f18759f397",
+          "name": "key",
+          "value": "$guess"
+        },
+        {
+          "id": "b25d00a9-eea4-43d5-a93c-7e86fa2be517",
+          "name": "answertype",
+          "value": "yesno"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1505424285,
+  "fallbackIntent": false,
+  "events": []
+}

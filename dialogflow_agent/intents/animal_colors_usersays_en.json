@@ -1,0 +1,132 @@
+[
+  {
+    "id": "8ad572ee-2617-4005-8df1-707ab993f226",
+    "data": [
+      {
+        "text": "are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "orange",
+        "alias": "guess",
+        "meta": "@animal_colors",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505841168
+  },
+  {
+    "id": "87e92b50-1412-44ac-8d4f-a2394e01cd5a",
+    "data": [
+      {
+        "text": "are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "green",
+        "alias": "guess",
+        "meta": "@animal_colors",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505500056
+  },
+  {
+    "id": "066eedde-bc4b-4a8b-bde9-a8eddf34e518",
+    "data": [
+      {
+        "text": "do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "red",
+        "alias": "guess",
+        "meta": "@animal_colors",
+        "userDefined": true
+      },
+      {
+        "text": " on your body?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d7288d1-b97b-47b7-b38b-3dd10b3b5e62",
+    "data": [
+      {
+        "text": "are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "white",
+        "alias": "guess",
+        "meta": "@animal_colors",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "249a811e-eaa4-4352-b918-e8f91b02f94a",
+    "data": [
+      {
+        "text": "are you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "brown",
+        "alias": "guess",
+        "meta": "@animal_colors",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

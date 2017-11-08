@@ -1,0 +1,1052 @@
+{
+  "answers": {
+    "habitat": {
+      "response_some_species": [
+        "#well#, some of #us# might be in #guess#.",
+        "#well# I suppose some of #us# might live in #guess#."
+      ],
+      "response_false": [
+        "#no#, I don't live in #guess#, but I've heard it's nice.",
+        "#no#, I don't live in #guess#."
+      ],
+      "response_sometimes": [
+        "#well#, I sometimes might be found in #guess#.",
+        "#well#, I sometimes might be in #guess#, but not all the time."
+      ],
+      "response_rarely": [
+        "#well#, #us# might be found in #guess#, but very rarely."
+      ],
+      "response_possible": [
+        "#well#, I technically might be in #guess#, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I live in #guess#, and I love it here!",
+        "#yes#, my current address is in #guess#."
+      ]
+    },
+    "migrate": {
+      "response_some_species": [
+        "#well#, some of #us# might migrate, the restless ones anyway.",
+        "#well#, I suppose some of #us# might tend to migrate."
+      ],
+      "response_false": [
+        "#no#, I never migrate, I prefer to just stay in one place.",
+        "#no#, I don't migrate, I'm happy right where I am."
+      ],
+      "response_sometimes": [
+        "#well#, I migrate sometimes.",
+        "#well#, I sometimes migrate, but sometimes I prefer to just stay in one place."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might migrate, but pretty rarely.",
+        "#well, I suppose some of #us# might migrate, but it'd be a pretty rare case."
+      ],
+      "response_possible": [
+        "#well#, I technically might migrate, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I love to migrate, it keeps life exciting.",
+        "#yes#, I love to migrate, I get pretty sick of staying in the same place."
+      ]
+    },
+    "isprey": {
+      "response_some_species": [
+        "#well#, some of #us# might have predators.",
+        "#well#, I suppose some of #us# might have predators."
+      ],
+      "response_false": [
+        "#no#, I have no predators, thank goodness.",
+        "#no#, I don't have any predators."
+      ],
+      "response_sometimes": [
+        "#well#, I might sometimes have predators.",
+        "#well#, I might sometimes have predators on occasion."
+      ],
+      "response_rarely": [
+        "#us# might have predators, but very rarely."
+      ],
+      "response_possible": [
+        "#well#, I technically might have predators, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I have predators, so I always have to keep my eyes peeled.",
+        "#yes#, I have predators."
+      ]
+    },
+    "legsnumber": {
+      "response_some_species": [
+        "#well#, some of #us# might have #guess# legs.",
+        "#well#, I suppose some of #us# might have #guess# legs."
+      ],
+      "response_false": [
+        "#no#, I don't have #guess# legs."
+      ],
+      "response_sometimes": [
+        "#well#, I sometimes might have #guess# legs."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might have #guess legs#, but it would be pretty rare."
+      ],
+      "response_possible": [
+        "#well#, I technically might have #guess# legs, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I have #guess# legs."
+      ]
+    },
+    "friendlyspeed": {
+      "response_some_species": [
+        "#well#, some of #us# might be pretty #guess#."
+      ],
+      "response_false": [
+        "#no#, I am not #guess#.",
+        "#no#, I wouldn't call myself #guess#."
+      ],
+      "response_sometimes": [
+        "#well#, I am sometimes #guess#, but it depends on what I had for lunch."
+      ],
+      "response_rarely": [
+        "#well#, #us# can be #guess#, but very rarely."
+      ],
+      "response_possible": [
+        "#well#, I technically might be #guess#, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I am #guess#.",
+        "#yes#, I guess you could say I'm pretty #guess#."
+      ]
+    },
+    "ispredator": {
+      "response_some_species": [
+        "#well#, some of #us# might be predators.",
+        "#well#, I suppose some of #us# might be predators."
+      ],
+      "response_false": [
+        "#no#, I'm far too nice. I am not a predator.",
+        "#no#, I am not a predator."
+      ],
+      "response_sometimes": [
+        "#well#, I might sometimes be a predator.",
+        "#well#, I'm a predator on occasion."
+      ],
+      "response_rarely": [
+        "#well#, #us# might be predators, but very rarely."
+      ],
+      "response_possible": [
+        "#well#, I technically might be a predator, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I am a predator. Don't blame me. I gotta eat somehow.",
+        "#yes#, I am a predator."
+      ]
+    },
+    "nocturnal": {
+      "response_some_species": [
+        "#well#, some of #us# might be nocturnal.",
+        "#well#, I suppose some of #us# might be nocturnal."
+      ],
+      "response_false": [
+        "#no#, when the lights are out, I'm out. I sleep at night.",
+        "#no#, I prefer to sleep at night."
+      ],
+      "response_sometimes": [
+        "#well#, I'm active during the day and night.",
+        "#well#, I tend to be up whether it's day or night."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might be nocturnal, but pretty rarely.",
+        "#well#, I suppose some of #us# might be nocturnal, but it would be rare."
+      ],
+      "response_possible": [
+        "#well#, I technically might be noctural, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I'm up all night, because I'm a real party animal."
+      ]
+    },
+    "domesticated": {
+      "response_some_species": [
+        "#well#, some of #us# might be tame.",
+        "#well#, I suppose some of #us# might be tame."
+      ],
+      "response_false": [
+        "#no#, I am not tame, so please be careful around me!",
+        "#no#, I am not tame, because I'm wild at heart, baby."
+      ],
+      "response_sometimes": [
+        "#well#, I am sometimes domesticated, sometimes not.",
+        "#well#, I have been known to go in and out of being domesticated."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might be tame, but not many.",
+        "#well#, I suppose some of #us# might be tame, but not many."
+      ],
+      "response_possible": [
+        "#well#, I technically might be tamed, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I am tame, feel free to pet me.",
+        "#yes#, I am tame, and I love making friends."
+      ]
+    },
+    "pet": {
+      "response_some_species": [
+        "#well#, some of #us# can be pets.",
+        "#well#, I suppose some of #us# would make pretty decent pets."
+      ],
+      "response_false": [
+        "#no#, I cannot be your pet, so please don't try.",
+        "#no#, I wouldn't make a good pet."
+      ],
+      "response_sometimes": [
+        "#well#, I am sometimes a pet."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# can be pets, but very rarely."
+      ],
+      "response_possible": [
+        "#well#, I technically am able to be a pet, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I can be a pet, are you looking to adopt?",
+        "#yes#, I can be a pet."
+      ]
+    },
+    "comparesize": {
+      "response_sometimes": [
+        "#well#, we are actually pretty close in weight."
+      ],
+      "response_possible": [
+        "#well#, I don't know how big they are so I'm not sure if I am #guess#."
+      ],
+      "response_true": [
+        "#yes#, I am #guess#."
+      ],
+      "response_false": [
+        "#no#, I am not #guess#."
+      ]
+    },
+    "poisonous": {
+      "response_some_species": [
+        "#well#, some of #us# might be dangerous to eat.",
+        "#well#, some of #us# may be dangerous to eat, so be careful!"
+      ],
+      "response_false": [
+        "#no#, you won't get sick if you try to eat me, but please don't!"
+      ],
+      "response_sometimes": [
+        "#well#, I'm sometimes dangerous to eat, so if in doubt, just don't eat me.",
+        "#well#, I can sometimes be dangerous to eat."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might be dangerous to eat, but very rarely.",
+        "#well#, I suppose some of #us# might be dangerous to eat, but it would be pretty rare."
+      ],
+      "response_possible": [
+        "#well#, I can technically be dangerous to eat, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I am dangerous to eat, so please avoid biting me."
+      ]
+    },
+    "zoo": {
+      "response_some_species": [
+        "#well#, some of #us# can be found in zoos.",
+        "#well#, I suppose you might see some of #us# in a zoo."
+      ],
+      "response_false": [
+        "#no#, you wouldn't find me in a zoo, I need to be free.",
+        "#no#, I'm not in a zoo, I need space to roam."
+      ],
+      "response_sometimes": [
+        "#well#, you might find me in a zoo sometimes",
+        "#well#, I have been known to be at the zoo on occassion"
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might be in zoos, but pretty rarely.",
+        "#well#, I suppose some of #us# might be in zoos, but it'd be a pretty rare zoo."
+      ],
+      "response_possible": [
+        "#well#, I technically might be found in zoos, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, you can come visit me at the zoo.",
+        "#yes#, I'm in a zoo, and I'm the best attraction, in my opinion."
+      ]
+    },
+    "endangered": {
+      "response_some_species": [
+        "#well#, some of #us# might be endangered, poor things."
+      ],
+      "response_false": [
+        "#no#, I am not endangered, knock on wood.",
+        "#no#, I am not endangered, and let's make sure I stay that way."
+      ],
+      "response_sometimes": [
+        "#well#, I sometimes might be endangered, I suppose."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might be endangered, but it would be a rare case.",
+        "#well#, I suppose some of #us# might be endangered, but not many."
+      ],
+      "response_possible": [
+        "#well#, I technically might be considered endangered, but it's sort of up in the air."
+      ],
+      "response_true": [
+        "#yes#, I am endangered, sad face.",
+        "#yes#, I am endangered, but I'm making do."
+      ]
+    },
+    "canpersonride": {
+      "response_some_species": [
+        "#well#, you might be able to ride on the backs of some of #us#.",
+        "#well#, I suppose you can ride on the backs of some of #us#."
+      ],
+      "response_false": [
+        "#no#, you cannot ride on my back, so don't try.",
+        "#no#, my back was not made for riding on."
+      ],
+      "response_sometimes": [
+        "#well#, you can ride on my back sometimes, if I'm in a good mood."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# can give people rides on our backs, but not often.",
+        "#well#, I suppose some of #us# can give rides on our backs, but it'd be very rare."
+      ],
+      "response_possible": [
+        "#well#, you can technically ride on my back, but I don't think either of us would like that."
+      ],
+      "response_true": [
+        "#yes#, you can ride on my back, feel free to climb aboard.",
+        "#yes#, I'm all about letting humans ride my back."
+      ]
+    },
+    "prey": {
+      "response_some_species": [
+        "#well#, some of #us# might prey on #guess#.",
+        "#well#, I suppose some of #us# might prey on #guess#."
+      ],
+      "response_false": [
+        "#no#, #guess# are not my prey.",
+        "#no#, #guess# are not my prey, I don't care to eat them."
+      ],
+      "response_sometimes": [
+        "#well#, #guess# are sometimes my prey.",
+        "#well#, I sometimes might prey on #guess#."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might prey on #guess#, but just as a very rare midnight snack."
+      ],
+      "response_possible": [
+        "#well#, I technically may hunt #guess#, but only under special circumstances."
+      ],
+      "response_true": [
+        "Yum yum yum yum. #yes#, #guess# are my prey.",
+        "#yes#, unfortunately for #guess#, they are my prey."
+      ]
+    },
+    "landanimal": {
+      "response_some_species": [
+        "#well#, some of #us# can be found on land.",
+        "#well#, I suppose you might find some of us on land."
+      ],
+      "response_false": [
+        "#no#, I am not a land animal.",
+        "#no#, I don't reside on land."
+      ],
+      "response_sometimes": [
+        "#well#, I'm sometimes a land animal.",
+        "#well#, I can occasionally be found on land."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might be land animals, but it would be pretty rare.",
+        "#well#, I suppose some of might be found on land, but it would be pretty rare."
+      ],
+      "response_possible": [
+        "#well#, I can technically go on land, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I am a land animal.",
+        "#yes#, I reside on land."
+      ]
+    },
+    "hibernate": {
+      "response_some_species": [
+        "#well#, some of #us# might hibernate.",
+        "#well#, I suppose some of #us# might tend to hibernate."
+      ],
+      "response_false": [
+        "#no#, I never hibernate.",
+        "#no#, I don't hibernate, winter is my jam."
+      ],
+      "response_sometimes": [
+        "#well#, I hibernate sometimes.",
+        "#well#, sometimes I hibernate, but sometimes I prefer to stay active."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might hibernate, but pretty rarely.",
+        "#well#, I suppose some of #us# might hibernate, but it'd be a pretty rare case."
+      ],
+      "response_possible": [
+        "#well#, I technically might hibernate, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I love to hibernate.",
+        "#yes#, I hibernate, I prefer to just sleep through winter."
+      ]
+    },
+    "bodyparts": {
+      "response_some_species": [
+        "#well#, some of #us# have #guess#.",
+        "#well#, I suppose some of #us# have #guess#."
+      ],
+      "response_false": [
+        "#no#, I don't have #guess#, as far as I've noticed.",
+        "#no#, you won't find #guess# on me."
+      ],
+      "response_sometimes": [
+        "#well#, I sometimes have #guess#."
+      ],
+      "response_rarely": [
+        "#well#, we rarely have #guess#."
+      ],
+      "response_possible": [
+        "#well#, I technically can have #guess#, but it would be under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I have #guess#.",
+        "#yes#, I got #guess#."
+      ]
+    },
+    "diurnal": {
+      "response_some_species": [
+        "#well#, some of #us# might sleep at night.",
+        "#well#, I suppose some of #us# might sleep at night."
+      ],
+      "response_false": [
+        "#no#, I prefer to sleep during the day.",
+        "#no#, I'm up all night, because I'm a real party animal."
+      ],
+      "response_sometimes": [
+        "#well#, I'm active whether it's day or night.",
+        "#well#, I'm up during the day and night."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might sleep at night, but it would be pretty rare.",
+        "#well#, I suppose some of #us# might sleep at night, but pretty rarely."
+      ],
+      "response_possible": [
+        "#well#, I technically might sleep at night, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I sleep during the night.",
+        "#yes#, I prefer to be awake when there's light out."
+      ]
+    },
+    "layeggs": {
+      "response_some_species": [
+        "#well#, some of #us# might lay eggs.",
+        "#well#, I suppose some of #us# might lay eggs."
+      ],
+      "response_false": [
+        "#no#, I don't lay eggs.",
+        "#no#, I can't say I've ever laid eggs."
+      ],
+      "response_sometimes": [
+        "#well#, I might sometimes lay eggs."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might lay eggs, but very rarely."
+      ],
+      "response_possible": [
+        "#well#, I technically can lay eggs, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I lay eggs.",
+        "#yes#, I am all about laying eggs."
+      ]
+    },
+    "friendlysizemass": {
+      "response_some_species": [
+        "#well#, some of #us# might be #guess#.",
+        "#well#, I suppose some of #us# might be #guess#."
+      ],
+      "response_false": [
+        "#no#, I am not #guess#.",
+        "#no#, I wouldn't call myself #guess#."
+      ],
+      "response_sometimes": [
+        "#well#, I am sometimes #guess#.",
+        "#well#, I am #guess#, but not all the time."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might be #guess#.",
+        "#well#, some of #us# tend to learn toward the #guess# side."
+      ],
+      "response_possible": [
+        "#well#, I technically might be #guess#, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I am #guess#.",
+        "#yes#, I tend to lean toward the #guess# side."
+      ]
+    },
+    "diet": {
+      "response_some_species": [
+        "#well#, some of #us# might eat #guess#.",
+        "#well#, some of #us# might eat #guess#, at least the less picky ones."
+      ],
+      "response_false": [
+        "Yuck. #no#, I don't eat #guess#.",
+        "#no#, I'm not a fan of #guess#."
+      ],
+      "response_sometimes": [
+        "#well#, I sometimes eat #guess#, if I'm in the mood for it."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might eat #guess#, but it would be pretty rare.",
+        "#well#, I suppose some of #us# might eat #guess#, but it would be once in a blue moon."
+      ],
+      "response_possible": [
+        "#well#, I technically might eat #guess#, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I love chomping on #guess#.",
+        "Yum yum yum yum. Oops, got carried away. #yes#, I love eating #guess#."
+      ]
+    },
+    "consumptionclass": {
+      "response_some_species": [
+        "#well#, some of #us# might be considered a #guess#.",
+        "#well#, I suppose some of #us# might fall into the #guess# category."
+      ],
+      "response_false": [
+        "#no#, I am not a #guess#."
+      ],
+      "response_sometimes": [
+        "#well#, I am sometimes a #guess#, depending on whether or not it's a cheat day.",
+        "#well#, sometimes I am a #guess#."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might be considered a #guess#, but it would be rare.",
+        "#well#, I suppose some of #us# might be considered a #guess#, but it would be rare."
+      ],
+      "response_possible": [
+        "#well#, I techncially might be considered a #guess#, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I am a #guess#."
+      ]
+    },
+    "farmanimal": {
+      "response_some_species": [
+        "#well#, some of #us# might be found on a farm.",
+        "#well#, I suppose some of #us# can be found on farms."
+      ],
+      "response_false": [
+        "#no#, I am not a farm animal.",
+        "#no#, you won't catch me on a farm."
+      ],
+      "response_sometimes": [
+        "#well#, I sometimes might be on a farm.",
+        "#well#, I've been known to sometimes be on a farm."
+      ],
+      "response_rarely": [
+        "#well#, you might find some of #us# on farms, but very rarely."
+      ],
+      "response_possible": [
+        "#well#, I technically might be found on farms, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I am a farm animal.",
+        "#yes#, you can find me on a farm."
+      ]
+    },
+    "class": {
+      "response_some_species": [
+        "#well#, some of #us# might be considered a type of #guess#.",
+        "#well#, I suppose some of #us# might fall into the #guess# category."
+      ],
+      "response_false": [
+        "#no#, I am not a type of #guess#.",
+        "#no#, I don't fit into the #guess# category."
+      ],
+      "response_sometimes": [
+        "#well#, I am sometimes a type of #guess#.",
+        "#well#, sometimes I am a type of #guess."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might be considered a type of #guess#, but it would be rare.",
+        "#well#, some of #us# sometimes fall into the #guess# category, but very rarely."
+      ],
+      "response_possible": [
+        "#well#, I technically can be considered a type of #guess#, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I am a type of #guess#.",
+        "#yes#, I would call myself a type of #guess#."
+      ]
+    },
+    "specialinfo": {
+      "response_true": [
+        "You have an impressive knowledge! #yes#, that is definitely true.",
+        "You know some deep cuts about me! #yes#, that is indeed true.",
+        "That's a pretty specific question! But #yes#, it is true."
+      ],
+      "response_false": [
+        "#no#, you're thinking of a different animal, but that was a great question.",
+        "Whoa, sharp thinking! But alas, #no#, you are thinking of a different animal.",
+        "#no#, that is not me, but that sounds like it could be another animal I know."
+      ]
+    },
+    "edible": {
+      "response_some_species": [
+        "#well#, some of #us# might be edible.",
+        "#well#, I suppose some of #us# might be edible, the unlucky ones."
+      ],
+      "response_false": [
+        "#no#, I am not edible, I would taste terrible.",
+        "#no#, you wouldn't want me on the menu. I am not edible."
+      ],
+      "response_sometimes": [
+        "#well#, I sometimes might be edible."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might be edible, but not many."
+      ],
+      "response_possible": [
+        "#well#, you technically might be able to eat me, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, humans do eat me, but I would prefer if you didn't.",
+        "#yes#, I am edible, but please don't eat me."
+      ]
+    },
+    "countries": {
+      "response_some_species": [
+        "#well#, some of #us# might be in #guess#.",
+        "#well# I suppose some of #us# might live in #guess#."
+      ],
+      "response_false": [
+        "#no#, I don't live in #guess#, but I've heard it's nice.",
+        "#no#, I don't live in #guess#."
+      ],
+      "response_sometimes": [
+        "#well#, I'm sometimes in #guess#.",
+        "#well#, you can sometimes find me in #guess#."
+      ],
+      "response_rarely": [
+        "#well#, #us# might be found in #guess#, but very rarely.",
+        "#well#, I suppose some of #us# might reside in #guess#, but it would be pretty rare."
+      ],
+      "response_possible": [
+        "#well#, animals like me actually live in many countries.",
+        "#well#, you can find animals like me all around the world."
+      ],
+      "response_true": [
+        "#yes#, I live in #guess#, and I love it here!",
+        "#yes#, my current address is in #guess#."
+      ]
+    },
+    "specialcategories": {
+      "response_some_species": [
+        "#well#, some of #us# are a type of #guess#.",
+        "#well#, I suppose some of #us# are a type of #guess#."
+      ],
+      "response_false": [
+        "#no#, I am not a type of #guess#.",
+        "#no#, I wouldn't call myself a type of #guess#."
+      ],
+      "response_sometimes": [
+        "#well#, I am sometimes a type of #guess#."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# are considered a type of #guess#, but very rarely."
+      ],
+      "response_possible": [
+        "#well#, I technically might be a type of #guess#, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I am a type of #guess#.",
+        "#yes#, I fit into the category of #guess#."
+      ]
+    },
+    "colors": {
+      "response_some_species": [
+        "#well#, some of #us# might have some #guess# on them.",
+        "#well#, some of #us# might have a bit of #guess#."
+      ],
+      "response_false": [
+        "#no#, I am not #guess#.",
+        "#no#, I would not call myself #guess#."
+      ],
+      "response_sometimes": [
+        "#well#, I sometimes have #guess# on me."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might have #guess# on them, but it would be pretty rare",
+        "#well#, some of #us# might have #guess# on them, but not very many."
+      ],
+      "response_possible": [
+        "#well#, I technically can have #guess# on me, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I have some #guess# on me.",
+        "#yes#, there is some #guess# on me."
+      ]
+    },
+    "adjectives": {
+      "response_some_species": [
+        "#well#, some of #us# might be #guess#.",
+        "#well#, some of #us# might be considered to be #guess#."
+      ],
+      "response_false": [
+        "#no#, I am not #guess#.",
+        "#no#, I would not call myself #guess#."
+      ],
+      "response_sometimes": [
+        "#well#, I'm sometimes #guess#.",
+        "#well#, I can sometimes be #guess#."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might be #guess#, but it would be pretty rare",
+        "#well#, some of #us# might be #guess#, but not very many."
+      ],
+      "response_possible": [
+        "#well#, I technically can be #guess#, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I am #guess#.",
+        "#yes#, I would call myself #guess#."
+      ]
+    },
+    "predators": {
+      "response_some_species": [
+        "#well#, #guess.s# might hunt some of #us#, the unlucky ones."
+      ],
+      "response_false": [
+        "#no#, #guess.s# are not my predators, they don't scare me.",
+        "#no#, #guess.s# are not my predators, so they don't worry me too much."
+      ],
+      "response_sometimes": [
+        "#well#, #guess.s# might sometimes hunt me.",
+        "#well#, I suppose #guess.s# may sometimes partake in hunting me."
+      ],
+      "response_rarely": [
+        "#well#, #guess.s# might hunt some of #us#, but very rarely."
+      ],
+      "response_possible": [
+        "#well#, #guess.s# may technically hunt me, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, #guess.s# are my predators, and they absolutely terrify me.",
+        "wait, do you see one around? #yes#, #guess.s# are my predators."
+      ]
+    },
+    "behavior": {
+      "response_some_species": [
+        "#well#, some of #us# #guess#.",
+        "#well#, I suppose some of #us# #guess#."
+      ],
+      "response_false": [
+        "#no#, I don't #guess#, but I'm not self-conscious about it or anything.",
+        "#no#, I don't #guess#."
+      ],
+      "response_sometimes": [
+        "#well#, I sometimes #guess#."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# #guess#, but very rarely."
+      ],
+      "response_possible": [
+        "#well#, I technically can #guess#, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, I #guess#.",
+        "#yes#, I love to #guess#."
+      ]
+    },
+    "venomous": {
+      "response_some_species": [
+        "#well#, some of #us# might be dangerous when we bite.",
+        "#well#, some of #us# might be dangerous when we bite, so be careful."
+      ],
+      "response_false": [
+        "#no#, you won't be in too much trouble if I bite you, lucky for you."
+      ],
+      "response_sometimes": [
+        "#well#, I'm sometimes dangerous when I bite, so don't take your chances around me.",
+        "#well#, I can sometimes be dangerous when I bite."
+      ],
+      "response_rarely": [
+        "#well#, some of #us# might be dangerous when we bite, but very rarely.",
+        "#well#, I suppose some of #us# might be dangerous when we bite, but it would be a pretty rare case."
+      ],
+      "response_possible": [
+        "#well#, I can technically be dangerous when I bite, but only under special circumstances."
+      ],
+      "response_true": [
+        "#yes#, my bites are venomous, so let's hope I don't bite you."
+      ]
+    }
+  },
+  "scripts": {
+    "MISC_dinosaur": [
+      "No, because otherwise, I would be extinct.",
+      "No, I am not a dinosaur, but it would be pretty awesome if I was."
+    ],
+    "MISC_dragon": [
+      "No, I am not a dragon, but I do love Khaleesi."
+    ],
+    "MISC_comparespeed": [
+      "I don't know how fast a #guess# is."
+    ],
+    "MISC_computer": [
+      "Where did you get an idea like that? Like I said, I'm definitely an animal.",
+      "No, I am not a computer. Wait, do I sound like a computer?",
+      "My name is the Mystery Animal, not the Mystery Computer."
+    ],
+    "win": [
+      "Whoa! How did you figure it out? I am indeed #animal.a#. It only took you #questionsAskedString# to figure it out. If you want to keep playing, say 'start a new round'.",
+      "Holy moley. I thought my secret was safe. I am indeed #animal.a#. It only took you #questionsAskedString# to figure it out. If you want to keep playing, say 'start a new round'."
+    ],
+    "noInput_reminders": [
+      "Remember, you already know that #alreadyFound# Try asking a yes-or-no question about my #suggestion#.",
+      "You already discovered that #alreadyFound# Why not ask a yes-or-no question about my #suggestion#.",
+      "You found out that #alreadyFound# Maybe you should ask a yes-or-no question about my #suggestion#."
+    ],
+    "askPlayAgain": [
+      "This round is over! If you want to play again, say 'start a new round'. Or you can quit."
+    ],
+    "noInput_QuestionTwenty": [
+      "You have one question left, so you should probably make a guess.",
+      "One question left, which means it’s guessing time.",
+      "You were so close! Well, maybe next time. Bye now."
+    ],
+    "intro": [
+      "Hey there, I'm the Mystery Animal. To figure out what kind of animal I am, you'll have to ask me up to 20 yes-or-no questions. Questions like 'Are you a mammal?' or 'Do you have feathers?' If you're ready, then start asking away."
+    ],
+    "yes": [
+      "Yes",
+      "Heck yeah",
+      "Yep",
+      "Sure",
+      "Indeed",
+      "Yeah"
+    ],
+    "MISC_stuck": [
+      "Try asking me a question about my habitat.",
+      "Have you tried asking me about what I eat?",
+      "Try asking me for a hint, I'll be glad to help.",
+      "Have you tried asking me about my size?",
+      "Maybe you should ask me about what body parts I have.",
+      "Have you tried asking me about some of my features?"
+    ],
+    "MISC_animalvegetable": [
+      "Here's a hint. This game is called Mystery Animal."
+    ],
+    "no": [
+      "No",
+      "Nope",
+      "Nah",
+      "Heck nah",
+      "Afraid not"
+    ],
+    "MISC_wrong": [
+      "Apologies for any misunderstandings, I am an animal speaking English after all.",
+      "Sorry if there was a mistake, animals make them sometimes too.",
+      "I’m sorry about that, my animal ears must have misheard you.",
+      "I’m trying my best here, but animals make mistakes too."
+    ],
+    "newRound": [
+      "All right, it's a new round, I am now a different animal. Same rules.  You have 20 questions to find out what kind of animal I am. Ask away.",
+      "Okay, new round. Same rules. You have 20 questions to find out what kind of animal I am. Ask away."
+    ],
+    "KG_movietv": [
+      "You asked, '#question#'? Since I'm an animal, I haven't seen that #description#.",
+      "I believe you asked, '#question#'? I haven't seen that #description#, because I'm an animal, remember?",
+      "If I'm not mistaken, you asked '#question#'? It's cute you think an animal would have seen that #description#.",
+      "You just asked, '#question#'? How on earth would an animal have seen that #description#?",
+      "You asked, '#question#'? You didn't actually expect an animal to have seen that #description#, right?"
+    ],
+    "KG_noRepeat": [
+      "Come on. I'm an animal, I don't know anything about that #description#.",
+      "Oh sure. An animal is going to know about that #description#, that totally makes sense.",
+      "Are you referring to the #description#? I'm not familiar, because I'm an animal, remember?",
+      "I don't think I know about that #description#. Because I'm an animal, and animals don't know that kind of stuff.",
+      "I've never heard of that #description#, because I'm an animal, in case you forgot.",
+      "It's cute you think an animal would know about that #description#. Very cute.",
+      "How on earth would an animal know about that #description#?",
+      "You didn't actually expect an animal to know about that #description#, right?",
+      "Hm, let me rack my animal brain. Nope, don't know anything about that #description#.",
+      "Seriously? How would I know about that #description#. I'm an animal.",
+      "I've never heard of that #description#. I'd look it up on the internet but I can't, because I'm an animal.",
+      "That #description# sounds interesting. I've never heard of it though, because I'm an animal."
+    ],
+    "KG_place": [
+      "You asked, '#question#'? And I'm not sure. Try asking me about countries, climates, continents, and habitats instead.",
+      "If I'm not mistaken, you asked '#question#'? I don't know about that #description#. Try asking me about countries, climates, continents, and habitats instead.",
+      "You asked, '#question#'? That's a little too specific for me. Try asking me about countries, climates, continents, and habitats instead."
+    ],
+    "incorrectGuess": [
+      "No, I'm afraid I'm not #guess.a#. Keep guessing.",
+      "Hmm, #guess.a#? Nope, that's not me. Keep trying.",
+      "I'm definitely not #guess.a#. But keep going."
+    ],
+    "MISC_cute": [
+      "Cuteness is in the eye of the beholder.",
+      "My mom certainly thinks I am cute.",
+      "Depends on who you ask, but since you asked me, the answer is yes."
+    ],
+    "MISC_accent": [
+      "Didn't you know? This is how all animals sound."
+    ],
+    "MISC_unicorn": [
+      "I am not physically a unicorn, but I am one in spirit."
+    ],
+    "dontknow_repeat": [
+      "If I heard you right, you said '#input#', and sorry. #dontKnow#",
+      "Did you say '#input#'? #dontKnow#"
+    ],
+    "MISC_gender": [
+      "I'm not sure that matters.",
+      "Answering that won't help you with your task.",
+      "That doesn't seem relevant."
+    ],
+    "giveHint": [
+      "Okay, I'll tell you a hint but it'll eat up a precious question: ",
+      "Okay, I'll throw you a bone. But it'll count as a question: ",
+      "Fine, I'll help you out. But it'll count as a question: "
+    ],
+    "remaining5": [
+      " You have 5 questions left, better make them count.",
+      " You have 5 questions left, they better be the best questions you've ever asked.",
+      " You have 5 questions left, don't let the nerves get to you."
+    ],
+    "MISC_alien": [
+      "No, I am from planet Earth, at least as far as you know."
+    ],
+    "MISC_extinct": [
+      "No, I'm still alive and kicking.",
+      "No, because if I was extinct, I wouldn't be talking to you right now."
+    ],
+    "MISC_noahsark": [
+      "That was a long time ago, so I don't remember.",
+      "Since I'm talking to you now, I must have been."
+    ],
+    "questionsLeft": [
+      "You have #remaining# questions left. And yes, that one counted."
+    ],
+    "MISC_whoareyou": [
+      "I am the Mystery Animal. And that counted as a question."
+    ],
+    "MISC_trytospell": [
+      "Sorry, I'm not going to spell it out for you."
+    ],
+    "KG_book": [
+      "You asked, '#question#'? Since I'm an animal, I haven't read that #description#.",
+      "I believe you asked, I haven't read that #description#, because I'm an animal, remember?",
+      "If I'm not mistaken, you asked '#question#'? It's cute you think an animal would have read that #description#.",
+      "You just asked, '#question#'? How on earth would an animal have read that #description#?",
+      "You asked, '#question#'? You didn't actually expect an animal to have read that #description#, right?"
+    ],
+    "KG_videogame": [
+      "You asked, '#question#'? I haven't heard of that #description#. The only game I play is this one.",
+      "I believe you asked, '#question#'? Are you referring to the #description#? I haven't heard of it, because this is the only game I'm into.",
+      "If I'm not mistaken, you asked '#question#'? I don't think I've heard of that #description#. But I'm really into this game called Mystery Animal.",
+      "It's cute you think l would have heard of that #description#. I only play Mystery Animal.",
+      "You just asked, '#question#'? I haven't heard of that #description#. I only have room in my life for one game, and it's Mystery Animal.",
+      "Did you ask, '#question#'? That #description# sounds interesting, but I'll pass. I only like Mystery Animal."
+    ],
+    "KG_general": [
+      "You asked, '#question#'? Come on. I'm an animal, I don't know anything about that #description#.",
+      "I believe you asked, '#question#'? Oh sure. An animal is going to know about that #description#, that totally makes sense.",
+      "You asked, '#question#'? Are you referring to the #description#? I'm not familiar, because I'm an animal, remember?",
+      "If I'm not mistaken, you asked '#question#'? I don't think I know about that #description#. Because I'm an animal, and animals don't know that kind of stuff.",
+      "You just asked, '#question#'? I've never heard of that #description#, because I'm an animal, in case you forgot.",
+      "Did you ask, '#question#'? It's cute you think an animal would know about that #description#. Very cute.",
+      "Did you ask, '#question#'? How on earth would an animal know about that #description#?",
+      "You asked, '#question#'? You didn't actually expect an animal to know about that #description#, right?",
+      "I believe you asked, '#question#'? Hm, let me rack my animal brain. Nope, don't know anything about that #description#.",
+      "If I'm not mistaken, you asked '#question#'? Seriously? How would I know about that #description#. I'm an animal.",
+      "Did you ask, '#question#'? I've never heard of that #description#. I'd look it up on the internet but I can't, because I'm an animal.",
+      "You just asked, '#question#'? That #description# sounds interesting. I've never heard of it though, because I'm an animal."
+    ],
+    "MISC_pokemon": [
+      "Nope, I am not, so don't bother trying to catch me.",
+      "Nope, I'm one creature you won't be able to catch."
+    ],
+    "KG_person": [
+      "You asked, '#question#'? Since I'm an animal, I don't know anything about that #description#.",
+      "I believe you asked, '#question#'? I'm not familiar with that #description#, because I'm an animal, remember?",
+      "If I'm not mistaken, you asked '#question#'? It's cute you think an animal would know about that #description#.",
+      "You just asked, '#question#'? How on earth would an animal know about that #description#?",
+      "You asked, '#question#'? You didn't actually expect an animal to know about that #description#, right?"
+    ],
+    "KG_animal": [
+      "You asked, '#question#'? I know a lot of animals, but I'm not sure I know that one.",
+      "I believe you asked, '#question#'? You'd think I know that animal, but unfortunately, I do not.",
+      "Did you ask, '#question#'? Sounds familiar, but I don't think I know that animal."
+    ],
+    "remaining10": [
+      " You have 10 questions down, 10 to go.",
+      " You've used up half of your questions. No pressure though.",
+      " You have 10 questions left, so maybe think about stepping up your game."
+    ],
+    "dontknows": [
+      "I'm not sure.",
+      "I don't know.",
+      "Not sure about that.",
+      "Not a clue."
+    ],
+    "remaining1": [
+      " Last question! Time to make a guess.",
+      " Last question! Have you figured it out?",
+      " Last question! Just guess an animal, any animal."
+    ],
+    "well": [
+      "Well",
+      "Wellllll",
+      "Hmm"
+    ],
+    "us": [
+      "us",
+      "my kind",
+      "my family"
+    ],
+    "MISC_whereareyoufrom": [
+      "I'm from the land of yes-or-no questions only."
+    ],
+    "noInput_noInfoFound": [
+      "Try asking me yes-or-no questions, like 'Can you fly?' or 'Do you eat meat?'",
+      "Feeling stuck already? Feel free to ask for a hint.",
+      "I’m going to go to sleep, but let’s play again soon."
+    ],
+    "lose": [
+      "Oh no! You've used up all 20 questions. I'm actually #animal.a#. But don't feel too bad. There's always the next round. If you'd like to keep playing, say 'start a new round'.",
+      "Bummer. You've used up all 20 questions. I'm actually #animal.a#. But don't sweat it. If you want to give it another go, say 'start a new round'.",
+      "I'm sorry! You've used up all 20 questions. I'm actually #animal.a#. But it's okay. It's not that you're bad. I'm just really good. If you want to keep playing, say 'start a new round'."
+    ],
+    "remaining15": [
+      " You've got 15 questions left.",
+      " Heads up, you have 15 questions left.",
+      " Just so you know, you have 15 questions left."
+    ],
+    "noMoreHints": [
+      "I've got no more hints about what kind of animal I am. Time for you to ask more questions."
+    ],
+    "MISC_notyesno": [
+      "You can only ask me yes-or-no questions. Otherwise, I can't answer. Them's the rules.",
+      "I'm pretty sure that isn't a yes-or-no question. Those are the only ones I will answer, remember?",
+      "I can't answer that. Yes-or-no questions only, please."
+    ],
+    "MISC_howareyou": [
+      "I'm doing fine, thanks. Also that counted as a question.",
+      "Come on, this isn't time for small talk. But I'm doing well, thanks for asking."
+    ],
+    "dontknow_norepeat": [
+      "Hmm, sorry. #dontKnow#",
+      "Wish I could answer that. #dontKnow#"
+    ]
+  }
+}

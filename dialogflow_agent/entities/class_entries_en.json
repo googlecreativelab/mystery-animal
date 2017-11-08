@@ -1,0 +1,42 @@
+[
+  {
+    "value": "mammal",
+    "synonyms": [
+      "mammal"
+    ]
+  },
+  {
+    "value": "bird",
+    "synonyms": [
+      "bird",
+      "avian"
+    ]
+  },
+  {
+    "value": "fish",
+    "synonyms": [
+      "fish"
+    ]
+  },
+  {
+    "value": "reptile",
+    "synonyms": [
+      "reptile"
+    ]
+  },
+  {
+    "value": "amphibian",
+    "synonyms": [
+      "amphibians"
+    ]
+  },
+  {
+    "value": "invertebrate",
+    "synonyms": [
+      "invertebrates",
+      "bug",
+      "insect",
+      "arthropods"
+    ]
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "id": "9b3505a2-7a7c-4c7b-a48c-051b2cb02a57",
+    "data": [
+      {
+        "text": "Can I have another ",
+        "userDefined": false
+      },
+      {
+        "text": "hint",
+        "alias": "hints",
+        "meta": "@hints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505170908
+  },
+  {
+    "id": "3e536987-b4ca-412c-a338-c2bbf26d2519",
+    "data": [
+      {
+        "text": "Can I have ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hint",
+        "alias": "hints",
+        "meta": "@hints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1505170908
+  },
+  {
+    "id": "9dac7d21-f35c-4903-b234-1c553b7ab493",
+    "data": [
+      {
+        "text": "Gimme a hint",
+        "alias": "hints",
+        "meta": "@hints",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500069414
+  },
+  {
+    "id": "b48687da-d0b9-4ef3-9ae5-b97285b36b60",
+    "data": [
+      {
+        "text": "Give me a clue",
+        "alias": "hints",
+        "meta": "@hints",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b71addc7-a92d-4e0b-891a-0ea8a9951095",
+    "data": [
+      {
+        "text": "I need help",
+        "alias": "hints",
+        "meta": "@hints",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48325d4e-5ed5-46d4-84a3-df39ed8f8e62",
+    "data": [
+      {
+        "text": "I don\u0027t know",
+        "alias": "hints",
+        "meta": "@hints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7e9d99d-b94e-4ded-89a3-7abc3c5e5540",
+    "data": [
+      {
+        "text": "Hint",
+        "alias": "hints",
+        "meta": "@hints",
+        "userDefined": false
+      },
+      {
+        "text": " please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02984f29-0190-4783-88a5-bc1ae470bde1",
+    "data": [
+      {
+        "text": "Give me a hint",
+        "alias": "hints",
+        "meta": "@hints",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1810f751-472e-4acc-95e8-168f5968d955",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "hint",
+        "alias": "hints",
+        "meta": "@hints",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

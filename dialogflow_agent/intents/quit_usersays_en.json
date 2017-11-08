@@ -1,0 +1,43 @@
+[
+  {
+    "id": "b7b19874-5987-4aae-ad9a-d7837d732617",
+    "data": [
+      {
+        "text": "Quit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a3a4496-cf13-4fba-86e4-7f9da1e3af59",
+    "data": [
+      {
+        "text": "Quit game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44a0052c-d1c8-4989-b696-31239bc09f35",
+    "data": [
+      {
+        "text": "I",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " wanna quit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

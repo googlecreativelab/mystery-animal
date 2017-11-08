@@ -1,0 +1,47 @@
+{
+  "id": "c259ebe8-290a-41b7-86b9-eafb4c68e5e9",
+  "name": "animal_colors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_info",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9353e0a2-f13d-4854-be3b-69fe84d8faaa",
+          "dataType": "@animal_colors",
+          "name": "guess",
+          "value": "$guess",
+          "isList": false
+        },
+        {
+          "id": "f39f2d6e-7796-4b0b-808e-c33e812f0d76",
+          "name": "key",
+          "value": "colors"
+        },
+        {
+          "id": "96471cad-9bf7-4f71-b0c4-54f26ed3115f",
+          "name": "answertype",
+          "value": "match"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1505841168,
+  "fallbackIntent": false,
+  "events": []
+}
