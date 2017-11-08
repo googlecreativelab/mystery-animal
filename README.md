@@ -2,7 +2,7 @@
 
 Mystery Animal is a [Voice Experiment](https://voiceexperiments.withgoogle.com/mystery-animal) that lets you play a guessing game where the computer pretends to be an animal, and you have to guess what it is.
 
-![Mystery Animal](https://storage.googleapis.com/mystery-animal-assets/1280x720.gif)
+![Mystery Animal](https://storage.googleapis.com/mystery-animal-assets/Mystery_Animal_Thumbnail_1920x1080.png)
 
 Play it on a Google Home by saying “Hey Google, let's play Mystery Animal,” or try it in the browser at [g.co/mysteryanimal](https://g.co/mysteryanimal).
 
