@@ -2165,7 +2165,8 @@
         "feet",
         "eyes",
         "a tail",
-        "a back"
+        "a back",
+        "talons"
       ],
       "diurnal": "response_false",
       "layeggs": "response_true",
