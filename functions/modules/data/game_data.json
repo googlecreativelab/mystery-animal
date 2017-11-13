@@ -63,7 +63,8 @@
         "a nose",
         "nostrils",
         "a belly",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_true",
       "layeggs": "response_false",
@@ -181,7 +182,8 @@
         "a brain",
         "a heart",
         "a belly",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_false",
       "layeggs": "response_true",
@@ -197,7 +199,8 @@
         "insects",
         "worms",
         "other animals",
-        "bugs"
+        "bugs",
+        "meat"
       ],
       "class": "mammal",
       "specialinfo": [
@@ -303,7 +306,8 @@
         "tail feathers",
         "a skull",
         "a brain",
-        "a heart"
+        "a heart",
+        "a mouth"
       ],
       "diurnal": "response_true",
       "layeggs": "response_true",
@@ -323,7 +327,8 @@
         "reptiles",
         "small animals",
         "rodents",
-        "other animals"
+        "other animals",
+        "meat"
       ],
       "class": "bird",
       "specialinfo": [
@@ -405,7 +410,8 @@
         "a skull",
         "a brain",
         "a heart",
-        "eyes"
+        "eyes",
+        "a mouth"
       ],
       "diurnal": "response_sometimes",
       "layeggs": "response_true",
@@ -420,7 +426,8 @@
         "bugs",
         "pellets",
         "algae",
-        "other animals"
+        "other animals",
+        "meat"
       ],
       "class": "fish",
       "specialinfo": "Elmo's pet",
@@ -508,7 +515,8 @@
         "a heart",
         "a curly tail",
         "a long tongue",
-        "a long tail"
+        "a long tail",
+        "a mouth"
       ],
       "diurnal": "response_sometimes",
       "layeggs": "response_false",
@@ -529,7 +537,8 @@
         "flies",
         "grasshoppers",
         "other animals",
-        "plants"
+        "plants",
+        "meat"
       ],
       "class": "reptile",
       "specialinfo": [
@@ -636,7 +645,8 @@
         "bones",
         "a brain",
         "a heart",
-        "legs"
+        "legs",
+        "a mouth"
       ],
       "diurnal": "response_sometimes",
       "layeggs": "response_true",
@@ -651,7 +661,8 @@
         "flies",
         "shrimp",
         "small animals",
-        "other animals"
+        "other animals",
+        "meat"
       ],
       "class": "bird",
       "specialinfo": [
@@ -751,7 +762,8 @@
         "a heart",
         "bones",
         "thin legs",
-        "eyes"
+        "eyes",
+        "a mouth"
       ],
       "diurnal": "response_true",
       "layeggs": "response_true",
@@ -904,7 +916,8 @@
         "a waist",
         "a brain",
         "an exoskeleton",
-        "eyes"
+        "eyes",
+        "a mouth"
       ],
       "diurnal": "response_some_species",
       "layeggs": "response_true",
@@ -1026,7 +1039,8 @@
         "eyes",
         "a nose",
         "nostrils",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_true",
       "layeggs": "response_false",
@@ -1044,7 +1058,8 @@
         "insects",
         "eggs",
         "birds",
-        "other animals"
+        "other animals",
+        "meat"
       ],
       "class": "mammal",
       "specialinfo": "man's best friend",
@@ -1134,7 +1149,8 @@
         "a nose",
         "nostrils",
         "a belly",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_sometimes",
       "layeggs": "response_false",
@@ -1238,7 +1254,8 @@
         "sharp teeth",
         "nostrils",
         "a belly",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_true",
       "layeggs": "response_false",
@@ -1250,7 +1267,8 @@
         "other animals",
         "walruses",
         "reindeer",
-        "people"
+        "people",
+        "meat"
       ],
       "class": "mammal",
       "specialinfo": "",
@@ -1343,7 +1361,8 @@
         "sharp teeth",
         "a nose",
         "nostrils",
-        "a belly"
+        "a belly",
+        "a mouth"
       ],
       "diurnal": "response_false",
       "layeggs": "response_false",
@@ -1439,7 +1458,8 @@
         "a brain",
         "a heart",
         "legs",
-        "feet"
+        "feet",
+        "a mouth"
       ],
       "diurnal": "response_sometimes",
       "layeggs": "response_true",
@@ -1543,7 +1563,8 @@
         "a brain",
         "a heart",
         "bones",
-        "legs"
+        "legs",
+        "a mouth"
       ],
       "diurnal": "response_true",
       "layeggs": "response_rarely",
@@ -1653,7 +1674,8 @@
         "dome",
         "black legs",
         "an exoskeleton",
-        "legs"
+        "legs",
+        "a mouth"
       ],
       "diurnal": "response_sometimes",
       "layeggs": "response_true",
@@ -1760,7 +1782,8 @@
         "a heart",
         "cartilage",
         "sharp teeth",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_some_species",
       "layeggs": "response_false",
@@ -1775,7 +1798,8 @@
         "krill",
         "marine mammals",
         "other sharks",
-        "other animals"
+        "other animals",
+        "meat"
       ],
       "class": "fish",
       "specialinfo": "",
@@ -1859,7 +1883,8 @@
         "a short tail",
         "a belly",
         "nostrils",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_true",
       "layeggs": "response_true",
@@ -1870,7 +1895,8 @@
         "krill",
         "fish",
         "squid and other forms of sealife",
-        "other animals"
+        "other animals",
+        "meat"
       ],
       "class": "bird",
       "specialinfo": "",
@@ -1956,7 +1982,8 @@
         "teeth",
         "a belly",
         "a back",
-        "fins"
+        "fins",
+        "a mouth"
       ],
       "diurnal": "response_some_species",
       "layeggs": "response_false",
@@ -1967,7 +1994,8 @@
         "fish",
         "squid",
         "crustaceans",
-        "other animals"
+        "other animals",
+        "meat"
       ],
       "class": "mammal",
       "specialinfo": "movie Flipper",
@@ -2047,7 +2075,8 @@
         "eyes",
         "spiral shell",
         "ganglia",
-        "a short tail"
+        "a short tail",
+        "a mouth"
       ],
       "diurnal": "response_false",
       "layeggs": "response_true",
@@ -2166,7 +2195,8 @@
         "eyes",
         "a tail",
         "a back",
-        "talons"
+        "talons",
+        "a mouth"
       ],
       "diurnal": "response_false",
       "layeggs": "response_true",
@@ -2178,7 +2208,8 @@
         "insects",
         "other birds",
         "fish",
-        "other animals"
+        "other animals",
+        "meat"
       ],
       "class": "bird",
       "specialinfo": [
@@ -2267,7 +2298,8 @@
         "a nose",
         "nostrils",
         "a belly",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_false",
       "layeggs": "response_false",
@@ -2287,7 +2319,8 @@
         "walnuts",
         "other animals",
         "plants",
-        "garbage"
+        "garbage",
+        "meat"
       ],
       "class": "mammal",
       "specialinfo": "love garbage",
@@ -2401,7 +2434,8 @@
         "a brain",
         "a heart",
         "legs",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_some_species",
       "layeggs": "response_true",
@@ -2425,7 +2459,8 @@
         "insects",
         "spiders",
         "other animals",
-        "plants"
+        "plants",
+        "meat"
       ],
       "class": "invertebrate",
       "specialinfo": "",
@@ -2565,7 +2600,8 @@
         "bones",
         "legs",
         "nostrils",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_some_species",
       "layeggs": "response_true",
@@ -2710,7 +2746,8 @@
         "a short tail",
         "a nose",
         "nostrils",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_true",
       "layeggs": "response_true",
@@ -2840,7 +2877,8 @@
         "bones",
         "a long tail",
         "teeth",
-        "sharp teeth"
+        "sharp teeth",
+        "a mouth"
       ],
       "diurnal": "response_sometimes",
       "layeggs": "response_true",
@@ -2857,7 +2895,8 @@
         "small mammals",
         "voles",
         "salamanders",
-        "other animals"
+        "other animals",
+        "meat"
       ],
       "class": "reptile",
       "specialinfo": "",
@@ -2970,7 +3009,8 @@
         "a curly tail",
         "a snout",
         "a nose",
-        "nostrils"
+        "nostrils",
+        "a mouth"
       ],
       "diurnal": "response_sometimes",
       "layeggs": "response_true",
@@ -3197,7 +3237,8 @@
         "a nose",
         "nostrils",
         "a belly",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_false",
       "layeggs": "response_false",
@@ -3224,7 +3265,8 @@
         "baby elephants",
         "bears",
         "termites",
-        "other animals"
+        "other animals",
+        "meat"
       ],
       "class": "mammal",
       "specialinfo": "",
@@ -3356,7 +3398,8 @@
         "toads",
         "mice",
         "small birds",
-        "other animals"
+        "other animals",
+        "meat"
       ],
       "class": "invertebrate",
       "specialinfo": "",
@@ -3466,7 +3509,8 @@
         "a short tail",
         "nostrils",
         "a belly",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_sometimes",
       "layeggs": "response_false",
@@ -3479,7 +3523,8 @@
         "vegetation",
         "insects",
         "other animals",
-        "plants"
+        "plants",
+        "meat"
       ],
       "class": "mammal",
       "specialinfo": "",
@@ -3578,7 +3623,8 @@
         "a nose",
         "nostrils",
         "a belly",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_true",
       "layeggs": "response_false",
@@ -3693,7 +3739,8 @@
         "a nose",
         "nostrils",
         "a belly",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_true",
       "layeggs": "response_false",
@@ -3809,7 +3856,8 @@
         "bones",
         "a curly tail",
         "a muzzle",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_true",
       "layeggs": "response_false",
@@ -3831,7 +3879,8 @@
         "earthworms",
         "eggs",
         "other animals",
-        "plants"
+        "plants",
+        "meat"
       ],
       "class": "mammal",
       "specialinfo": "",
@@ -3947,7 +3996,8 @@
         "a nose",
         "nostrils",
         "a belly",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_some_species",
       "layeggs": "response_false",
@@ -3961,7 +4011,8 @@
         "milk",
         "cat food",
         "other animals",
-        "pellets"
+        "pellets",
+        "meat"
       ],
       "class": "mammal",
       "specialinfo": "9 lives",
@@ -4093,7 +4144,8 @@
         "buffaloes",
         "large animals",
         "other animals",
-        "people"
+        "people",
+        "meat"
       ],
       "class": "mammal",
       "specialinfo": "",
@@ -4194,7 +4246,8 @@
         "a nose",
         "nostrils",
         "a belly",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_false",
       "layeggs": "response_false",
@@ -4315,7 +4368,8 @@
         "sharp teeth",
         "a nose",
         "nostrils",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_true",
       "layeggs": "response_false",
@@ -4420,7 +4474,8 @@
         "sharp teeth",
         "nostrils",
         "a belly",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_true",
       "layeggs": "response_false",
@@ -4438,7 +4493,8 @@
         "stems",
         "small animals",
         "other animals",
-        "plants"
+        "plants",
+        "meat"
       ],
       "class": "mammal",
       "specialinfo": "",
@@ -4533,7 +4589,8 @@
         "a nose",
         "nostrils",
         "a belly",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_sometimes",
       "layeggs": "response_false",
@@ -4636,7 +4693,8 @@
         "a nose",
         "nostrils",
         "a belly",
-        "a back"
+        "a back",
+        "a mouth"
       ],
       "diurnal": "response_true",
       "layeggs": "response_false",
