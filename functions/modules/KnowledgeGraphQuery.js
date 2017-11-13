@@ -74,7 +74,7 @@ module.exports = class KnowledgeGraphQuery {
 					else if (types.includes("VideoGame") || types.includes("VideoGameSeries")) key = "KG_videogame";
 					else key = "KG_general";
 
-					if (description == "Animal" || description == "Fish" || description == "Reptile") key = "KG_animal";
+					if (description == "Animal" || description == "Fish" || description == "Reptile" || description == "Bird") key = "KG_animal";
 
 					// check if there are bad words
 					for (let word of split) {

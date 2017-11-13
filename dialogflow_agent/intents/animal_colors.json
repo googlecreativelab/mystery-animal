@@ -10,19 +10,19 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "9353e0a2-f13d-4854-be3b-69fe84d8faaa",
+          "id": "95d0dc22-b4dd-43df-9463-872c1fc68de7",
           "dataType": "@animal_colors",
           "name": "guess",
           "value": "$guess",
           "isList": false
         },
         {
-          "id": "f39f2d6e-7796-4b0b-808e-c33e812f0d76",
+          "id": "7fdc4f0d-865e-4dad-81c7-b596ed09c5c0",
           "name": "key",
           "value": "colors"
         },
         {
-          "id": "96471cad-9bf7-4f71-b0c4-54f26ed3115f",
+          "id": "23e6f569-aa60-41eb-9dc6-329de2bc199b",
           "name": "answertype",
           "value": "match"
         }

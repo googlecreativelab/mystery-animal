@@ -10,28 +10,28 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "cbcd05ae-2e45-4bd9-b69f-f54cb9194dbd",
+          "id": "d74a5800-9d86-4b05-a758-fbb64b4c2126",
           "dataType": "@bodyparts",
           "name": "comboBody_parts",
           "value": "$comboBody_parts",
           "isList": true
         },
         {
-          "id": "f0856a47-8e2d-494f-a6b9-c21009bc4567",
+          "id": "253f92c7-157b-45e4-841c-bf1e9ac00860",
           "dataType": "@friendlysizemass",
           "name": "comboSize",
           "value": "$comboSize",
           "isList": true
         },
         {
-          "id": "82f84d39-e12a-434f-9d3f-128fcf8018ce",
+          "id": "f90d12a7-4bc9-48f3-aa8a-11fb6a872815",
           "dataType": "@animal_colors",
           "name": "comboColor",
           "value": "$comboColor",
           "isList": true
         },
         {
-          "id": "54e3b3f5-6b02-4c22-9348-edce23fd4e96",
+          "id": "6becc046-43ff-4071-8f26-9da75d4038e8",
           "dataType": "@animal_adjectives",
           "name": "comboFeatures",
           "value": "$comboFeatures",

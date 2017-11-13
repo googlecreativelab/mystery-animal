@@ -10,19 +10,19 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "b48e616f-bfcc-4815-89bd-0242fab4fbf8",
+          "id": "e6dc5e64-c27a-4cb1-90f5-e2c4ae8b8182",
           "dataType": "@animal_adjectives",
           "name": "guess",
           "value": "$guess",
           "isList": false
         },
         {
-          "id": "2161543b-47ea-4c52-9bb5-1d78b044d71b",
+          "id": "2101e2db-12e2-4a2e-947a-04a363dc6308",
           "name": "key",
           "value": "adjectives"
         },
         {
-          "id": "e0c41110-7524-4f06-a2e0-f7d055c284ab",
+          "id": "dd60ca18-935c-40b3-a5d8-119b0eb5bd18",
           "name": "answertype",
           "value": "match"
         }

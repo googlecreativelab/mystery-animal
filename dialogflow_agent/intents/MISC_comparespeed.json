@@ -10,14 +10,14 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "f2358015-d577-43c3-813d-fe6f3accd9b1",
+          "id": "17a7acc3-279d-4909-921f-8ba90d862b14",
           "dataType": "@animals",
           "name": "guess",
           "value": "$guess",
           "isList": false
         },
         {
-          "id": "22ccaf6a-105e-4fee-bceb-ade9e120f6ab",
+          "id": "76268dea-43c9-4c47-8d64-62e19c3d07ce",
           "name": "key",
           "value": "MISC_comparespeed"
         }

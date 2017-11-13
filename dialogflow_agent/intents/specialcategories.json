@@ -10,21 +10,23 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "97353085-a4db-41d9-a7af-9c97632d687e",
+          "id": "b7157f27-8451-43e1-9445-849f03f3647c",
           "dataType": "@specialcategories",
           "name": "guess",
           "value": "$guess",
           "isList": false
         },
         {
-          "id": "bc20f50f-030c-404a-b11d-2b4cb9e60c4f",
+          "id": "ad55ace5-3c6b-4a81-bcc2-3ad8d6c05b32",
           "name": "answertype",
-          "value": "specialcategories"
+          "value": "specialcategories",
+          "isList": false
         },
         {
-          "id": "c2c2010c-585e-4ce6-929f-d72c9266fe20",
+          "id": "be69fd60-11c8-4341-a506-d13f6523d9fb",
           "name": "key",
-          "value": "specialcategories"
+          "value": "specialcategories",
+          "isList": false
         }
       ],
       "messages": [

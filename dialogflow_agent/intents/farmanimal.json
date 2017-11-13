@@ -10,20 +10,20 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "3cff4a59-993e-4e2e-9523-d6798ba1a012",
+          "id": "0ef15916-f7d4-4fc4-a1e9-5d256eddd938",
           "dataType": "@farmanimal",
           "name": "guess",
           "value": "$guess",
           "isList": false
         },
         {
-          "id": "19d35610-d5a0-483a-a477-b6ce5b453678",
+          "id": "7454bc8e-8ec8-4b06-8841-d2b487a87975",
           "dataType": "",
           "name": "key",
           "value": "farmanimal"
         },
         {
-          "id": "8615875b-09d4-4cd0-ad56-d5c9836b13f1",
+          "id": "bbe6d515-99e9-4457-820c-47e31e0f257c",
           "name": "answertype",
           "value": "yesno"
         }

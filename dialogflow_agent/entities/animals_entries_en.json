@@ -794,12 +794,6 @@
     ]
   },
   {
-    "value": "an ant",
-    "synonyms": [
-      "an ant"
-    ]
-  },
-  {
     "value": "Eastern Spinebill",
     "synonyms": [
       "Eastern Spinebill"
@@ -27397,7 +27391,8 @@
   {
     "value": "ant",
     "synonyms": [
-      "ant"
+      "ant",
+      "an ant"
     ]
   },
   {
@@ -27536,6 +27531,12 @@
     "value": "squid",
     "synonyms": [
       "squid"
+    ]
+  },
+  {
+    "value": "lobster",
+    "synonyms": [
+      "lobster"
     ]
   }
 ]
