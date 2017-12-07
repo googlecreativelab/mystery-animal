@@ -1935,7 +1935,9 @@
         "the Southern Hemisphere",
         "saltwater",
         "freshwater",
-        "water"
+        "water",
+        "aquariums",
+        "tanks"
       ],
       "migrate": "response_rarely",
       "isprey": "response_true",
@@ -2042,7 +2044,9 @@
         "Australia",
         "the Northern Hemisphere",
         "the Southern Hemisphere",
-        "water"
+        "water",
+        "aquariums",
+        "tanks"
       ],
       "migrate": "response_false",
       "isprey": "response_true",
@@ -2380,7 +2384,9 @@
         "the Southern Hemisphere",
         "the ground",
         "burrows",
-        "mud"
+        "mud",
+        "aquariums",
+        "tanks"
       ],
       "migrate": "response_some_species",
       "isprey": "response_true",
@@ -2535,7 +2541,9 @@
         "the Northern Hemisphere",
         "the Southern Hemisphere",
         "mud",
-        "burrows"
+        "burrows",
+        "aquariums",
+        "tanks"
       ],
       "migrate": "response_true",
       "isprey": "response_true",
@@ -2684,7 +2692,9 @@
         "the Southern Hemisphere",
         "water",
         "saltwater",
-        "the ocean"
+        "the ocean",
+        "aquariums",
+        "tanks"
       ],
       "migrate": "response_some_species",
       "isprey": "response_true",
@@ -2961,7 +2971,9 @@
         "the Northern Hemisphere",
         "the Southern Hemisphere",
         "water",
-        "the ocean"
+        "the ocean",
+        "aquariums",
+        "tanks"
       ],
       "migrate": "response_true",
       "isprey": "response_true",
